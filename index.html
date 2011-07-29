@@ -1,26 +1,14 @@
-<html>
-
-<head>
-	<title>this is sippey.github.com</title>
-	<link rel="stylesheet" href="styles.css" type="text/css" />
-</head>
-
-
-<body>
-
-
-<h1>this is sippey.github.com</h1>
+---
+layout: default
+title: this is sippey.github.com
+---
 
 <p>
 There's nothing to see here, move right along.  If you're really looking for things, then you should check out <a href="http://sippey.typepad.com/">sippey.typepad.com</a>.  It's a blog.  With the word "sippey" in the title.
 </p>
 
-<p>
-Thank you.
-</p>
-
-
-</body>
-
-</html>
-
+<ul class="posts">
+{% for post in site.posts %}
+  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
