@@ -7,7 +7,6 @@ title: this is sippey.github.com
 There's nothing to see here, move right along.  If you're really looking for things, then you should check out <a href="http://sippey.typepad.com/">sippey.typepad.com</a>.  It's a blog.  With the word "sippey" in the title.
 </p>
 
-<ul class="posts">
 {% for post in site.posts %}
 
 <div class="post">
@@ -16,7 +15,7 @@ There's nothing to see here, move right along.  If you're really looking for thi
 
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
-{{ content }}
+{{ post.content }}
 
 
 </div>
@@ -24,4 +23,3 @@ There's nothing to see here, move right along.  If you're really looking for thi
 
 
 {% endfor %}
-</ul>
