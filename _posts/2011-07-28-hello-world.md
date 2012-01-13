@@ -3,11 +3,14 @@ layout: default
 title: Hello, world
 ---
 
-This is a test of writing something in Jekyll and using Markdown. Let's try a bulleted list:
+# heading 1
 
-* Hello
-* this is 
-* a test
+This is a test of writing something in Jekyll and using Markdown. 
 
-Thanks!
+Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet. 
 
+* Bullet
+* Bullet
+* Bullet
+
+Another test with the thing and the other thing that we're doing.
