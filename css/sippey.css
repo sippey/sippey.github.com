@@ -53,7 +53,9 @@ body {
 
 p {
 	margin-bottom: 1em;
+	line-height : 1.5em;
 }
+
 blockquote {
   color : #666;
   font-size : 15px;
