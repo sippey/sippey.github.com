@@ -88,7 +88,7 @@ blockquote {
 }
 
 .page-content h2 a:hover {
-	text-decoration: underline;
+	border-bottom : 1px solid silver;
 }
 
 .page-content .meta {
