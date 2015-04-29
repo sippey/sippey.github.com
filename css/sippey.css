@@ -24,13 +24,13 @@ body {
 }
 
 .page-header h1 {
-	color : #00008b;
+	color : #428bca;
 	font-weight : bold;
 	font-size : 18px;
 }
 
 .page-header h1 a {
-	color : #00008b;
+	color : #428bca;
 	text-decoration: none;
 }
 
