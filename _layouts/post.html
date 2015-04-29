@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</a> <span class="meta">// {{ page.date | date_to_string }}</span></h2>
+
+<div class="post">
+{{ content }}
+</div>
+
+<div class="nav">
+
+	{% if page.next.url %} 
+		<div class="pull-left">
+			<a class="next" href="{{page.next.url}}">&laquo; {{page.next.title}}</a> 
+		</div>
+	{% endif %} 
+
+	{% if page.previous.url %} 
+		<div class="pull-right">
+			<a class="previous" href="{{page.previous.url}}">{{page.previous.title}} &raquo;</a> 
+		</div>
+	{% endif %} 
+
+</div>
