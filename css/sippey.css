@@ -24,18 +24,18 @@ body {
 }
 
 .page-header h1 {
-	color : darkblue;
+	color : #00008b;
 	font-weight : bold;
 	font-size : 18px;
 }
 
 .page-header h1 a {
-	color : #000;
+	color : #00008b;
 	text-decoration: none;
 }
 
 .page-header h1 a:hover {
-	text-decoration : underline;
+	border-bottom : 1px solid silver;
 }
 
 .page-header .meta {
