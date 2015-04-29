@@ -24,9 +24,9 @@ body {
 }
 
 .page-header h1 {
-	color : #000;
-	font-weight : 300;
-	font-size : 24px;
+	color : darkblue;
+	font-weight : bold;
+	font-size : 18px;
 }
 
 .page-header h1 a {
