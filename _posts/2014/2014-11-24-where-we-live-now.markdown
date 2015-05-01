@@ -3,7 +3,7 @@ layout: post
 title: "where we live now"
 ---
 
-Where do we live now? Duh, we live in the network. 
+Hi there.
 
 * I'm writing pretty regularly now on <a href="http://medium.com/@sippey">Medium</a>.
 * I'm doing some ~ type stuff on <a href="http://tilde.club/~sippey">tilde</a>.
