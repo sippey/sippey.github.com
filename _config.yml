@@ -1,6 +1,6 @@
-name: this is sippey.github.io
+name: this is sippey.com
 description: testing from @sippey
-url: http://sippey.github.io/
+url: http://www.sippey.com/
 markdown: redcarpet
 pygments: true
 paginate : 20
