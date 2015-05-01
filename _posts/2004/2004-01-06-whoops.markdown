@@ -1,0 +1,11 @@
+---
+layout: post
+title: "whoops"
+permalink: /2004/01/whoops.html
+---
+
+<p><a href="http://sippey.typepad.com/filtered/appledotcom.html" onclick="window.open('http://sippey.typepad.com/filtered/appledotcom.html','popup','width=885,height=635,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false"><img alt="appledotcom" src="http://sippey.typepad.com/filtered/appledotcom-thumb.gif" width="200" height="143" border="0" align="right" hspace="10" vspace="10" /></a>Wow, I guess that whole mini-iPod thing must be a hit -- after all, who wouldn't want to spend just $50 less than a white iPod in order to get a 40% of the storage capacity and <em>colors</em>.  And I guess the XServe must be the thing for my server farm.  After all, that G5 is part of the third-fastest supercomputer in the world!</p>
+
+<p>(I know, pointless bashing.  A few reloads later and the site appeared.  But, um, oops.)</p>
+
+

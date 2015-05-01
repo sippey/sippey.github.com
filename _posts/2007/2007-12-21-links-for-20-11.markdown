@@ -1,0 +1,35 @@
+---
+layout: post
+title: "links for 2007-12-21"
+permalink: /2007/12/links-for-20-11.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://weblogs.media.mit.edu/SIMPLICITY/archives/000488.html">John Maeda will be president of RISD</a></div>
+		<div class="delicious-extended">Wow!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/risd">risd</a> <a href="http://del.icio.us/msippey/maeda">maeda</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://blog.zap2it.com/lost/2007/12/a-new-trailer-a.html">A new trailer, a new list, a new theory</a></div>
+		<div class="delicious-extended">Lost has eight eps in the can that will air starting at the end of January; let the theorizing begin!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/lost">lost</a> <a href="http://del.icio.us/msippey/television">television</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.npr.org/templates/story/story.php?storyId=17494416">NPR : On the Blog: 89 Flavors of Ron Paul</a></div>
+		<div class="delicious-extended">Anil was on NPR's Bryant Park Project this morning.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/npr">npr</a> <a href="http://del.icio.us/msippey/sixapart">sixapart</a> <a href="http://del.icio.us/msippey/anil">anil</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://movies.nytimes.com/2007/12/21/movies/21char.html">A.O. Scott's Review of Charlie Wilson's War</a></div>
+		<div class="delicious-extended">Worth reading, esp for this line:  "Julia Roberts, as golden as an Oscar statue..." That's movie review poetry, folks.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/movies">movies</a> <a href="http://del.icio.us/msippey/nytimes">nytimes</a> <a href="http://del.icio.us/msippey/reviews">reviews</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://sfist.com/2007/12/21/huge_chunk_of_t.php">Huge Chunk of the Bay Bridge Floats to Half Moon Bay</a></div>
+		<div class="delicious-extended">Wow.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/sanfrancisco">sanfrancisco</a> <a href="http://del.icio.us/msippey/baybridge">baybridge</a> <a href="http://del.icio.us/msippey/sfist">sfist</a>)</div>
+	</li>
+</ul>
+
+

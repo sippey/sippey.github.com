@@ -1,0 +1,14 @@
+---
+layout: post
+title: "hektor"
+permalink: /2004/11/hektor.html
+---
+
+<p> I really want to see <a href="http://www.hektor.ch/" title="Hektor:">Hektor</a> in person.</p><blockquote><p>Hektor is a Graffiti Output Device.&nbsp; ... Hektor consists of a suitcase which contains two electric motors, a
+spray-can holder, toothed belts, cables, a strong battery and a circuit
+board which is connected to a laptop and controls the machine. The
+motors that are mounted onto the wall suspend the can holder through
+the toothed belts and define its position by changing the length of
+these belts.</p></blockquote><p>Think vector images transferred to a wall by motor.&nbsp; There's great documentation, images and movies at their site.</p>
+
+

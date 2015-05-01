@@ -1,0 +1,11 @@
+---
+layout: post
+title: "mobile"
+permalink: /2007/07/mobile.html
+---
+
+<p>Crave (dot cnet dot com) <a href="http://crave.cnet.com/8301-1_105-9750190-1.html">reviews TypePad Mobile</a>, the smartphone app we have for updating your TypePad blog (available for Windows Mobile, Symbian Series 60 and Palm devices).&nbsp; &quot;TypePad Mobile encourages photojournalism, which is what gives
+moblogging (I shudder at this every time) its edge.&quot;</p>
+
+
+

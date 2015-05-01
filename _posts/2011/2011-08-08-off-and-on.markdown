@@ -1,0 +1,18 @@
+---
+layout: post
+title: "off and on"
+permalink: /2011/08/off-and-on.html
+---
+
+<p>This weekend I managed to make it 7% of my way through James Gleick's <em><a href="http://around.com/the-information">The Information: A History, a Theory, a Flood</a>.</em>  I consider that a major accomplishment, especially since my <a href="http://www.apple.com/ipad">primary reading device</a> is essentially a beautiful <a href="http://www.avc.com/a_vc/2011/08/some-more-thoughts-on-kindle-and-reading-on-an-ipad.html">distraction machine</a>.</p>
+
+<p>I did manage to <a href="https://kindle.amazon.com/work/information-history-theory-flood-ebook/B003TWYIMM/B004DEPHUC">highlight</a> this little bit in the introduction, where Gleick recalls a letter that Claude Shannon wrote to Vannevar Bush...</p>
+
+<blockquote>
+  <p>"Off and on," Shannon wrote to Vannevar Bush at MIT in 1939, "I have been working on an analysis of some of the fundamental properties of general systems for the transmission of intelligence."</p>
+</blockquote>
+
+<p>Gleick, ever the master of restraint, doesn't bother to call out the brilliance of that first clause. He leaves that to the reader.</p>
+
+
+

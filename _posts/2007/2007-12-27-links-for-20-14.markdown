@@ -1,0 +1,35 @@
+---
+layout: post
+title: "links for 2007-12-27"
+permalink: /2007/12/links-for-20-14.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.whygodwhy.com/2007/a-dream-where/">From whygodwhy, a dream where...</a></div>
+		<div class="delicious-extended">"... everything in the world is exactly the same, except that I wrote the song 'Where Is My Mind.'"</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/thisisgood">thisisgood</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.bebo.com/FlashBox.jsp?FlashBoxId=3802959384">Prince at the Superbowl covering The Best of You</a></div>
+		<div class="delicious-extended">Woke up thinking about this performance; all the music blogs link to the no-longer-available YouTube clip, but here it is on Bebo.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/prince">prince</a> <a href="http://del.icio.us/msippey/foofighters">foofighters</a> <a href="http://del.icio.us/msippey/superbowl">superbowl</a> <a href="http://del.icio.us/msippey/music">music</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://shop.walkerart.org/?ck=PAYWKGHUVD&pk=5ACB1F23AD&CatalogID=230&section=Product&Details=5788324">Conceptual bumper sticker @ The Walker Art Center store</a></div>
+		<div class="delicious-extended">[this is good] (Thanks, Richard!)</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/art">art</a> <a href="http://del.icio.us/msippey/conceptual">conceptual</a> <a href="http://del.icio.us/msippey/stickers">stickers</a> <a href="http://del.icio.us/msippey/thisisgood">thisisgood</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.datadreamer.com/ipicons/">IPicons - by Aaron Siegel</a></div>
+		<div class="delicious-extended">"IPicons are unique visual avatars for every internet protocol address on the planet." (via rhizome)</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/art">art</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.designobserver.com/archives/030925.html">Design Observer: What's in a name?</a></div>
+		<div class="delicious-extended">Steven Heller argues for attaching real names to blog comments and online discussion.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/weblogs">weblogs</a> <a href="http://del.icio.us/msippey/identity">identity</a>)</div>
+	</li>
+</ul>
+
+

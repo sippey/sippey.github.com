@@ -1,0 +1,9 @@
+---
+layout: post
+title: "flickr"
+permalink: /2004/02/flickr.html
+---
+
+<p>Flickr.  Flickr?  <a href="http://www.flickr.com/" title="it's launched, i'm msippey">Flickr</a>!</p>
+
+

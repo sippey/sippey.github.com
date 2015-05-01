@@ -1,0 +1,25 @@
+---
+layout: post
+title: "links for 2008-01-02"
+permalink: /2008/01/links-for-2008.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/01/02/BA35U6AGK.DTL">High-rises are a sign of the times in changing San Francisco</a></div>
+		<div class="delicious-extended">"Who is going to sweep the streets and serve the lattes, and where are they going to live?"</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/sanfrancisco">sanfrancisco</a> <a href="http://del.icio.us/msippey/realestate">realestate</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.wired.com/entertainment/music/magazine/16-01/ff_yorke?currentPage=all">David Byrne and Thom Yorke on the Real Value of Music</a></div>
+		<div class="delicious-extended">"In terms of digital income, we've made more money out of this record than out of all the other Radiohead albums put together, forever."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/radiohead">radiohead</a> <a href="http://del.icio.us/msippey/music">music</a> <a href="http://del.icio.us/msippey/business">business</a> <a href="http://del.icio.us/msippey/davidbyrne">davidbyrne</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.nytimes.com/2008/01/02/business/media/02ok.html?ref=business">For Celebrity Magazine, Pregnancy Is a Bonus</a></div>
+		<div class="delicious-extended">The NYTimes on OK! possibly purchasing the Spears pregnancy story.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/journalism">journalism</a> <a href="http://del.icio.us/msippey/celebrity">celebrity</a>)</div>
+	</li>
+</ul>
+
+

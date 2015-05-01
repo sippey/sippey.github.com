@@ -1,0 +1,9 @@
+---
+layout: post
+title: "10 to 13"
+permalink: /2004/06/10_to_13.html
+---
+
+<p>Jon Udell <a href="http://weblog.infoworld.com/udell/2004/06/04.html">writes about</a> the pending <a href="http://www.isbn.org/standards/home/isbn/transition.asp">transition</a> of the ISBN code from 10 digits to 13 digits on Jan 1 2005. I wonder if a micro-market of ISBN integration consultants has popped up to exploit the opportunity to transition publishers, distributors, libraries and retailers to the new format. I'm imagining a few enterprising Y2K consultants pounding away at legacy databases and implementing middleware to translate the 13 digit code to 10 and back again...</p>
+
+

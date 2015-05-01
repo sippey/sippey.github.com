@@ -1,0 +1,20 @@
+---
+layout: post
+title: "links for 2007-12-03"
+permalink: /2007/12/links-for-200-1.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.sixapart.com/about/news/2007/12/beacons_and_lit.html">Beacons and Little Details</a></div>
+		<div class="delicious-extended">A little post about a little decision about how we implemented Beacon on TypePad and LiveJournal.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/sixapart">sixapart</a> <a href="http://del.icio.us/msippey/typepad">typepad</a> <a href="http://del.icio.us/msippey/livejournal">livejournal</a> <a href="http://del.icio.us/msippey/facebook">facebook</a> <a href="http://del.icio.us/msippey/beacon">beacon</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.sixapart.com/about/news/2007/12/six_apart_annou.html">Six Apart Announces New Home for LiveJournal</a></div>
+		<div class="delicious-extended">I'm very happy for LiveJournal and for Six Apart. Congrats to all!</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/sixapart">sixapart</a> <a href="http://del.icio.us/msippey/livejournal">livejournal</a> <a href="http://del.icio.us/msippey/sup">sup</a>)</div>
+	</li>
+</ul>
+
+

@@ -1,0 +1,45 @@
+---
+layout: post
+title: "links for 2007-11-29"
+permalink: /2007/11/links-for-200-2.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.snooth.com/">Snooth: personalized wine recommendations</a></div>
+		<div class="delicious-extended">I've been drinking more wine lately (no comments from the peanut galley, please) and have been looking for something like this. Gonna give it a shot. If you're on it, I'm "Sippey."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/wine">wine</a> <a href="http://del.icio.us/msippey/reviews">reviews</a> <a href="http://del.icio.us/msippey/recommendations">recommendations</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.nytimes.com/2007/07/18/dining/18mini.html?ei=5124&en=e76301c448a572af&ex=1342497600&partner=permalink&exprod=permalink&pagewanted=all">101 Simple Meals Ready in 10 Minutes or Less</a></div>
+		<div class="delicious-extended">These are all supposed to be summer recipes, but still such a great reference. The loser in me wants these on his iPhone for quick cooking reference goodness.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/food">food</a> <a href="http://del.icio.us/msippey/cooking">cooking</a> <a href="http://del.icio.us/msippey/recipes">recipes</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.brianoberkirch.com/2007/11/29/look-out-below/">Brian Oberkirch on the social graph, hacking Beacon, etc.</a></div>
+		<div class="delicious-extended">"People are creative about remaking things for momentary comfort. What they lack in power to restructure a system, they make up for in improvisation. That is to say: cultural hacks are natural and expected."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/facebook">facebook</a> <a href="http://del.icio.us/msippey/social">social</a> <a href="http://del.icio.us/msippey/software">software</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.nytimes.com/2007/10/06/opinion/06mathias.html?_r=2&oref=slogin&oref=slogin">The Fakebook Generation (NYTimes editorial from October)</a></div>
+		<div class="delicious-extended">"We even make a joke out of how we know one another — claiming to have met in 'Intro to Super Mario Re-enactments,' which I seriously doubt is a real course at Wesleyan, or to have lived together in a 'spay and neuter clinic' instead of the dorm."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/facebook">facebook</a> <a href="http://del.icio.us/msippey/identity">identity</a> <a href="http://del.icio.us/msippey/social">social</a> <a href="http://del.icio.us/msippey/software">software</a> <a href="http://del.icio.us/msippey/nytimes">nytimes</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.whatisleft.org/lookie_here/2007/11/the-difference.html">Chris Sacca's 'What is left?': The difference a year can make</a></div>
+		<div class="delicious-extended">Notes on the mobile work going on inside Google, and the impact of the Verizon announcement.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/google">google</a> <a href="http://del.icio.us/msippey/mobile">mobile</a> <a href="http://del.icio.us/msippey/verizon">verizon</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.43folders.com/2007/11/29/adventures-40-eyeglasses">Adventures in $40 eyeglasses</a></div>
+		<div class="delicious-extended">Matt Haughey writes an incredibly useful post; especially if you need new glasses like I do.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/health">health</a> <a href="http://del.icio.us/msippey/eyes">eyes</a> <a href="http://del.icio.us/msippey/vision">vision</a> <a href="http://del.icio.us/msippey/howto">howto</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://tinotopia.com/wordpress/archive/2007/11/28/the-iphone-and-the-kindle/">The iPhone and the Kindle</a></div>
+		<div class="delicious-extended">Long and thoughtful review / discussion on the Kindle.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/kindle">kindle</a> <a href="http://del.icio.us/msippey/amazon">amazon</a> <a href="http://del.icio.us/msippey/iphone">iphone</a> <a href="http://del.icio.us/msippey/review">review</a>)</div>
+	</li>
+</ul>
+
+

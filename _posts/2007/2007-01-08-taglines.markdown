@@ -1,0 +1,9 @@
+---
+layout: post
+title: "taglines"
+permalink: /2007/01/taglines.html
+---
+
+<p>I was going through some old stuff on <a href="http://theobvious.com/archives.html">Stating the Obvious</a> this afternoon, and came across my favorite old tagline for the long-departed site:</p><blockquote><p>Operatic in tone, trivial in scope.</p></blockquote><p>If I can say so myself, <strong>[this is good]</strong>.</p>
+
+

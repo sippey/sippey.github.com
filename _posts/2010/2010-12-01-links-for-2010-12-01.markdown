@@ -1,0 +1,25 @@
+---
+layout: post
+title: "links for 2010-12-01"
+permalink: /2010/12/links-for-2010-12-01.html
+---
+
+<ul class="delicious">
+<li>
+<div class="delicious-link"><a href="http://hollywood-elsewhere.com/2010/12/true_grit_a_mis.php">Jeffrey Wells on True Grit</a></div>
+<div class="delicious-extended">&quot;The Coens are obviously cream-of-the-crop fellows but I didn&#39;t care. Yes, I love the dialogue and don&#39;t want to see Steinfeld get hurt but other than that, I just don&#39;t give a hang about any of it. It has a certain historical charm and color but it feels too dry and cold, and it&#39;s nowhere near as amusing as I&#39;d heard it would be.&quot;</div>
+<div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/movies">movies</a>)</div>
+</li>
+<li>
+<div class="delicious-link"><a href="http://blogs.reuters.com/felix-salmon/2010/12/01/the-new-gawker-media/">The new Gawker Media</a></div>
+<div class="delicious-extended">Felix Salmon&#39;s piece is a nice complement to Denton&#39;s.</div>
+<div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/gawker">gawker</a>)</div>
+</li>
+<li>
+<div class="delicious-link"><a href="http://lifehacker.com/5701749/why-gawker-is-moving-beyond-the-blog">Why Gawker is moving beyond the blog</a></div>
+<div class="delicious-extended">&quot;Outside observers will note that this layout represents some convergence of blog, magazine and television. That&#39;s true in the abstract but it&#39;s more of a description than an argument.&quot;</div>
+<div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/gawker">gawker</a> <a href="http://www.delicious.com/msippey/design">design</a>)</div>
+</li>
+</ul>
+
+

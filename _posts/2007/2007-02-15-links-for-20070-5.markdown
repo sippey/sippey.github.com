@@ -1,0 +1,20 @@
+---
+layout: post
+title: "links for 2007-02-15"
+permalink: /2007/02/links_for_20070_5.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://us.imdb.com/title/tt0430357/">miami vice</a></div>
+		<div class="delicious-extended"> michael mann makes it new again, and he's only getting better at doing "michael mann movies."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/michaelmann">michaelmann</a> <a href="http://del.icio.us/msippey/movies">movies</a> <a href="http://del.icio.us/msippey/microreview">microreview</a> <a href="http://del.icio.us/msippey/fouroutoffivestars">fouroutoffivestars</a> <a href="http://del.icio.us/msippey/miami">miami</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.amazon.com/Henryk-Gorecki-Symphony-Sorrowful-Songs/dp/B000005J1C/statingtheobviou/">gorecki symphony 3</a></div>
+		<div class="delicious-extended">it had been a while; worth revisiting.  the first movement gets all the attention, but the second is just as good</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/microreview">microreview</a> <a href="http://del.icio.us/msippey/fouroutoffivestars">fouroutoffivestars</a> <a href="http://del.icio.us/msippey/music">music</a> <a href="http://del.icio.us/msippey/bombast">bombast</a>)</div>
+	</li>
+</ul>
+
+

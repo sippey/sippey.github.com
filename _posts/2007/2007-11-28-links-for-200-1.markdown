@@ -1,0 +1,25 @@
+---
+layout: post
+title: "links for 2007-11-28"
+permalink: /2007/11/links-for-200-1.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.43folders.com/2007/11/28/wwld-3-organizing">WWLD? No. 3: Organizing your environment</a></div>
+		<div class="delicious-extended">I really miss Leslie Harpold. Lance is doing an incredible job with this series at 43 folders, and each new entry in the series makes my eyes burn a bit. I wish he could keep this going forever.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/leslieharpold">leslieharpold</a> <a href="http://del.icio.us/msippey/lancearthur">lancearthur</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.artsjournal.com/man/2007/11/misrachs_on_the_beach_and_fall.html">Tyler Green on Richard Misrach's series 'On the Beach'</a></div>
+		<div class="delicious-extended">Misrach kept three small prints of World Trade Center jumpers on his studio wall for the four years he worked on On the Beach. "On one level or another," he says, "they inspired the whole project."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/art">art</a> <a href="http://del.icio.us/msippey/richardmisrach">richardmisrach</a> <a href="http://del.icio.us/msippey/tylergreen">tylergreen</a> <a href="http://del.icio.us/msippey/photography">photography</a> <a href="http://del.icio.us/msippey/911">911</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.connare.com/comic.htm">The history of Comic Sans</a></div>
+		<div class="delicious-extended">Blame Bob.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/fonts">fonts</a> <a href="http://del.icio.us/msippey/design">design</a>)</div>
+	</li>
+</ul>
+
+

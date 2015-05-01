@@ -1,0 +1,15 @@
+---
+layout: post
+title: "links for 2007-12-11"
+permalink: /2007/12/links-for-200-5.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://dick.tumblr.com/post/21051664">Ask First, Shoot Questions Later</a></div>
+		<div class="delicious-extended">Must see TV about lemurs and the strength that comes from building and forging a company from your own bare hands.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/dickcostolo">dickcostolo</a> <a href="http://del.icio.us/msippey/feedburner">feedburner</a> <a href="http://del.icio.us/msippey/google">google</a> <a href="http://del.icio.us/msippey/video">video</a>)</div>
+	</li>
+</ul>
+
+

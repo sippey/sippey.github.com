@@ -1,0 +1,16 @@
+---
+layout: post
+title: "mmm, tiny."
+permalink: /2010/08/mmm-tiny.html
+---
+
+<p>Ah, what a difference a decade makes. &#0160;10 years ago Stewart Butterfield kicked off this <a href="http://www.sylloge.com/5k/original.html" target="_self">little contest</a> where web folk had to produce a site that lived entirely within a 5kb. &#0160;Ten years on the fine people behind A List Apart are doing another <a href="http://10k.aneventapart.com/" target="_self">little contest</a> where your web app<em>[1]</em> needs to weigh in under 10kb.</p>
+<p>My how things have changed in the last 10 years. &#0160;Designers can reference jQuery, Prototype and Typekit, their JS can be minified, they can use the browser&#39;s local storage, and, <a href="http://10k.aneventapart.com/Faqs/" target="_self">from the FAQ</a>...</p>
+<blockquote>
+<p><strong>3.	Can I use a 3rd-party Web service like Flickr, Twitter, Google Maps, etc.?</strong> Yes, you can use as many general-purpose 3rd-party Web services as you want. The data from these Web services does not count against your 10k limit. However, cheating is not allowed. For example, entrants are not allowed to upload all project-specific design assets to Flickr and then reference them from the app to bypass the size limitation, or host project-specific code files in a Web service to bypass size restrictions.</p>
+</blockquote>
+<p>So far none of the entries are that compelling -- unless you&#39;re looking for yet another to do list. Personally, I&#39;m hoping that someone pulls out the stops and builds a &lt;10kb app framework lets visitors build their own &lt;10kb apps. Then someone else can build a &lt;10kb app store that only distributes &lt;10kb apps.</p>
+<p><em>[1] Note: sites aren&#39;t cool anymore. &#0160;Only apps are cool.</em></p>
+<blockquote></blockquote>
+
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: "links for 2007-12-25"
+permalink: /2007/12/links-for-20-13.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://shop.mtv.com/viewproduct.htm?productId=8554707&extid=df00033&campaign1=DEP:MTV:Google_Base">The T.A.M.I. Show on DVD? It can't be real...</a></div>
+		<div class="delicious-extended">MTV.com has this available for pre-order, but I can't seem to find it anywhere else. Dick Clark Productions owns it; could they finally be releasing it?</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/dvd">dvd</a> <a href="http://del.icio.us/msippey/documentary">documentary</a> <a href="http://del.icio.us/msippey/music">music</a> <a href="http://del.icio.us/msippey/jamesbrown">jamesbrown</a> <a href="http://del.icio.us/msippey/rollingstones">rollingstones</a> <a href="http://del.icio.us/msippey/beachboys">beachboys</a>)</div>
+	</li>
+</ul>
+
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title: "when the grownups show up and talk about punk rock"
+permalink: /2010/10/when-the-grownups-show-up-and-talk-about-punk-rock.html
+---
+
+<p>I usually don&#39;t go in for the web podcast thing, but when Kevin Fanning <a href="http://twitter.com/#!/kfan/status/27494858392" target="_self">tweeted</a> that he wanted to have the transcript of the <a href="http://5by5.tv/bigwebshow/23" target="_self">latest episode of 5by5</a> tattooed across his chest, I had to give it a listen. &#0160;Lo and behold, <a href="http://www.zeldman.com/" target="_self">Jeffrey Zeldman</a> talking with <a href="http://www.ftrain.com/" target="_self">Paul Ford</a> about a bunch of things...including our dearly missed friend Leslie Harpold.</p>
+<p>I&#39;ll embarrass Paul by transcribing one particular passage here. (It will embarrass him not for the sentiment, but just because Paul&#39;s a <a href="http://www.ftrain.com/AdvertisingCopy.html" target="_self">very precise writer</a>,&#0160;and I can only imagine what I&#39;d feel like having random snippets of conversation unprofessionally transcribed and excerpted...) Jeffrey and Paul were talking about the pre-blog days, the mid-to-late 90s when there was all this online zineish activity happening, and a ton of really strong personalities were mixing up their online and offline lives...with occasionally very&#0160;<em>interesting</em>&#0160;results.</p>
+<blockquote>
+<p>Leslie was this very clear, clean input at that moment. &#0160;Everybody&#39;s just trying to figure out this medium and she just sort of came in and said &quot;Actually, it&#39;s for grownups. We&#39;re here to create interesting work, and talk about punk rock and do cool stuff...&quot; And that was a good eye opener for me. &#0160;When the grownups show up it&#39;s not always a bad thing. &#0160;It can settle everyone down and say &quot;we&#39;re here to create a community and do complicated things,&quot; and it took everyone away from the <em>personal ad-ness</em> of the whole thing.</p>
+</blockquote>
+<p>Leslie was that grownup, and when she showed up she raised the game of everyone she worked with. I was lucky enough to work with her on a few things -- personally and professionally -- and she made me better, faster and stronger just by being around, and doing interesting work, and occasionally talking about punk rock.</p>
+<p>Like Jeffrey and Paul, I miss Leslie. Lately what I&#39;m missing isn&#39;t her fantasic wit or her never ending love of Diet Coke or her pitch perfect song recommendations, but that grownup perspective. She always found the right way to either pump you up or burst your bubble, depending on just how foolish you were being. And if she were still here I&#39;m sure she&#39;d have the right things to say at just the right time about all the change of the last few years -- Obama, the economic crisis, the steady decline of mainstream media, Facebook and its Aaron Sorkin movie, the Tea Party, Lady Gaga &amp; Kanye West, etc., etc.&#0160;</p>
+<p>But she&#39;s gone. And in addition to feeling that lack almost every day, I take Paul&#39;s memory of Leslie as a challenge to those of us that knew her: we&#39;re the grownups now. We need to be that clear signal. We need to create a community and do complicated things. And occasionally talk about punk rock.</p>
+
+

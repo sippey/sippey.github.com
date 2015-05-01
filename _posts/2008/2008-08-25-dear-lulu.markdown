@@ -1,0 +1,31 @@
+---
+layout: post
+title: "dear lulu"
+permalink: /2008/08/dear-lulu.html
+---
+
+<p><a style="float: right;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef00e55470bde08834-pi"><img  class="at-xid-6a00d8341c4f5f53ef00e55470bde08834" alt="Dear_lulu_08" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef00e55470bde08834-320wi" style="margin: 0px 0px 5px 5px;"></a>
+File under "blogging this to remember it now" since Tim O'Reilly's already spread the meme far and wide <a href="http://radar.oreilly.com/2008/08/a-graphic-designer-puts-print.html">via Radar</a>. Fourteen design students with Frank Philippin and James Goggin produced <a href="http://www.underconsideration.com/speakup/archives/005154.html">Dear Lulu</a>, a digital book designed to test the capabilities of on-demand digital printers.</p>
+
+<blockquote>
+  <p>My plan for the workshop is to investigate the visible and tangible parameters of graphic design — type specimens, halftone screens and, in particular, colour tests and calibration charts — and make a book of our own self-produced tests which we will send to print on Friday afternoon using the online print-on-demand system Lulu. The book project will therefore act as a colour/type/pattern test of the very system with which it is produced.</p>
+</blockquote>
+
+<p>Worth exploring since <a href="http://www.traywick.com/">Trina's</a> considering some book projects for the artists she works with...</p>
+
+<p><strong>Update:</strong></p>
+
+<p>OK, maybe not.  John <a href="http://sippey.typepad.com/filtered/2008/08/dear-lulu.html#comment-127744066">comments</a> that "I tested printing my infodesign book there and Lulu's quality was just terrible. I can't imagine using them for an art book."  And via Google Reader, Bryan Boyer shared this comment on the Waxy link...</p>
+
+<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef00e554719ea08834-pi"><img class="at-xid-6a00d8341c4f5f53ef00e554719ea08834" alt="Boyer-on-lulu" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef00e554719ea08834-500wi"  /></a></p>
+
+<p>In case you can't read that <em>(hi, googlebot!)</em> here's what he said:</p>
+
+<blockquote>
+  <p>Nice idea, but apparently Lulu uses a network of print shops across the country to fulfill their printing needs, so I'd be hesitant to put much faith in the reproductions being consistent across all their equipment.</p>
+</blockquote>
+
+<p>Blog-o-insert-your-shape-here to the rescue.</p>
+
+
+

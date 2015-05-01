@@ -1,0 +1,20 @@
+---
+layout: post
+title: "links for 2007-02-05"
+permalink: /2007/02/links_for_20070_1.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.youtube.com/watch?v=6gmP4nk0EOE">the machine is us/ing us</a></div>
+		<div class="delicious-extended">very smart and clever video / screencast</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/video">video</a> <a href="http://del.icio.us/msippey/web2.0">web2.0</a> <a href="http://del.icio.us/msippey/screencast">screencast</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.unphotographable.com/">unphotographable</a></div>
+		<div class="delicious-extended">a text account of pictures missed</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/art">art</a> <a href="http://del.icio.us/msippey/photography">photography</a>)</div>
+	</li>
+</ul>
+
+

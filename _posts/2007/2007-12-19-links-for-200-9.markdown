@@ -1,0 +1,15 @@
+---
+layout: post
+title: "links for 2007-12-19"
+permalink: /2007/12/links-for-200-9.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.artisthenewreligion.com/art_is_the_new_religion/2007/12/feliz-navidad-p.html">Feliz Navidad, part 1</a></div>
+		<div class="delicious-extended">At art is the new religion, Krissy tells the story of making her way into the Jose Feliciano show in Austin.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/music">music</a> <a href="http://del.icio.us/msippey/austin">austin</a> <a href="http://del.icio.us/msippey/krissy">krissy</a>)</div>
+	</li>
+</ul>
+
+

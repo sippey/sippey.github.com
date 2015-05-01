@@ -1,0 +1,9 @@
+---
+layout: post
+title: "lewis on s.r.b."
+permalink: /2004/06/lewis_on_srb.html
+---
+
+<p>Michael Lewis covers <a href="http://www.nytimes.com/2004/06/06/magazine/06ETHICS.html?pagewanted=all&amp;position=">socially responsible business</a> in the Sunday Times Magazine.  After speeding through the inevitable Google lede ("Don't be evil"), Lewis dives into a class at <a href="http://haas.berkeley.edu/">Haas</a> on Corporate Social Responsibility, and follows the students to Birkenstock USA, where they discover that the shoe maker "was reluctant to disclose the recipients of its philanthropy," and was donating money to causes <em>entirely unrelated to footwear</em>, like the Elizabeth Glaser Pediatric AIDS Foundation.<blockquote>The students recommended that Birkenstock ditch most of their good works and put all of their energy into a single very public act that connected up naturally to footwear. They shrewdly recommended that Birkenstock sponsor walks for causes. The cause did not matter so much as the fact that potential customers would be walking many miles on its behalf, and, somewhere along the line, encounter a giant sign that said Birkenstock.</blockquote>Birkenstock's CEO, of course, bristles at the idea; and Lewis raises the point that perhaps it's this low-key, anti-marketing driven approach that's what's <em>working</em> for Birkenstock.  "Word spreads," he argues.  And while he does circle back to the Google shareholder letter at the end of the piece, he doesn't quite connect the dots in the way I had hoped he would.  Google -- and all the rest of this Interweb stuff -- has the opportunity to amplify the Birkenstock approach to corporate philanthropy.  Let Birkenstock do good, and if the word must be spread, let the magic of http and Google do the word spreading.</p>
+
+

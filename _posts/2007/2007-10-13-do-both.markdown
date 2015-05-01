@@ -1,0 +1,14 @@
+---
+layout: post
+title: "do both"
+permalink: /2007/10/do-both.html
+---
+
+<p>John Maeda on the <a href="http://weblogs.media.mit.edu/SIMPLICITY/archives/000463.html">distinction between a manager and a leader</a>:
+
+</p>
+
+<blockquote cite="http://weblogs.media.mit.edu/SIMPLICITY/archives/000463.html"><p>A manager is the person that designs the construct of a line, sets the expectations for the line to form, thinks through how the line might be best composed and prioritized, and ensures that the queue is executed per spec. On the other hand, a leader is the person that is able to take the line forward in an orderly fashion by setting the example for others, providing the vision for how the line fits into the larger scheme of things, and engages the line-followers in a respectful manner. The manager sets up the win with perfection for her team; the leader executes the win with passion. </p></blockquote>
+
+
+

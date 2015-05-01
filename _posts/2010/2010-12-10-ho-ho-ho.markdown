@@ -1,0 +1,11 @@
+---
+layout: post
+title: "ho ho ho"
+permalink: /2010/12/ho-ho-ho.html
+---
+
+<p><iframe src="http://player.vimeo.com/video/17689191" width="560" height="315" frameborder="0"></iframe></p>
+
+<p>And a partridge in a peaaaaaaaar treeeeeeee.</p>
+
+

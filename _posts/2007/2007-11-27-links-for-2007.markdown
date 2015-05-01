@@ -1,0 +1,19 @@
+---
+layout: post
+title: "links for 2007-11-27"
+permalink: /2007/11/links-for-2007.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.nytimes.com/2007/10/28/sports/playmagazine/28lewis.html?_r=1&pagewanted=all&oref=slogin">The Kick Is Up and It’s ... A Career Killer</a></div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/via:kottke">via:kottke</a> <a href="http://del.icio.us/msippey/sports">sports</a> <a href="http://del.icio.us/msippey/football">football</a> <a href="http://del.icio.us/msippey/kickers">kickers</a> <a href="http://del.icio.us/msippey/psychology">psychology</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.techcrunch.com/2007/11/26/screenshots-and-details-on-upcoming-myspace-news-feeds/">Screenshots And Details On Upcoming MySpace “News Feeds”</a></div>
+		<div class="delicious-extended">"The process distills down to a requiring a double positive - you must agree to share with specific friends, and they must agree to subscribe. Without both sides agreeing, the information doesn’t appear."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/myspace">myspace</a> <a href="http://del.icio.us/msippey/facebook">facebook</a> <a href="http://del.icio.us/msippey/social">social</a> <a href="http://del.icio.us/msippey/software">software</a> <a href="http://del.icio.us/msippey/activitystream">activitystream</a>)</div>
+	</li>
+</ul>
+
+

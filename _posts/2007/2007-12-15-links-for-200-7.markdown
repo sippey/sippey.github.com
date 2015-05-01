@@ -1,0 +1,25 @@
+---
+layout: post
+title: "links for 2007-12-15"
+permalink: /2007/12/links-for-200-7.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://jobs.apple.com/index.ajs?BID=1&method=mExternal.showJob&RID=12122&CurrentPage=4">Please, someone take this job.</a></div>
+		<div class="delicious-extended">"The iPhone Quality team is looking for a motivated, highly-technical Exchange test/sync engineer with excellent problem solving and communication skills."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/iphone">iphone</a> <a href="http://del.icio.us/msippey/apple">apple</a> <a href="http://del.icio.us/msippey/microsoft">microsoft</a> <a href="http://del.icio.us/msippey/exchange">exchange</a> <a href="http://del.icio.us/msippey/outlook">outlook</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.nonesuch.com/Hi_Band/index_frameset2_NewReleases.cfm">jonny greenwood did the soundtrack for there will be blood</a></div>
+		<div class="delicious-extended">Will probably see the movie before picking up the soundtrack, but this could prove interesting...</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/radiohead">radiohead</a> <a href="http://del.icio.us/msippey/movies">movies</a> <a href="http://del.icio.us/msippey/soundtracks">soundtracks</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://lettersunknown.com/archives/001162.html">Ezra on The Wes Anderson Experience</a></div>
+		<div class="delicious-extended">"If The Darjeeling Limited works at all, it's as cool media: if you have siblings, if you have family dynamics to work out, if you're an American hipster try to deal with a tragedy, you might be able to project yourself into this film."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/movies">movies</a> <a href="http://del.icio.us/msippey/wesanderson">wesanderson</a> <a href="http://del.icio.us/msippey/ezracooper">ezracooper</a>)</div>
+	</li>
+</ul>
+
+

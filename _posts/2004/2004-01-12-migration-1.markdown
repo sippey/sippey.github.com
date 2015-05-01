@@ -1,0 +1,11 @@
+---
+layout: post
+title: "migration"
+permalink: /2004/01/migration_1.html
+---
+
+<p>Had to migrate Windows domains this morning.  It wasn't as bad as doing a complete <a href="http://diveintomark.org/archives/2003/08/04/xp">reinstall</a>, but if you've ever done it, you know how convoluted it is.  And then, when you actually have an account on the new domain, there's the little thing of preferences, which get completely whacked.  Both OS prefs and application prefs.  So if you're a tweaker (and trust me, I'm a tweaker), you're thrust into this foreign environment, the land of factory defaults, where things beep and whoosh and fade and scroll.</p>
+
+<p>Shudder.</p>
+
+

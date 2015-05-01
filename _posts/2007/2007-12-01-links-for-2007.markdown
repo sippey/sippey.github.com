@@ -1,0 +1,15 @@
+---
+layout: post
+title: "links for 2007-12-01"
+permalink: /2007/12/links-for-2007.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://weblog.muledesign.com/2007/11/rip_evel_knievel.php">R.I.P. Evel Knievel</a></div>
+		<div class="delicious-extended">"They are lining up Greyhound buses from America to Heaven. May you jump them all."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/sad">sad</a> <a href="http://del.icio.us/msippey/news">news</a>)</div>
+	</li>
+</ul>
+
+

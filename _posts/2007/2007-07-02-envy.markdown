@@ -1,0 +1,9 @@
+---
+layout: post
+title: "envy"
+permalink: /2007/07/envy.html
+---
+
+<p>I have iPhone envy, but not for the email and the calendar; only for the iPod component.&nbsp; I want the full screen, touch navigation, photo showing piece.&nbsp; Until they have ActiveSync OTA working (or until I'm no longer tethered to Exchange), the email / calendar / contacts syncing thing won't cut it for me.</p>
+
+

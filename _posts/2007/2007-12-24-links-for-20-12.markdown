@@ -1,0 +1,15 @@
+---
+layout: post
+title: "links for 2007-12-24"
+permalink: /2007/12/links-for-20-12.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.ted.com/index.php/talks/view/id/86">Julia Sweeney: "Letting Go of God" (an excerpt on TED Talks)</a></div>
+		<div class="delicious-extended">"It begins on the morning of her seventh birthday, when Julia learns from her Catholic parents that she has reached the age of reason, capable of being judged by God."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/video">video</a> <a href="http://del.icio.us/msippey/religion">religion</a> <a href="http://del.icio.us/msippey/ted">ted</a> <a href="http://del.icio.us/msippey/juliasweeney">juliasweeney</a>)</div>
+	</li>
+</ul>
+
+

@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Treo 600 advice"
+permalink: /2003/12/treo_600_advice_1.html
+---
+
+<p>Useful Tip #2 of the day (where Michael realizes his new role in the blogowhatever).  If you're using a Treo 600 on Sprint, go download Handspring's <a href="http://support.handspring.com/esupport/forms/hsResolutionView.jsp?Reso lutionId=9444&lstProducts=4442">beta email app</a>.  It's free, and overcomes a significant limitation in the otherwise more fully-featured Snappermail; Handspring's app allows you to attach photos directly from the Treo's in-memory picture database, instead of requiring you to first move the photos to an SD card, a step that pretty much killed the spontaneity of emailing off a pic.</p>
+
+<p>In related news, here are some <a href="http://sippey.typepad.com/photos/mophotos/">mophotos</a>.</p>
+
+<p>Tomorrow, maybe some cooking and house cleaning tips.  I'm on a roll, here.</p>
+
+

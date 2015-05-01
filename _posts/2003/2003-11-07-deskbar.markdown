@@ -1,0 +1,9 @@
+---
+layout: post
+title: "deskbar"
+permalink: /2003/11/deskbar.html
+---
+
+<p>I know it's beta, but why the heck does the <a href="http://toolbar.google.com/deskbar/">Google deskbar</a> waste so much real estate in its result set by insisting on showing the Google logo and nav?  The design intent of the tool is right on:  provide fast, reasonably unobtrusive access to Google services in a keyboard-friendly manner.  They nailed the taskbar component, but need to refine the search results component by developing a custom results page that (a) optimizes screen real estate and (b) leverages the keyboard-friendly nature of the rest of the app.  Personally, I'm hoping for an alternate UI that ditches the browser component and displays results in a richer client...</p>
+
+

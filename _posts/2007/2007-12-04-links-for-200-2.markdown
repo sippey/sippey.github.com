@@ -1,0 +1,20 @@
+---
+layout: post
+title: "links for 2007-12-04"
+permalink: /2007/12/links-for-200-2.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://inclusive.wordpress.com/2007/12/04/big-news/">The Cold Inclusive sells a TV Pilot to YouTube</a></div>
+		<div class="delicious-extended">"So the hook for 'Infrastructure' is that we guarantee the winner the tools, support and resources to keep them famous indefinitely."</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/thisisgood">thisisgood</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.youtube.com/watch?v=fi4fzvQ6I-o">YouTube - Here Comes Another Bubble</a></div>
+		<div class="delicious-extended">I made it through about 20 seconds of this before the Billy Joel got to me and made me claw my ears right off of my head. Or hit the "pause" button. One or the other.</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/thisisbad">thisisbad</a>)</div>
+	</li>
+</ul>
+
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "flatness"
+permalink: /2010/06/flatness.html
+---
+
+<p>This feels a little bit like 20/20 hindsight, but here's <a href="http://blogs.hbr.org/cs/2010/06/why_bp_crashed_and_killed_the.html">an interesting post at HBR</a> from two management consultants about the impact that BP's 2007 internal reorganization (designed to make their massive org chart "flatter") may have had on the spill.</p>
+
+<blockquote>
+  <p>The risk an organization faces by eliminating levels — especially when it's done in a one-size-fits-all way as per BP — is that it will severely damage its capacity to manage complexity. And reality is complex. When it comes to decision-making, any universal imperative that forces sub-organizations to flatten and pushes teams to expand in size regardless of local circumstances is foolish.</p>
+
+  <p>This wasn't obvious at the time. BP raked in record profits over the past two years — although it also developed quite a record for safety violations. But the oversimplification of management structure — which played out on rigs as well as in cubicles — was a disaster waiting to happen. The evidence is in eyewitness reports of management conflicts in the frenzied few hours before the blowout. More proof is in the inept efforts to stanch the flow, the clueless non-mobilization of cleanup resources based on inaccurate information, the convoluted claims process, the lack of sufficient equipment to capture the spewing oil, and finally the finger-pointing and the don't-blame-me CEO.</p>
+</blockquote>
+
+<p>Even if it is all hindsight, I like their core point: flatter is not always better.</p>
+
+
+

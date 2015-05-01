@@ -1,0 +1,13 @@
+---
+layout: post
+title: "jakob"
+permalink: /2004/04/jakob.html
+---
+
+<p>Bravely pioneering the study of bystander usability, Jakob Nielsen discovers that -- wait for it -- <a href="http://www.useit.com/alertbox/20040412.html">mobile phones are annoying</a>!</p>
+
+<blockquote>Bystanders rated mobile-phone conversations as dramatically more noticeable, intrusive, and annoying than conversations conducted face-to-face. While volume was an issue, hearing only half a discussion also seemed to up the irritation factor.</blockquote>
+
+<p>Be sure to tune in two weeks from now, when Jakob releases the definitive study of "over the shoulder" usability, which finds that office snoops prefer their colleagues to view sites with large, legibile fonts and avoid use of those snap-on glare filters that make it impossible to catch a walk-by glimpse of the latest BoingBoing <a href="http://www.boingboing.net/2004/04/12/h_is_for_hentai_jlis.html" title="we're so hip we're gonna have a teevee show">fetish thing</a>.</p>
+
+

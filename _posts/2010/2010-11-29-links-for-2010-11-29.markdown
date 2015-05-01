@@ -1,0 +1,37 @@
+---
+layout: post
+title: "links for 2010-11-29"
+permalink: /2010/11/links-for-2010-11-29.html
+---
+
+<ul class="delicious"><li>
+                <div class="delicious-link"><a href="http://www.newyorker.com/arts/critics/cinema/2010/12/06/101206crci_cinema_denby?currentPage=2">David Denby on Anne Hathaway in &quot;Love and Other Drugs&quot;</a></div>
+                <div class="delicious-extended">&quot;Hathaway’s features are so big and bright that they seem to take over her face; she can look like a clown in some shots, and ravishing in others. But she’s not just vivid and generously expressive; she has become, in her last few roles, a high-flying actress who reveals everything that’s inside her characters.&quot;  (Also, I hear she&#039;s naked a lot.)</div>
+                <div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/annehathaway">annehathaway</a> <a href="http://www.delicious.com/msippey/movies">movies</a> <a href="http://www.delicious.com/msippey/newyorker">newyorker</a>)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.complex.com/CELEBRITIES/Cover-Story/kanye-west-project-runaway">Noah Callahan-Bever&#039;s long piece on Kanye West in Hawaii</a></div>
+                <div class="delicious-extended">&quot;Then RZA walks in the room. And of course he&#039;s got on sunglasses inside. And of course he&#039;s wearing an all-black Ed Hardy-esque ensemble with matching dragon tattoo prints that start on his baseball cap, slither down his T-shirt, and end on his cargo pants. And of course he pulls out a Bobby Digital customized Akai drum machine with the Zorro mask and Wu logo on its face. Because that&#039;s what you do when you&#039;re a motherfucking national treasure. BONG!&quot;</div>
+                <div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/kanyewest">kanyewest</a> <a href="http://www.delicious.com/msippey/music">music</a>)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://bygonebureau.com/2010/11/29/best-new-blogs-of-2010/">The Best New Blogs of 2010</a></div>
+                <div class="delicious-extended">Yes, yes and yes.</div>
+                <div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/blogging">blogging</a> <a href="http://www.delicious.com/msippey/lists">lists</a>)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://rc3.org/2010/11/29/the-search-engine-game/">More on Google, this time from Rafe Colburn</a></div>
+                <div class="delicious-extended">&quot;In some ways, they have the biggest fraud problem on the Internet. Publishers, online merchants, search engine optimizers, content farmers and everyone else are trying to drive traffic to their sites. One of the best ways to do so is to juice your rank in Google , and it’s often cheaper to do so by breaking Google than it is by building something good and promoting your site honestly. I feel for the Googlers whose job it is to stay one step ahead of all of those people — they’re losing the war.&quot;</div>
+                <div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/google">google</a> <a href="http://www.delicious.com/msippey/search">search</a> <a href="http://www.delicious.com/msippey/rafecolburn">rafecolburn</a>)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.quora.com/Max-Levchin/Among-your-lessons-learned-as-a-young-entrepreneur-which-are-the-greatest">Max Levchin answers a question about lessons learned as a young entrepreneur</a></div>
+                <div class="delicious-extended">&quot;Being an entrepreneur is not about being in love with an idea, it&#039;s about being in love with running a company.&quot;</div>
+                <div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/entrepreneurship">entrepreneurship</a> <a href="http://www.delicious.com/msippey/management">management</a> <a href="http://www.delicious.com/msippey/maxlevchin">maxlevchin</a>)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://searchengineland.com/googles-gold-standard-results-take-hit-new-york-times-57081">Danny Sullivan&#039;s fantastic follow up to David Segal&#039;s piece about DecorMyEyes</a></div>
+                <div class="delicious-extended">&quot;It’s all stuff that can be dismissed as &#039;inside baseball&#039; and not what typical people care about. But typical people do care, do get puzzled, as Segal was as he explored this case. And what Google ranks tops can have a terrible impact on real consumers.&quot;</div>
+                <div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/google">google</a> <a href="http://www.delicious.com/msippey/seo">seo</a> <a href="http://www.delicious.com/msippey/search">search</a>)</div>
+            </li><li>
+                <div class="delicious-link"><a href="http://www.nytimes.com/2010/11/29/technology/29google.html?_r=2&amp;pagewanted=all">Eric Schmidt&#039;s money quote from the Google brain drain bit in the Times</a></div>
+                <div class="delicious-extended">“There was a time when three people at Google could build a world-class product and deliver it, and it is gone,” Mr. Schmidt said. “So I think it’s absolutely harder to get things out the door. That’s probably our biggest strategic issue.”</div>
+                <div class="delicious-tags">(tags: <a href="http://www.delicious.com/msippey/google">google</a> <a href="http://www.delicious.com/msippey/nytimes">nytimes</a>)</div>
+            </li></ul>
+
+

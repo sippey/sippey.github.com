@@ -1,0 +1,9 @@
+---
+layout: post
+title: "the move"
+permalink: /2003/10/the_move.html
+---
+
+<p>Like many before me, I've finally seen the light and moved operations over to <a href="http://typepad.com/" title="congrats to SixApart on their launch">Typepad</a>.  Gone are the worries over server uptime, database connectivity issues, patching MT every once in a while, etc.  Not that it was that worrying; it's just nice to be reminded that you can <i>pay someone else</i> to worry about those things, and still get damned good piece of publishing software that supports all the tags you've come to know and love.  That, and the Typepad servers are speedy, the photo albums convenient, the posting by email useful, etc., etc.  You know the drill.  Here endeth the ad.</p>
+
+

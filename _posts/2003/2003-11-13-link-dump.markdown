@@ -1,0 +1,20 @@
+---
+layout: post
+title: "link dump"
+permalink: /2003/11/link_dump.html
+---
+
+<p>Eight links in four minutes.  (Yeah, I used to run one of those sideblogs, but what a frickin' <i>chore</i> that was.)</p>
+
+<ul>
+<li><a href="http://www.digdb.com/">DigDB Excel Add-in Toolkit</a>.  Overcome the massive shortcoming in Excel (otherwise probably the best product Microsoft's ever released) that prevents you from calculating a median inside a pivot table.</li>
+<li><a href="http://www.kottke.org/03/11/the-matrix-revolutions">Kottke's Matrix Revolutions thread</a>.  My theory?  Neo's now the Oracle.</li>
+<li><a href="http://www.burningdoor.com/dick/archives/000215.html">Dick Costolo cracks the Hollywood code</a>.  Secrets revealed!</li>
+<li><a href="http://hub.interaction-ivrea.it/">The Hub:  Intersections of Interaction Design</a>.  Go Molly, go.</li>
+<li><a href="http://www.thinkblank.com/santa2003/">Secret Santa has returned!</a>  "Dear Friend, the concept is so easy / Pull names from hats and buy a gift! / Something tasteful - (not too sleazy) / Is sure to make their spirits lift..." (I'm clearly in need of more websites that rhyme.)</li>
+<li><a href="http://www.sonystyle.com/is-bin/INTERSHOP.enfinity/eCS/Store/en/-/USD/SY_DisplayProductInformation-Start;sid=T2DqRyBeXT7qfh_qbhrgTG9ReoOWR5PE1AQ=?CategoryName=pr_p_newcentrinonotebook_cpu&ProductSKU=PCGTR2AP1">New Sony Vaio TR2</a>.  Small is beautiful.</li>
+<li><a href="http://www.marginalia.org/code/mt.el">MT.el</a>:  abuse the metaweblog API right from emacs.</li>
+<li><a href="http://www.mobileplanet.com/private/covertec/product.asp?unit=H.T600">Covertec cases for the Treo 600</a>.  Love the device, debating the case.</li>
+</ul>
+
+

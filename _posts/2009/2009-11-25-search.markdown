@@ -1,0 +1,16 @@
+---
+layout: post
+title: "search"
+permalink: /2009/11/search.html
+---
+
+<form id="search-blog" method="get" action="http://www.sippey.com/.services/blog/6a00d8341c4f5f53ef00e5501b0f888834/search"> 
+
+<input name="filter.q" results="10" value="" style="padding:3px; font-family:Helvetica,Arial; font-size:16px; border:1px solid silver; width:400px;" />
+
+<input type="submit" value="Go" style="font-family:Helvetica,Arial; font-size:16px; padding:3px;" /> 
+
+</form>
+
+
+

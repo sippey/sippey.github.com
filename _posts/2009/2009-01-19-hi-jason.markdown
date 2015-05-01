@@ -1,0 +1,13 @@
+---
+layout: post
+title: "font-family declarations are your new bicycle"
+permalink: /2009/01/hi-jason.html
+---
+
+<p>I was wondering why <a href="http://www.kottke.org/09/01/regarding-the-new-design">Kottke looked the way it did</a><sup><strong>1</strong></sup>, all Helvetica&#39;d up; I thought Jason would be a bit more original than that. Then I viewed source and quickly wrote up a whole post in my head about how his font-family declaration is specifying Hoefler &amp; Frere-Jones&#39; <a href="http://www.typography.com/fonts/font_overview.php?productLineID=100026">Whitney</a><sup><strong>2</strong></sup> as the default font. &#0160;My shocking post title was going to be something along the lines of &quot;It&#39;ll cost you $499 to read Kottke the way God intended.&quot; But then he went and posted all about it himself, scooping me on scooping him, the bastard.</p>
+
+<p><sup><strong>1</strong></sup> For the record, I like the blue border, and the descriptive header, and the site when rendered in Whitney or Myriad.</p>
+
+<p><sup><strong>2</strong></sup> And here&#39;s the conspiracy theory / hater shiv between the ribs, just for kicks. Jason&#39;s blogged an awful lot about Hoefler &amp; Frere-Jones over the years; do you think he paid for Whitney? Or could this be a way for Hoefler or Frere-Jones to make their way about town saying &quot;Hey, bring up Kottke.org, wouldja? I need to check something...&quot; and then shouting &quot;Hey! Did you <em>pay</em> for Whitney???&quot;</p>
+
+

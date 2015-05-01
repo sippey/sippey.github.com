@@ -1,0 +1,20 @@
+---
+layout: post
+title: "links for 2007-02-07"
+permalink: /2007/02/links_for_20070_3.html
+---
+
+<ul class="delicious">
+	<li>
+		<div class="delicious-link"><a href="http://www.heynorton.org/blog/2007/02/full_stop_two_s.html">ken norton on one space or two.</a></div>
+		<div class="delicious-extended">there are more than a few people i work with who watch me type sentences and say "what, did you grow up with typewriters?"</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/typing">typing</a> <a href="http://del.icio.us/msippey/habits">habits</a>)</div>
+	</li>
+	<li>
+		<div class="delicious-link"><a href="http://www.bryanboyer.com/notes/2007-02-02.php">bryan boyer on the nintendo news network</a></div>
+		<div class="delicious-extended">"The Wii doesn't necessarily represent a great leap forward in interaction (all of its technologies have existed for quite a while). What it does best is prove the benefits of careful, steady application and refinement of technological advances to result</div>
+		<div class="delicious-tags">(tags: <a href="http://del.icio.us/msippey/nintendo">nintendo</a> <a href="http://del.icio.us/msippey/wii">wii</a> <a href="http://del.icio.us/msippey/design">design</a>)</div>
+	</li>
+</ul>
+
+

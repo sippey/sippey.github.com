@@ -1,0 +1,17 @@
+---
+layout: post
+title: "timeline"
+permalink: /2004/03/timeline.html
+---
+
+<p>Since <a href="http://www.sociate.com/blog/archives/2004_02_01_archive.html#107774578416072628">Jerry Michalski</a> and <a href="http://www.kottke.org/remainder/04/03/5276.html">Jason Kottke</a> have already posted about this, I figure it's about time I write about <a href="http://www.sippey.com/timeline/">sippey.com/timeline</a> here.</p>
+
+<p>Living in northern California for the past 13+ years, I've basically given up on any ability I used to have to place events from recent history in any kind of date context.  You see, the lack of any extreme weather variability (we don't have seasons here, the way that folks in, say, upstate New York have seasons) makes it impossible to remember things like "when were the inlaws here?"  (Was that April?  July?  November?  I remember it being cool and foggy, with a bit of wind...)  So a couple of years ago I started keeping simple timelines -- "major" personal events over the course of a year, to make it easier to scan a period of time without being bogged down in the dozens of weekly appointments that clog the day-to-day calendar.</p>
+
+<p>I'm in the messaging business.  Focused -- today -- on email.  But lately I've been interested in how messages (of all stripes) could more effectively be integrated into where we best process specific types of information.  Your average inbox is not great at organizing time-oriented material, especially reminders about events that will take place in the future -- calendars are obviously better at that.  And with iCal (the format, not the app), it becomes reasonably brainless to publish individual events and/or a stream of events out to users.  Case in point:  it was probably less than one day of effort for the engineers at Expedia to add a downloadable calendar event to your online travel itinerary.  But the fact that I can automagically pop my flight info into Outlook is at the top of my list of reasons why I'm loyal to Expedia.</p>
+
+<p>So, anyway.  Sippey.com/timeline is the result of some noodling on those two issues.  A single page view of a year.  Which is also rendered in <a href="http://sippey.com/timeline/cal/month.php">calendar form</a>, and made available for <a href="http://sippey.com/timeline/sippey.ics">layering</a> on top of <i>your</i> calendar.  It's hindsight publishing, of course (this <i>did</i> happen on this day, instead of this is <i>going</i> to happen on this day).  But calendars are not only planning tools, they're rememberance agents.  And layering information like major news stories, weather (a la Jerry's story about his old DayPlanner habits), sports scores and even personal bloggish notations could be an interesting use of the iCal format.</p>
+
+<p>Related question:  is anyone doing anything interesting with iCal beyond <i>event</i> data?  Are there any "X of the day" publishers providing iCal subscriptions?  Any journal-ists spilling their secrets in calendar form, instead of on LiveJournal?</p>
+
+
