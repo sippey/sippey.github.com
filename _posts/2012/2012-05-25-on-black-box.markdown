@@ -10,9 +10,7 @@ permalink: /2012/05/on-black-box.html
   <p>Several of my long-standing fictional interests converged in the writing of “Black Box.” One involves fiction that takes the form of lists; stories that appear to be told inadvertently, using a narrator’s notes to him or herself. ... I’d also been wondering about how to write fiction whose structure would lend itself to serialization on Twitter. This is not a new idea, of course, but it’s a rich one—because of the intimacy of reaching people through their phones, and because of the odd poetry that can happen in a hundred and forty characters. </p>
 </blockquote>
 
-<p>She wrote the story in a notebook that is probably intended for sketching storyboards...but whose black boxes now just look like textareas:</p>
-
-<p><a href="http://www.newyorker.com/online/blogs/books/2012/05/coming-soon-jennifer-egan-black-box.html"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef016305d0bea3970d" alt="Egan-textareas" title="Egan-textareas" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef016305d0bea3970d-500wi" /></a></p>
+<p>She wrote the story in a notebook that is probably intended for sketching storyboards...but whose black boxes now just look like textareas.</p>
 
 <p>The 140 character limit necessarily impacts her prose and the story she's telling. But what I love is how Twitter turns each of the "narrator's notes" into individual, addressable objects, each with a social life of its own. I haven't pulled stats on every Tweet, but just eyeballing it, several hours after the initial delivery of Tweets the line with the most social heat (RTs and favorites) appears to be this one...</p>
 
