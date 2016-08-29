@@ -2,6 +2,6 @@ name: this is sippey.com
 description: from @sippey
 url: http://www.sippey.com/
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 paginate : 20
 paginate_path: "page/:num"
