@@ -1,7 +1,7 @@
 name: this is sippey.com
 description: from @sippey
 url: http://www.sippey.com/
-markdown: redcarpet
+markdown: kramdown
 highlighter: rouge
 paginate : 20
 paginate_path: "page/:num"
