@@ -14,7 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font-family : Helvetica, Arial, "Times New Roman", Times;
+  font-family : "Noto Serif," Helvetica, Arial, "Times New Roman", Times;
   text-align: center;
   font-size : 13px;
   color : #333;
