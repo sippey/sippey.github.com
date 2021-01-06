@@ -6,7 +6,7 @@ permalink: /2004/04/notes_on_gmail.html
 
 <p>Because I'm just a bit obsessive about email, a few notes on the <a href="http://fury.com/article/1990.php">screenshots of Gmail</a> posted by Kevin Fox.</p>
 
-<ul><li>Primary button for managing messages?  <b>Archive.</b>  Not delete, archive.  I'm sure there's a delete action in the "more actions..." dropdown.  Reinforces the two key value props of the service:  a gig of storage, and email search.*  This also signals to me that they must be fairly confident in their spam filtering...
+<ul><li>Primary button for managing messages?  <b>Archive.</b>  Not delete, archive.  I'm sure there's a delete action in the "more actions..." dropdown.  Reinforces the two key value props of the service:  a gig of storage, and email search.*  This also signals to me that they must be fairly confident in their spam filtering...</li>
 <li>The conversation threading is interesting; especially the toggle for "show quoted text."  The rules around <i>that</i> must be interesting.</li>
 <li>Assume that clicking on the little blue star is the equivalent of flagging a message in Outlook.  I'm not gonna file this, but I need to be able to find it quickly for action.</li>
 <li>Assume that multiple labels can be assigned to each message.  Voila, virtual folders.</li>
