@@ -16,7 +16,7 @@
 /* global styles */
 
 body {
-	font-size : 16px;
+	font-size : 18px;
 	line-height: 160%;
 	color : #333;
 	font-weight : 400;
@@ -30,7 +30,7 @@ body {
 .page-header h1 {
 	color : #428bca;
 	font-weight : bold;
-	font-size : 24px;
+	font-size : 1.4rem;
 }
 
 .page-header h1 a {
@@ -43,7 +43,7 @@ body {
 }
 
 .page-header .meta {
-	font-size : 16px;
+	font-size : 0.9rem;
 	color : gray;
 	margin-left : 5px;
 	font-weight: normal;
@@ -61,11 +61,11 @@ p {
 
 blockquote {
 	color : #666;
-	font-size : 15px;
+	font-size : 0.9rem;
 	margin-top : 0px;
 	margin-bottom : 1em;
-	padding-top : 0px;
-	padding-bottom : 0px;
+	padding-top : 0;
+	padding-bottom : 0;
 	margin-left : 10px;
 	padding-left : 10px;
 	border-left : 1px solid silver;
@@ -80,7 +80,7 @@ blockquote {
 }
 
 .page-content h2 {
-	font-size : 20px;
+	font-size : 1.2rem;
 	font-weight : bold;
 	margin-bottom : 12px;
 	margin-top : 8px;
@@ -97,7 +97,7 @@ blockquote {
 }
 
 .page-content .meta {
-	font-size : 14px;
+	font-size : 0.9rem;
 	color : gray;
 	margin-left : 10px;
 	font-weight: normal;
