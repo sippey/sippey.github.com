@@ -101,6 +101,7 @@ blockquote {
 	color : gray;
 	margin-left : 10px;
 	font-weight: normal;
+	text-transform: capitalize;
 }
 
 .index-post {
