@@ -44,8 +44,7 @@ body {
 
 .page-header .meta {
 	font-size : 14px;
-	font-weight : 300;
-	color : silver;
+	color : gray;
 	margin-left : 5px;
 }
 
@@ -99,7 +98,6 @@ blockquote {
 .page-content .meta {
 	font-size : 14px;
 	color : gray;
-	font-weight : 300;
 	margin-left : 10px;
 	text-transform: lowercase;
 }
