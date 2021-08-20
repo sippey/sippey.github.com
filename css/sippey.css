@@ -50,7 +50,7 @@ body {
 }
 
 .page-header .meta a {
-	color : silver;
+	color : gray;
 }
 
 
@@ -100,7 +100,6 @@ blockquote {
 	font-size : 14px;
 	color : gray;
 	margin-left : 10px;
-	text-transform: lowercase;
 	font-weight: normal;
 }
 
