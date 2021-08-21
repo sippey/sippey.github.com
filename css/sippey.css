@@ -58,6 +58,12 @@ p {
 	line-height : 160%;
 }
 
+li {
+	font-size: 0.9em;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
 blockquote {
 	color : #666;
 	font-size : 0.9em;
