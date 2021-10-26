@@ -9,4 +9,4 @@ Lorin Hochstein has a great, short post about [the distinction between modernism
 
 Thought experiment: define “our organizations” in the paragraph above at different scales: individuals, teams, teams of teams, companies, industries, states, nations, the planet. Where can you escape the past? Where _must_ you have the modernist’s optimism to believe you can?
 
-[_Originally published on Medium_](https://sippey.medium.com/the-optimism-of-modernists-c747137056c4)_._
+_(_[_Originally published on Medium_](https://sippey.medium.com/the-optimism-of-modernists-c747137056c4)_.)_
