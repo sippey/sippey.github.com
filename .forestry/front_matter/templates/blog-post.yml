@@ -16,19 +16,7 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: layout
-  type: select
-  default: []
-  config:
-    required: false
-    options:
-    - post
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
-  label: layout
+  default: now
 pages:
 - _posts/1995/1995-08-15-mid-august-miscellany.md
 - _posts/2021/hello-world.md
