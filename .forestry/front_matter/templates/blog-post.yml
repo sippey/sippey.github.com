@@ -29,3 +29,5 @@ fields:
       file: 
       path: 
   label: layout
+pages:
+- _posts/1995/mid-august-miscellany.md
