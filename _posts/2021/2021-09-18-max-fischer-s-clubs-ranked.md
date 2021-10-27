@@ -26,3 +26,5 @@ It’s college application season, and I can personally attest that there are a 
 19. Piper Cub Club, 4.5 hours logged
 
 ¹ Also, I had this list kicking around in my Notes app, just begging to be shared.
+
+_(_[_Originally published on Medium_](https://sippey.medium.com/max-fischers-clubs-ranked-b9cd347e6b7e)_.)_
