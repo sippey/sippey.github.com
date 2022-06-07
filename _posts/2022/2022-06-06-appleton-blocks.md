@@ -3,7 +3,7 @@ title: "it's LEGO all the way down"
 layout: post
 ---
 
-[Maggie Appleton](https://maggieappleton.com/) gave a great talk at [Sanity](https://www.sanity.io/)’s [Structured Content Conference](https://structuredcontent.live/) a couple weeks ago titled **The Block-Paved Path to Structured Data**. I missed it in person, but caught up with the [YouTube](https://www.youtube.com/watch?v=AHblHPLoKKE), and her [well-designed site for the talk](https://maggieappleton.com/block-data), which includes the text of her talk presented alongside her slides (oh how I wish more people did this). 
+[Maggie Appleton](https://maggieappleton.com/) gave a great talk at [Sanity](https://www.sanity.io/)’s [Structured Content Conference](https://structuredcontent.live/) a couple weeks ago titled *The Block-Paved Path to Structured Data*. I missed it in person, but caught up with the [YouTube](https://www.youtube.com/watch?v=AHblHPLoKKE), and her [well-designed site for the talk](https://maggieappleton.com/block-data), which includes the text of her talk presented alongside her slides (oh how I wish more people did this). 
 
 Way back in the olden days, I was part of the crew involved in “microformats,” the precursor to JSON-LD. All the apps that we envisioned that would take advantage of all of these little snippets of structured data never really materialized, and instead we were just doing all that markup work for the Google to improve SEO. This is still the case, almost 20 years on. Why do JSON-LD? For the googlebot. Ah, the power of platforms.
 

@@ -7,16 +7,32 @@ title: hello
 
     {% for post in paginator.posts %}
 
-    <div class="index-post">
+	{% if post.layout == "links" %}
 
-		<div class="meta">{{ post.date | date: '%b %d, %Y' }}</div>
-    	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+		<div class="index-links">
 
-		<div class="post">
-		{{ post.content }}
+			<div class="meta"><a href="{{ post.url }}">links from {{ post.date | date: '%b %d, %Y' }}</a></a></div>
+
+			<div class="post">
+			{{ post.content }}
+			</div>
+		
 		</div>
-	
-	</div>
+
+	{% else %}
+
+		<div class="index-post">
+
+			<div class="meta">{{ post.date | date: '%b %d, %Y' }}</div>
+			<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+			<div class="post">
+			{{ post.content }}
+			</div>
+		
+		</div>
+
+	{% endif %}
 
 	{% endfor %}
 
