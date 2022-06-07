@@ -1,7 +1,7 @@
 ---
 date: 2021-06-02 04:20:27 +0000
 title: '"I assumed that this will fail"'
-
+layout: post
 ---
 Marcin Wichary on [The Making of Four Laps](https://medium.com/the-rectangle-behind-you/the-making-of-four-laps-e20dd59271af):
 

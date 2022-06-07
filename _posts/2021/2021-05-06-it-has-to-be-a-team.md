@@ -1,7 +1,6 @@
 ---
-date: 2021-05-06 21:12:29 +0000
 title: it has to be a team
-
+layout: post
 ---
 [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine), how does he do it? Seriously, there must be a team of people that are “Matt Levine.” There’s no way it’s just him, right? Every day with things like this, a graf from [today’s newsletter](https://www.bloomberg.com/opinion/articles/2021-05-06/dogecoin-is-up-because-it-s-funny) about Dogecoin.
 

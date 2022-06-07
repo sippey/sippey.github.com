@@ -1,7 +1,7 @@
 ---
 date: 2021-09-18 04:21:29 +0000
 title: Max Fischer's clubs, ranked
-
+layout: post
 ---
 It’s college application season, and I can personally attest that there are a lot of high school seniors that are currently stressing about their GPAs, their standardized test scores, their essays…and their extra-curricular activities. As a reminder of just how absurd this whole process is, here’s a list of the club activities of possibly the greatest extra curricular film participant of all time, [Rushmore](https://www.imdb.com/title/tt0128445/)’s Max Fischer…ranked by potential attractiveness to college admissions officers.¹
 

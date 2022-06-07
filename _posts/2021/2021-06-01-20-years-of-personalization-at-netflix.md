@@ -1,7 +1,7 @@
 ---
 date: 2021-06-01 23:08:28 +0000
 title: 20 years of personalization at Netflix
-
+layout: post
 ---
 Gibson Biddle has an amazing retrospective of [20 years of personalization at Netflix](https://gibsonbiddle.medium.com/a-brief-history-of-netflix-personalization-1f2debf010a1), and its role in the company’s product strategy. The screenshots alone are worth the trip down memory lane.
 

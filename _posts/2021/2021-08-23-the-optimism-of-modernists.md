@@ -1,7 +1,7 @@
 ---
 date: 2021-08-23 23:04:32 +0000
 title: the optimism of modernists
-
+layout: post
 ---
 Lorin Hochstein has a great, short post about [the distinction between modernism and post-modernism](https://surfingcomplexity.blog/2021/08/20/modernists-trapped-in-a-post-modern-universe/), and the connection to software engineering. In short, modernists believe that the world is turbulent and dynamic, and can be constantly remade anew; while post-modernists believe that “we can never cast off our history and start from scratch.” He writes…
 

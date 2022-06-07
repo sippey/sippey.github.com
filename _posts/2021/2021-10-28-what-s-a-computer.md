@@ -1,7 +1,7 @@
 ---
 date: 2021-10-28 21:08:21 +0000
 title: what's a computer?
-
+layout: post
 ---
 Robin Sloan, in [The slab and the permacomputer](https://society.robinsloan.com/archive/slab/), puts a finger on what makes deploying a contract to the Ethereum blockchain feel so…different.
 
