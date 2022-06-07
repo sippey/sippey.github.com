@@ -15,6 +15,14 @@
 
 /* global styles */
 
+::selection {
+	background: yellow;
+}
+
+::-moz-selection {
+	background: yellow;
+}
+
 body {
 	background-color: #F3F3F3;
 	font-size : 19px;
@@ -105,7 +113,6 @@ blockquote {
 	font-weight : bold;
 	margin-bottom : 10px;
 	margin-top : 10px;
-	text-transform: lowercase;
 }
 
 .page-content h2 a {
