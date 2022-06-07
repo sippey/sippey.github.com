@@ -1,3 +1,5 @@
 _drafts/
 .DS_Store
 .bundle
+_site/
+.jekyll-cache/
