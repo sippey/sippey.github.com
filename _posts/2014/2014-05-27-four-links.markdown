@@ -10,7 +10,6 @@ title: "four links, may 27"
 <a href="https://medium.com/message/3450a5bc98d2">danah boyd: Selling Out is Meaningless</a>. "These teens are not going to critique their friends for being sell-outs because they’ve already been sold out by the adults in their world. These teens want freedom and it’s our fault that they don’t have it except in commercial spaces." Note: I started to tell my 13 y/o at dinner about this post, and her first question was "what do you mean, 'sell out?'" And then this happened...
 
 <blockquote class="twitter-tweet" lang="en"><p>Somewhat related to <a href="https://twitter.com/zephoria">@zephoria</a>&#39;s post earlier: munchkin #1 would rather meet <a href="https://twitter.com/Joe_Sugg">@Joe_Sugg</a> than <a href="https://twitter.com/Beyonce">@Beyonce</a>.</p>&mdash; Michael Sippey (@sippey) <a href="https://twitter.com/sippey/statuses/471474852042268673">May 28, 2014</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ...which in my mind is completely related to this point that danah was making:
 
