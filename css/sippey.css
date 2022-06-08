@@ -1,4 +1,21 @@
-/* layout */
+/* global styles  and layout */
+
+body {
+	background-color: #fff;
+	font-size : 19px;
+	line-height: 140%;
+	color : #333;
+	font-weight : 400;
+	font-family: 'Newsreader', Georgia, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: #222;
+		color: lightgray;
+	}
+}
+
 
 .container {
 	width: auto;
@@ -12,26 +29,6 @@
 }
 
 
-
-/* global styles */
-
-::selection {
-	background: yellow;
-}
-
-::-moz-selection {
-	background: yellow;
-}
-
-body {
-	background-color: #F3F3F3;
-	font-size : 19px;
-	line-height: 140%;
-	color : #333;
-	font-weight : 400;
-	font-family: 'Newsreader', Georgia, sans-serif;
-}
-
 a {
 	text-decoration: underline;
 	color: inherit;
@@ -43,39 +40,54 @@ a:hover {
 	background-color: yellow;
 }
 
+@media (prefers-color-scheme: dark) {
+	a:hover {
+		background-color: darkslateblue;
+	}
+
+}
+
+::selection {
+	background: yellow;
+}
+
+::-moz-selection {
+	background: yellow;
+}
+
+
+/* header */
+
 .page-header {
 	margin-bottom : 40px;
 	border-bottom: none;
 	text-align: right;
 }
-
-
-
-creen and (min-width: 56em) {
-	/* ~900px */
-	.page-header {
-		margin-right: -3em
-	}
-
-}
   
 .page-header h1 {
-	color: #888;
 	font-weight : normal;
 	font-style: italic;
 	font-size : 1.5em;
 }
 
 .page-header h1 a {
-	color: #888;
 	text-decoration: none;
 	background-color: yellow;
 }
 
-.page-header h1 a:hover {
-	background-color: #f5f5f5;
+@media (prefers-color-scheme: dark) {
+	.page-header h1 a {
+		background-color: darkslateblue;
+	}
 }
 
+.page-header h1 a:hover {
+	background-color: inherit;
+}
+
+
+
+/* body and posts */
 
 p {
 	margin-bottom: 1em;
@@ -100,6 +112,12 @@ blockquote {
 	border-left : 1px solid silver;
 }
 
+@media (prefers-color-scheme: dark) {
+	blockquote {
+		color: #999;
+	}
+}
+
 
 #footer {
 	margin-top : 100px;
@@ -116,7 +134,6 @@ blockquote {
 }
 
 .page-content h2 a {
-	color: #333;
 	text-decoration: none;
 }
 
