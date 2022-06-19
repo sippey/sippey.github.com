@@ -7,4 +7,4 @@ I've yet to see the new *Top Gun*, but I honestly can't get enough of the takes 
 
 > Last year, the visual-effects artist Chris Umé and the actor Miles Fisher used deepfake technology to create a series of somewhat terrifyingly realistic TikTok videos of Fisher as Cruise, doing things such as biting into a Blow Pop and remarking, “Incredible—how come nobody ever told me there’s bubblegum?” They’re effective in part because the actual Cruise’s own affect has become so indistinguishable from the way an advanced artificial intelligence might go about talking to reporters. Cruise’s own laugh is the best Tom Cruise impression you’ve ever heard.
 
-The original "Top Gun" came out in 1986, 36 years ago. I'm looking forward to the third in the trilogy thirty six years from now in 2058, when that perfect Cruise smile and that perfect Cruise laugh are fully powered by deepfake tech.
+The original "Top Gun" came out in 1986, 36 years ago. I'm looking forward to the third in the trilogy 36 years from now in 2058, when that perfect Cruise smile and that perfect Cruise laugh are fully powered by deepfake tech.
