@@ -52,7 +52,7 @@ a:hover {
 /* header */
 
 .page-header {
-	margin-bottom : 40px;
+	margin-bottom : 60px;
 	border-bottom: none;
 	text-align: right;
 }
@@ -78,6 +78,10 @@ a:hover {
 	background-color: inherit;
 }
 
+.page-header .main-nav {
+	font-size: 0.9em;
+	font-style: italic;
+}
 
 
 /* body and posts */
