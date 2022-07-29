@@ -161,7 +161,9 @@ blockquote {
 }
 
 .index-post {
-	margin-bottom : 6em;
+	padding-top: 3em;
+	padding-bottom: 2em;
+	margin-bottom: 3em;
 }
 
 .links,
