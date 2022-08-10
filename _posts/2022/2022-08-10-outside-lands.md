@@ -13,7 +13,7 @@ Saw 28 artists in three days. Bonkers weekend. Here's my ranked list of performa
 6. Cassandra Jenkins 
 7. Dayglow 
 8. Del Water Gap
-9. Sam Fender (lands end)
+9. Sam Fender
 10. Sampa the Great 
 11. Mitski 
 12. Franc Moody 
