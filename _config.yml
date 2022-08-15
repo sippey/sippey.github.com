@@ -1,8 +1,9 @@
 name: this is sippey.com
 description: from @sippey
-url: http://www.sippey.com/
+url: https://sippey.com/
 markdown: kramdown
 highlighter: rouge
 paginate : 20
 paginate_path: "page/:num"
 plugins: [jekyll-paginate]
+timezone: America/Los_Angeles
