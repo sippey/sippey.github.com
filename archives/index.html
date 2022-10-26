@@ -4,13 +4,31 @@ title: Archives
 ---
 
 <div class="home archives">
-
+    
+    <div class="month">
+        <h2>some of my favorites</h2>
+        
+        <div class="index-links">
+            <a href="/2010/11/even-if-its-fake-its-real.html">even if it's fake it's real</a> (Nov 24 2010)<br />
+            <a href="/2011/05/kill-cook-eat.html">kill / cook / eat</a> (May 27 2011)<br />
+            <a href="/2015/10/08/tfw-office-edition.html">TFW, office edition</a> (Oct 08 2015)<br />
+            <a href="/2014/10/10/cocktails.html">If Cocktails Were Tech Companies</a> (Oct 10 2014)<br />
+            <a href="/2012/03/the-silence-of-mike-daisey.html">the silence of mike daisey</a> (Mar 09 2012)<br />
+            <a href="/2011/10/two-minutes-with-steve.html">two minutes with steve</a> (Oct 06 2011)<br />
+            <a href="/2014/03/13/indexing-apps.html">indexing apps</a> (Mar 13 2014)<br />
+            <a href="/2010/09/zero-history-touches-the-x-axis.html">zero history touches the x axis</a> (Sep 30 2010)<br />
+            <a href="/2012/05/helping-the-kids-think-about-infinity.html">helping the kids think about infinity</a> (May 02 2012)<br />
+            <a href="/2021/09/17/max-fischer-s-clubs-ranked.html">Max Fischer's clubs, ranked</a> (Sep 17 2021)<br />
+        </div>
+    </div>
+    
+    
     {% assign grouped_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
     {% for year in grouped_by_year %}
     {% assign grouped_by_month = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
     {% for month in grouped_by_month %}
     <div class="month">
-
+        
         <h2>{{ month.name }} {{ year.name }}</h2>
         <div class="index-links">
             {% for post in month.items %}
