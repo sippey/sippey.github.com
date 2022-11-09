@@ -1,6 +1,6 @@
 name: Michael Sippey
 description: this is @sippey's blog
-url: https://sippey.com/
+url: https://sippey.com
 markdown: kramdown
 highlighter: rouge
 paginate : 20
