@@ -1,6 +1,6 @@
 ---
 title: Ten things I loved in January
-layout: links
+layout: post
 date: 2023-01-31 21:07
 ---
 
