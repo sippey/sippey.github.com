@@ -2,7 +2,7 @@
 
 body {
 	background-color: #fff;
-	font-size : 19px;
+	font-size : 18px;
 	line-height: 140%;
 	color : #333;
 	font-weight : 400;
@@ -92,7 +92,6 @@ p {
 }
 
 li {
-	font-size: 0.95em;
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
@@ -104,7 +103,6 @@ img {
 
 blockquote {
 	color : #666;
-	font-size : 0.95em;
 	margin-top : 0px;
 	margin-bottom : 1em;
 	padding-top : 0;
@@ -169,7 +167,6 @@ blockquote {
 .links,
 .index-links {
 	margin-bottom : 3em;
-	font-size: 0.9em;
 }
 
 .links .meta, 
