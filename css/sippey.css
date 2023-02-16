@@ -93,6 +93,7 @@ p {
 
 li {
 	margin-top: 10px;
+	line-height: 160%;
 	margin-bottom: 10px;
 }
 
@@ -131,6 +132,7 @@ blockquote {
 	font-weight : bold;
 	margin-bottom : 10px;
 	margin-top : 10px;
+	text-transform: lowercase;
 }
 
 .page-content h2 a {
@@ -166,7 +168,7 @@ blockquote {
 
 .links,
 .index-links {
-	margin-bottom : 3em;
+	margin-bottom : 5em;
 }
 
 .links .meta, 
