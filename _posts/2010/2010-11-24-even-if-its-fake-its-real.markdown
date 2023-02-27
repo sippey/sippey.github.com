@@ -6,7 +6,7 @@ permalink: /2010/11/even-if-its-fake-its-real.html
 
 ![Google maps image of baby being born on the side of the road](/assets/2010/fake-real-1.jpg)
 
-Four potential options for interpreting this image (via <a href="http://www.reddit.com/r/pics/comments/earv7/baby_born_on_google_street_view/" target="_self">Reddit</a>, via <a href="http://www.google.com/profiles/djacobs" target="_self">djacobs</a>). (You may want to click and view it in a larger size.)
+Four potential options for interpreting this image (via <a href="http://www.reddit.com/r/pics/comments/earv7/baby_born_on_google_street_view/" target="_self">Reddit</a>, via <a href="http://www.google.com/profiles/djacobs" target="_self">djacobs</a>). 
 
 1. A real woman was in real labor in her real car and pulled over in front of this real house on this real street and gave birth to a real baby which was held up just as the real Google Street View car came by and snapped this photo.
 2. Real people knew the street view cameras were making their way through this real neighborhood, and they staged this event, and raised up a real doll up from the real sidewalk just as the Google Street View car came by and snapped this photo.
