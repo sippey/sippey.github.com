@@ -13,7 +13,7 @@ Four potential options for interpreting this image (via <a href="http://www.redd
 3. A real woman was in real labor in her real car and pulled over in front of this real house on this real street and gave birth to a real baby which was held up just as someone across the street snapped this photo. Then someone used a real copy of Photoshop (or something similar) to add details that simulate the effect of this photo being snapped by a Google Street View camera.
 4. Real people staged a birth on a real street, and help up the real doll just as someone across the street snapped this photo. Then someone used a real copy of Photoshop to add details that simulate the effect of this photo being snapped by a Google Street View camera.
 
-If you plotted the real / fake options on a 2x2, it'd look something like this.</p>
+If you plotted the real / fake options on a 2x2, it'd look something like this.
 
 ![real fake 2x2](/assets/2010/fake-real-2.jpg)
 
