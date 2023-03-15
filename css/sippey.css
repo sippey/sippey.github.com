@@ -6,7 +6,7 @@ body {
 	line-height: 140%;
 	color : #333;
 	font-weight : 400;
-	font-family: 'Newsreader', Georgia, sans-serif;
+	font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
 }
 
 @media (prefers-color-scheme: dark) {
