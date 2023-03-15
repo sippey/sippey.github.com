@@ -3,7 +3,7 @@
 body {
 	background-color: #fff;
 	font-size : 18px;
-	line-height: 140%;
+	line-height: 150%;
 	color : #333;
 	font-weight : 400;
 	font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
@@ -88,12 +88,10 @@ a:hover {
 
 p {
 	margin-bottom: 1em;
-	line-height : 160%;
 }
 
 li {
 	margin-top: 10px;
-	line-height: 160%;
 	margin-bottom: 10px;
 }
 
