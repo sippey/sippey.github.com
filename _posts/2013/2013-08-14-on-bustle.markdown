@@ -1,9 +1,10 @@
 ---
 layout: post
+date: 2013-08-14
 title: on bustle
 ---
 
-<a href="http://pando.com/2013/08/13/ive-raised-6-5-million-to-build-and-grow-my-new-company-bustle-com/">Bryan Goldberg</a>:
+[Bryan Goldberg](http://pando.com/2013/08/13/ive-raised-6-5-million-to-build-and-grow-my-new-company-bustle-com/):
 
 > Maybe we need a destination that is powered by the young women who currently occupy the bottom floors at major publishing houses. 
 

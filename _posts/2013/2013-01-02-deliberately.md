@@ -1,5 +1,6 @@
 ---
 title: deliberately
+date: 2013-01-02
 layout: post
 ---
 

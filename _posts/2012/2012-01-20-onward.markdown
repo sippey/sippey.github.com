@@ -4,9 +4,10 @@ title: "status updates"
 permalink: /2012/01/onward.html 
 ---
 
-<blockquote class="twitter-tweet"><p>It's my last day at SAY Media. Proud to have been part of such an incredible team here and at Six Apart.</p>&mdash; Michael Sippey (@sippey) <a href="https://twitter.com/sippey/status/160412884621463553" data-datetime="2012-01-20T17:26:26+00:00">January 20, 2012</a></blockquote>
+> It's my last day at SAY Media. Proud to have been part of such an incredible team here and at Six Apart.
+> 
+> — Michael Sippey (@sippey) [January 20, 2012](https://twitter.com/sippey/status/160412884621463553)
 
-<blockquote class="twitter-tweet"><p>It's time for new challenges: very excited to join the product team at Twitter in a couple weeks. Onward!</p>&mdash; Michael Sippey (@sippey) <a href="https://twitter.com/sippey/status/160412926912638976" data-datetime="2012-01-20T17:26:36+00:00">January 20, 2012</a></blockquote>
-
-<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+> It's time for new challenges: very excited to join the product team at Twitter in a couple weeks. Onward!
+> 
+> — Michael Sippey (@sippey) [January 20, 2012](https://twitter.com/sippey/status/160412926912638976)
