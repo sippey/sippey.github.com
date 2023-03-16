@@ -21,6 +21,7 @@ title: Search
 
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/lodash/4.16.4/lodash.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
 
@@ -65,6 +66,9 @@ search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
     placeholder: 'Search...',
+    queryHook: _.debounce(function(query, search) {
+      search(query);
+    }. 1000),
     poweredBy: true // This is required if you're on the free Community plan
   })
 );
