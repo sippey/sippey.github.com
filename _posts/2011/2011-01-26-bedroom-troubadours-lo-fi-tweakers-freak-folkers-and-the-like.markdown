@@ -11,7 +11,7 @@ permalink: /2011/01/bedroom-troubadours-lo-fi-tweakers-freak-folkers-and-the-lik
 <object height="80" width="390">
 <param name="movie" value="http://rd.io/e/QF3dKyyT2w" />
 <param name="allowFullScreen" value="true" />
-<param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="80" src="http://rd.io/e/QF3dKyyT2w" type="application/x-shockwave-flash" width="390" />
+<param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="80" src="https://rd.io/e/QF3dKyyT2w" type="application/x-shockwave-flash" width="390" />
 </object>
 </p>
 

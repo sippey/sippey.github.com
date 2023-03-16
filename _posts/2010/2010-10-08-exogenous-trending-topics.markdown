@@ -10,6 +10,6 @@ permalink: /2010/10/exogenous-trending-topics.html
 </blockquote>
 <p>I love fall. Who wouldn&#39;t love a little pep rally right about now?</p>
 <p><strong>Update, 5:16 pm: </strong>trending now in the U.S. is &quot;Homecoming Game.&quot; &#0160;Perfect.</p>
-<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef013488102759970c-pi" style="display: inline;"><img alt="Homecoming-game" class="asset  asset-image at-xid-6a00d8341c4f5f53ef013488102759970c" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef013488102759970c-500wi" title="Homecoming-game" /></a> <br /><br /></p>
+<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef013488102759970c-pi" style="display: inline;"><img alt="Homecoming-game" class="asset  asset-image at-xid-6a00d8341c4f5f53ef013488102759970c" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef013488102759970c-500wi" title="Homecoming-game" /></a> <br /><br /></p>
 
 

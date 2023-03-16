@@ -8,7 +8,7 @@ permalink: /2009/02/frank-rich-links.html
 
 <p>I'm used to the Times linking proper nouns, stock tickers and the like to topic pages, but Rich's column is full of non-obvious, blog-like links, most of which lead to resources outside the Times.  Here's a screenshot of one link-riddled paragraph:</p>
 
-<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01116864dfee970c-pi"><img class="at-xid-6a00d8341c4f5f53ef01116864dfee970c" alt="Frank-rich-column" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01116864dfee970c-500wi"  /></a></p>
+<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01116864dfee970c-pi"><img class="at-xid-6a00d8341c4f5f53ef01116864dfee970c" alt="Frank-rich-column" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef01116864dfee970c-500wi"  /></a></p>
 
 <p>That paragraph links to two news stories from the Washington Post, one from the St. Petersburg Times, a blog post from WaPo and a blog post from the Times.  By my count there are a total of 37 links in the piece, all of them appear to be hand-crafted (as opposed to machine-generated)...and only eight out of the 37 link to nytimes.com.</p>
 

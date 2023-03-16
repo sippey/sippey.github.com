@@ -14,7 +14,7 @@ permalink: /2008/10/latent-semantic-politics-or-red-v-blue.html
 
 <p>What's incredibly cool is what you see after you install the extension / script.  </p>
 
-<p><a style="display: inline;" href="http://waxy.org/2008/10/memeorandum_colors/"><img class="at-xid-6a00d8341c4f5f53ef01053579d7f2970c" alt="Memeorandum-colors" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01053579d7f2970c-500wi"  /></a></p>
+<p><a style="display: inline;" href="http://waxy.org/2008/10/memeorandum_colors/"><img class="at-xid-6a00d8341c4f5f53ef01053579d7f2970c" alt="Memeorandum-colors" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef01053579d7f2970c-500wi"  /></a></p>
 
 <p>Memeorandum suddenly became about ten times better for me, because now the discussion links are more interesting than the main stories.  The blue and red highlighting make me want to click through to see what a "deep red" blogger is saying about Obama, or a "deep blue" blogger is saying about McCain...and I'm now diving into more interesting conversations.</p>
 

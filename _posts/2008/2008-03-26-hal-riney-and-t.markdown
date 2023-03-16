@@ -14,7 +14,7 @@ permalink: /2008/03/hal-riney-and-t.html
 
 <p>Unfortunately I couldn't find any of the earliest spots on YouTube (I'm sure I could look elsewhere, but I'm a lazy blogger).&nbsp; But here's one from around 1993 about the &quot;Saturn homecoming.&quot; It's classic Riney.</p>
 
-<p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Om9DXeycCco&amp;hl=en" /><param name="wmode" value="transparent" /><embed width="425" height="355" src="http://www.youtube.com/v/Om9DXeycCco&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent"></embed></object>
+<p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/Om9DXeycCco&amp;hl=en" /><param name="wmode" value="transparent" /><embed width="425" height="355" src="https://www.youtube.com/v/Om9DXeycCco&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent"></embed></object>
 
 </p>
 

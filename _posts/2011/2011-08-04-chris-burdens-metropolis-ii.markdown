@@ -8,7 +8,7 @@ permalink: /2011/08/chris-burdens-metropolis-ii.html
 
 <p>Burden's topped Medusa's Head with <em>Metropolis II</em>, a new kinetic sculpture that's <a href="http://www.thingsmagazine.net/?p=4728">on its way to LACMA</a>. It features 1,200 custom-designed toy cars traveling through 18 lanes around a fabricated city. You have to see it to believe it...so here's the preview.</p>
 
-<p><iframe width="560" height="349" src="http://www.youtube.com/embed/llacDdn5yIE" frameborder="0" allowfullscreen></iframe></p>
+<p><iframe width="560" height="349" src="https://www.youtube.com/embed/llacDdn5yIE" frameborder="0" allowfullscreen></iframe></p>
 
 <p><em>Metropolis II</em> is a follow up to <em>Metropolis I</em>, which only had two single-lane highways and 80 Hot Wheels cars. It was purchased by a Japanese contemporary art museum.</p>
 

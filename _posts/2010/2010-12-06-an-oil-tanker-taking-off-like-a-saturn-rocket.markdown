@@ -13,7 +13,7 @@ permalink: /2010/12/an-oil-tanker-taking-off-like-a-saturn-rocket.html
 <object height="25" width="425">
 <param name="movie" value="http://www.youtube.com/v/WC9HwidzmxM?fs=1&amp;hl=en_US&amp;hd=1" />
 <param name="allowFullScreen" value="true" />
-<param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="25" src="http://www.youtube.com/v/WC9HwidzmxM?fs=1&amp;hl=en_US&amp;hd=1" type="application/x-shockwave-flash" width="425" />
+<param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="25" src="https://www.youtube.com/v/WC9HwidzmxM?fs=1&amp;hl=en_US&amp;hd=1" type="application/x-shockwave-flash" width="425" />
 </object>
 </p>
 

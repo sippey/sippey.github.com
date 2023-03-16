@@ -4,7 +4,7 @@ title: "what would he do?"
 permalink: /2010/02/what-would-he-do.html
 ---
 
-<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0128774d3109970c-pi"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0128774d3109970c" alt="Bottom_wwjld" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0128774d3109970c-500wi"  /></a> <br /></p>
+<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0128774d3109970c-pi"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0128774d3109970c" alt="Bottom_wwjld" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0128774d3109970c-500wi"  /></a> <br /></p>
 
 <p>I guess we'll find out tonight.  Can't frickin' wait.</p>
 

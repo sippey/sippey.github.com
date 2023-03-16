@@ -4,7 +4,7 @@ title: "just a little bit like high school"
 permalink: /2007/05/just_a_little_b.html
 ---
 
-<p><a href="http://www.flickr.com/photos/benbrown/200657332/"><img border="0" alt="Benbrownprom" title="Benbrownprom" src="http://sippey.typepad.com/photos/uncategorized/2007/05/17/benbrownprom.jpg" style="margin: 0px 0px 5px 5px; float: right;" /></a>
+<p><a href="http://www.flickr.com/photos/benbrown/200657332/"><img border="0" alt="Benbrownprom" title="Benbrownprom" src="https://sippey.typepad.com/photos/uncategorized/2007/05/17/benbrownprom.jpg" style="margin: 0px 0px 5px 5px; float: right;" /></a>
 So WPP buys 24/7 Real Media, and the best quote of the day is <a href="http://www.nytimes.com/2007/05/18/business/media/18online-web.html?ref=media">in the New York Times</a>...</p><blockquote><p>“Martin Sorrell has said that he views Google as a ‘frienemy,’ ” said
 Dave Morgan, chairman of Tacoda, an online ad network, and former chief
 executive at a company that became part of 24/7 Real Media. “He wants

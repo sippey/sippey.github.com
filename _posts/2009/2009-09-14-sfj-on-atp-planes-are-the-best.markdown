@@ -15,7 +15,7 @@ permalink: /2009/09/sfj-on-atp-planes-are-the-best.html
 <p>His photo of the stage setup made me want to buy a kit and start drumming again.</p>
 
 <blockquote>
-  <p><a style="display: inline;" href="http://www.newyorker.com/online/blogs/sashafrerejones/2009/09/shellac.html"><img class="at-xid-6a00d8341c4f5f53ef0120a56e7ec3970b" alt="L1210113.JPG" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a56e7ec3970b-500wi"  /></a></p>
+  <p><a style="display: inline;" href="http://www.newyorker.com/online/blogs/sashafrerejones/2009/09/shellac.html"><img class="at-xid-6a00d8341c4f5f53ef0120a56e7ec3970b" alt="L1210113.JPG" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a56e7ec3970b-500wi"  /></a></p>
 </blockquote>
 
 <p>Who wouldn't want a schedule package <a href="http://www.newyorker.com/online/blogs/sashafrerejones/2009/09/viewfinder.html">baked into the form of a View-Master</a>?</p>

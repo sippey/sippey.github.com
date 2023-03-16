@@ -4,7 +4,7 @@ title: "roll on, rolando!"
 permalink: /2008/12/roll-on-rolando.html
 ---
 
-<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299461156&amp;mt=8"><img src="http://sippey.typepad.com/photos/pics/rolando-2.jpg" width="400" height="266" border="1"></a></p>
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299461156&amp;mt=8"><img src="https://sippey.typepad.com/photos/pics/rolando-2.jpg" width="400" height="266" border="1"></a></p>
 
 <p>So while everything in <a href="http://toucharcade.com/2008/12/19/the-rolando-review/">Touch Arcade&#8217;s review</a> of <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299461156&amp;mt=8">Rolando</a> is true&#8230;</p>
 

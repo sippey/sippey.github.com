@@ -13,7 +13,7 @@ permalink: /2007/06/size-matters.html
 
 </tr>
 
-<tr><td rowspan="27"><img width="100" height="453" src="http://www.suck.com/zerobaud/96/11/21/d.gif" /></td>
+<tr><td rowspan="27"><img width="100" height="453" src="https://www.suck.com/zerobaud/96/11/21/d.gif" /></td>
 
 </tr>
 
@@ -579,7 +579,7 @@ permalink: /2007/06/size-matters.html
 
 <tr><td></td>
 
-<td width="191"><img width="193" height="148" src="http://www.suck.com/zerobaud/96/11/21/b.gif" /></td>
+<td width="191"><img width="193" height="148" src="https://www.suck.com/zerobaud/96/11/21/b.gif" /></td>
 
 <td></td>
  
@@ -693,7 +693,7 @@ permalink: /2007/06/size-matters.html
 
 <tr><td></td>
 
-<td width="191"><img width="191" height="205" src="http://www.suck.com/zerobaud/96/11/21/a.gif" /></td>
+<td width="191"><img width="191" height="205" src="https://www.suck.com/zerobaud/96/11/21/a.gif" /></td>
 
 <td></td>
  
@@ -800,7 +800,7 @@ permalink: /2007/06/size-matters.html
 
 <tr><td></td>
 
-<td width="191"><img width="170" height="211" src="http://www.suck.com/zerobaud/96/11/21/c.gif" /></td>
+<td width="191"><img width="170" height="211" src="https://www.suck.com/zerobaud/96/11/21/c.gif" /></td>
 
 <td></td>
  

@@ -11,7 +11,7 @@ permalink: /2010/08/the-best-deck-on-the-internets.html
 <param name="bgcolor" value="#ffffff" />
 <param name="allowFullScreen" value="true" />
 <param name="allowScriptAccess" value="always" />
-<param name="FlashVars" value="document_id=35836865&amp;access_key=key-zjdsuxcmwk3fwt85bre&amp;page=1&amp;viewMode=slideshow" /> <embed allowfullscreen="true" allowscriptaccess="always" bgcolor="#ffffff" height="500" id="doc_426921246065992" name="doc_426921246065992" src="http://d1.scribdassets.com/ScribdViewer.swf?document_id=35836865&amp;access_key=key-zjdsuxcmwk3fwt85bre&amp;page=1&amp;viewMode=slideshow" type="application/futuresplash" width="100%" wmode="opaque" />
+<param name="FlashVars" value="document_id=35836865&amp;access_key=key-zjdsuxcmwk3fwt85bre&amp;page=1&amp;viewMode=slideshow" /> <embed allowfullscreen="true" allowscriptaccess="always" bgcolor="#ffffff" height="500" id="doc_426921246065992" name="doc_426921246065992" src="https://d1.scribdassets.com/ScribdViewer.swf?document_id=35836865&amp;access_key=key-zjdsuxcmwk3fwt85bre&amp;page=1&amp;viewMode=slideshow" type="application/futuresplash" width="100%" wmode="opaque" />
 </object>
 </p>
 <p>What&#39;s <em>your</em> favorite slide? You tell me yours, I&#39;ll tell you mine.</p>

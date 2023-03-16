@@ -4,7 +4,7 @@ title: "flipboard pages as media delivery engine"
 permalink: /2010/12/flipboard-pages-as-media-delivery-engine.html
 ---
 
-<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c667026b970c-pi" style="float: right;"><img alt="Faq-bonappetit" class="asset  asset-image at-xid-6a00d8341c4f5f53ef0148c667026b970c" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c667026b970c-320wi" style="margin: 0px 0px 5px 5px;" title="Faq-bonappetit" /></a> From the information on Flipboard.com about their new <a href="http://www.flipboard.com/publishers-faq" target="_self">Pages</a> <em>(product? service?)</em> effort...</p>
+<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c667026b970c-pi" style="float: right;"><img alt="Faq-bonappetit" class="asset  asset-image at-xid-6a00d8341c4f5f53ef0148c667026b970c" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c667026b970c-320wi" style="margin: 0px 0px 5px 5px;" title="Faq-bonappetit" /></a> From the information on Flipboard.com about their new <a href="http://www.flipboard.com/publishers-faq" target="_self">Pages</a> <em>(product? service?)</em> effort...</p>
 <blockquote>
 <p>Flipboard Pages are built on a lightweight JavaScript engine that lays out articles in a paginated format optimized for iPad. Through semantic analysis, the taxonomy of an article is broken down into essential components including headline, images, byline, captions, and pullquotes. The content is then reflowed into an HTML5 template for short- and long-form articles and image galleries, in both portrait and landscape orientations. Given that Flipboard is a highly visual experience, Flipboard Pages incorporate high-res images and significant branding elements as well.</p>
 </blockquote>

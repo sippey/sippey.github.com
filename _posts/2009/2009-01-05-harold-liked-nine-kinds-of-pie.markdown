@@ -8,7 +8,7 @@ permalink: /2009/01/harold-liked-nine-kinds-of-pie.html
 
 <p>The iPhone was in the pocket, and I vaguely remembered an animated version of Harold. So about a minute later we were watching this.</p>
 
-<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/h_gc6ZoUVgA&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/h_gc6ZoUVgA&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/h_gc6ZoUVgA&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/h_gc6ZoUVgA&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
 
 <p>I&#8217;m old enough to think the book&#8217;s still better (the kids preferred the animated version), but if there was any remaining doubt that we&#8217;re living in the future, let that doubt be cast aside.</p>
 

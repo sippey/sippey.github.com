@@ -12,7 +12,7 @@ permalink: /2010/06/messy-and-manic-in-flat-front-khakis.html
 
 <p>Up with messy, manic and concerns of the moment.  Here's the video for track six, <em>The Ring</em>.</p>
 
-<p><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/Z4dhMIz3jvc&amp;hl=en_US&amp;fs=1&amp;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Z4dhMIz3jvc&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
+<p><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/Z4dhMIz3jvc&amp;hl=en_US&amp;fs=1&amp;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/Z4dhMIz3jvc&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
 
 <p>You may also enjoy the video for <a href="http://www.youtube.com/watch?v=GgM_V1j6CoI">I Wanna Be Your Telephone</a>, which features Lidell in flat-front khakis. It's my favorite song on the record.</p>
 

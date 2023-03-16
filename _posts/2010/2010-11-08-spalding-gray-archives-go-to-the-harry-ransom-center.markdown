@@ -4,7 +4,7 @@ title: "spalding gray archives go to the harry ransom center"
 permalink: /2010/11/spalding-gray-archives-go-to-the-harry-ransom-center.html
 ---
 
-<p><img class="asset asset-image at-xid-6a00d8341c4f5f53ef0133f5b09be3970b  " height="366" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f5b09be3970b-pi" width="480" /></p>
+<p><img class="asset asset-image at-xid-6a00d8341c4f5f53ef0133f5b09be3970b  " height="366" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f5b09be3970b-pi" width="480" /></p>
 
 <p><small>via <a href="http://artsbeat.blogs.nytimes.com/2010/11/08/spalding-gray-archives-go-to-university-of-texas/?ref=arts">artsbeat.blogs.nytimes.com</a></small></p>
 

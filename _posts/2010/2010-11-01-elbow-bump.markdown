@@ -4,7 +4,7 @@ title: "elbow bump."
 permalink: /2010/11/elbow-bump.html
 ---
 
-<img class="asset asset-image at-xid-6a00d8341c4f5f53ef0133f584684b970b  " src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f584684b970b-580wi" width="500" />
+<img class="asset asset-image at-xid-6a00d8341c4f5f53ef0133f584684b970b  " src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f584684b970b-580wi" width="500" />
 
 <p><small>via <a href="http://twitpic.com/334pcq">twitpic.com</a></small></p>
 

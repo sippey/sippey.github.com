@@ -14,7 +14,7 @@ permalink: /2010/02/go-see-three-screen-ray-in-person.html
 
 <p>Words don't really capture it, though.  So, thinking about <em>you</em>, dear reader, I stood in a corner, turned on my iPhone's video camera, and shot a couple minutes of it.  And then yesterday, testing out the super slick upload feature inside Snow Leopard's QuickTime player <a href="http://www.youtube.com/watch?v=Tjo2HuA9rzQ">I posted it to YouTube</a>.</p>
 
-<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/Tjo2HuA9rzQ&amp;hl=en_US&amp;fs=1&amp;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Tjo2HuA9rzQ&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
+<p><object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/Tjo2HuA9rzQ&amp;hl=en_US&amp;fs=1&amp;"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/Tjo2HuA9rzQ&amp;hl=en_US&amp;fs=1&amp;" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object></p>
 
 <p>So...within <em>five minutes</em> of posting that video yesterday I had an email notifying me that my video "may have content that is owned or licensed by WMG." And, as you probably noticed if you clicked play on the video, the soundtrack's been muted.  </p>
 

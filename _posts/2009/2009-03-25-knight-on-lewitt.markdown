@@ -13,7 +13,7 @@ permalink: /2009/03/knight-on-lewitt.html
 <p>Here's a video that Knight took of the piece...</p>
 
 <blockquote>
-  <p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/cyccPNf58Dc&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/cyccPNf58Dc&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
+  <p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/cyccPNf58Dc&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/cyccPNf58Dc&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="344"></embed></object></p>
 </blockquote>
 
 <p>Knight says it "may be the most perfect union of contemporary art and architecture in the United States. It's our Sistine."  I'd love to find an excuse to visit Springfield...</p>

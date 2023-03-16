@@ -13,7 +13,7 @@ permalink: /2010/09/forked-forking-is-a-feature.html
 <p>You've probably seen Linus Torvalds on the cover of a magazine or two; he's the guy who created Linux. But did you know he also invented the fork?  No, not that kind of fork, silly.</p>
 
  
-<p><img alt="GitHub's map of code forks" src="http://dashes.com/anil/images/github-fork-map.png" width="483" height="234" class="imgcenter" /></p> 
+<p><img alt="GitHub's map of code forks" src="https://dashes.com/anil/images/github-fork-map.png" width="483" height="234" class="imgcenter" /></p> 
 
 <p>I know that image doesn't really look like a fork.  And that people usually think of forks as things you stick into steak (yum, steak!).  But forking is also a way that angry geeks who could really use a hug used to threaten to ruin your weekend project by taking it and making their own. The jerks.</p>
 	
@@ -48,7 +48,7 @@ permalink: /2010/09/forked-forking-is-a-feature.html
 
 <p>Anyway, Linus created git.  It this complicated thing called distributed reversion control, and you should read <a href="http://en.wikipedia.org/wiki/Git_(software)">more about it on Wikipedia</a>.  Which doesn't support forking, by the way.  Wikipedia doesn't.  Git?  It does.  Support forking.</p>
  
-<p><img alt="Forking on GitHub" src="http://dashes.com/anil/images/github-fork.png" width="437" height="40" class="imgcenter" /></p> 
+<p><img alt="Forking on GitHub" src="https://dashes.com/anil/images/github-fork.png" width="437" height="40" class="imgcenter" /></p> 
  
 <p><s>But Linus' pedigree, influence and outstanding implementation immediately put Git at the forefront of choices to solve this class of problem. Even better, his credibility with the new generation of social software creators inspired the rapid launch and brilliant evolution of <a href="http://github.com/">GitHub</a>, a social network for developers that relies on the technology of Git as its underpinnings, but has also embraced the <em>philosophy</em> of Git as its fundamental interaction model.</s></p> 
  

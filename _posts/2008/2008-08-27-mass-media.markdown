@@ -4,7 +4,7 @@ title: "mass media"
 permalink: /2008/08/mass-media.html
 ---
 
-<p><a href="http://www.google.com/trends/hottrends?sa=X"><img border="1" class="at-xid-6a00d8341c4f5f53ef00e5548544808833" alt="Google-trends-2" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef00e5548544808833-500wi"></a></p>
+<p><a href="http://www.google.com/trends/hottrends?sa=X"><img border="1" class="at-xid-6a00d8341c4f5f53ef00e5548544808833" alt="Google-trends-2" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef00e5548544808833-500wi"></a></p>
 
 <p>I'm fascinated by <a href="http://www.google.com/trends/hottrends?sa=X">Google's Hot Trends</a>. I don't have a chance to follow it much during the day, but I keep it open in a tab when I'm online at home at night and occasionally refresh and it's amazing just how closely search traffic follows what's happening on TV.</p>
 

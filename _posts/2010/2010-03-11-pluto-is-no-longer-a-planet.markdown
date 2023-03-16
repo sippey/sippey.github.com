@@ -4,7 +4,7 @@ title: "pluto is no longer a planet"
 permalink: /2010/03/pluto-is-no-longer-a-planet.html
 ---
 
-<img at:linkto_xid="6a00e54f7ac65c88330120a9282b48970b" class=" at-xid-6a00d8341c4f5f53ef01310f8f0c31970c" height="556" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01310f8f0c31970c-pi" width="450" xmlns:at="http://www.sixapart.com/ns/at" />
+<img at:linkto_xid="6a00e54f7ac65c88330120a9282b48970b" class=" at-xid-6a00d8341c4f5f53ef01310f8f0c31970c" height="556" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef01310f8f0c31970c-pi" width="450" xmlns:at="http://www.sixapart.com/ns/at" />
 
 <p><small>via <a href="http://tiffchow.typepad.com/typetiff/2010/03/kids-get-pissed-off-when-you-tell-them-pluto-isnt-a-planet.html">tiffchow.typepad.com</a></small></p>
 

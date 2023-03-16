@@ -35,7 +35,7 @@ permalink: /2009/09/because-you-cant-spell-innovation-with-tos.html
 <p>In the meantime, I've Udorsed a photo of this TastyKake truck, since it's not a natural person.</p>
 
 <blockquote>
-  <p><img class="at-xid-6a00d8341c4f5f53ef0120a57bf2ab970b" alt="Udorse" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a57bf2ab970b-500wi" style="margin: 0px;" /></p>
+  <p><img class="at-xid-6a00d8341c4f5f53ef0120a57bf2ab970b" alt="Udorse" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a57bf2ab970b-500wi" style="margin: 0px;" /></p>
 </blockquote>
 
 <p>Seriously, I really do love TastyKakes of most varieties.</p>

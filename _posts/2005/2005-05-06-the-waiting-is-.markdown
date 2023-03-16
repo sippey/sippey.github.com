@@ -4,9 +4,6 @@ title: "the waiting is the hardest part"
 permalink: /2005/05/the_waiting_is_.html
 ---
 
-<p><img border="0" class="image-full" alt="Starbucks_1" title="Starbucks_1" src="http://sippey.typepad.com/photos/uncategorized/starbucks_1.jpg" />
-</p>
-
 <p>At some point in the near future, an enterprising sociologist will
 write their doctorate thesis on the minute interactions that take place
 between people waiting for espresso drinks at their neighborhood

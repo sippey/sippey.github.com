@@ -19,7 +19,7 @@ permalink: /2009/08/in-under-a-minute.html
 
 <p>Everything's amazing, you all should be happy, etc., etc.</p>
 
-<p><small>Presented by <a href="http://ad.doubleclick.net/clk;216634277;37392919;u" target="_blank">Intel, Sponsors of Tomorrow</a>.<img src="http://ad.doubleclick.net/ad/N5364.federatedmedia.com/B3659174.64;sz=1x1;ord=?" /></small></p>
+<p><small>Presented by <a href="http://ad.doubleclick.net/clk;216634277;37392919;u" target="_blank">Intel, Sponsors of Tomorrow</a>.<img src="https://ad.doubleclick.net/ad/N5364.federatedmedia.com/B3659174.64;sz=1x1;ord=?" /></small></p>
 
 
 

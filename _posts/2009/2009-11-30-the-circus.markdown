@@ -18,7 +18,7 @@ permalink: /2009/11/the-circus.html
 
 <p>I have a copy of the exhibition catalog from that show, which is a book-sized aluminum box filled with dozens of reproduced artifacts from the show -- letters, musical scores, poetry, photographs, print reproductions, recipes, notes, essays and other miscellany.</p>
 
-<p><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0120a6f414ba970b" alt="Rolywholyover" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a6f414ba970b-500wi"  /><br />
+<p><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0120a6f414ba970b" alt="Rolywholyover" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a6f414ba970b-500wi"  /><br />
 <small>Photo swiped from <a href="http://bit.ly/5nitiW">this auction</a>.</small></p>
 
 <p>It's one of my favorite "books" -- it captured perfectly the nature of the show, and, like Cage's work, invites you to engage with it in an entirely different way than you would a typical exhibition catalog. It's out of print now; though you can find copies on eBay occasionally and from fine art <a href="http://www.arcanabooks.com/">book dealers</a>.</p>

@@ -4,7 +4,7 @@ title: "even if it's fake it's real, vancouver edition"
 permalink: /2011/06/even-if-its-fake-its-real-vancouver-edition.html
 ---
 
-<p><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0154330fd2e6970c" alt="Vancouver-kiss" title="Vancouver-kiss" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0154330fd2e6970c-500wi" /></a></p>
+<p><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0154330fd2e6970c" alt="Vancouver-kiss" title="Vancouver-kiss" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0154330fd2e6970c-500wi" /></a></p>
 
 <p>Getty Images photographer Rich Lam, <a href="http://www.esquire.com/blogs/politics/vancouver-riots-2011-photo-5929916">at Esquire</a>, on the kissing couple in the middle of the Vancouver riots last night:</p>
 

@@ -4,7 +4,7 @@ title: "blowing the opt out opportunity"
 permalink: /2004/10/blowing_the_opt.html
 ---
 
-<p><a onclick="window.open(this.href, '_blank', 'width=500,height=288,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false" href="http://sippey.typepad.com/photos/uncategorized/jetblueunsug.jpg"><img width="250" height="144" border="0" src="http://sippey.typepad.com/filtered/images/jetblueunsug.jpg" title="Jetblueunsug" alt="Jetblueunsug" style="margin: 0px 0px 5px 5px; float: right;" /></a>You'd think by now -- more than 10 months after CAN-SPAM went into effect -- that companies <em>doing legitimate business via email</em> would have their act together about opt-out language and workflow.&nbsp; </p>
+<p>You'd think by now -- more than 10 months after CAN-SPAM went into effect -- that companies <em>doing legitimate business via email</em> would have their act together about opt-out language and workflow.&nbsp; </p>
 
 <p>Not so much.</p>
 

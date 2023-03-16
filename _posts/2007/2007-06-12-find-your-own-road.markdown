@@ -17,7 +17,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.cnn.com/US/9605/29/freemen/"><img width="92" height="100" border="0" alt="[Freemen]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/cupole.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.cnn.com/US/9605/29/freemen/"><img width="92" height="100" border="0" alt="[Freemen]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/cupole.gif" /></a>
 
 </strong></p>
 
@@ -52,7 +52,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.bhm.tis.net/%7Edutchman/"><img width="116" height="93" border="0" alt="[Intermilitia]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/intermilitia.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.bhm.tis.net/%7Edutchman/"><img width="116" height="93" border="0" alt="[Intermilitia]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/intermilitia.gif" /></a>
 
 </strong></p>
 
@@ -87,7 +87,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.accel.com/advice.htm"><img width="87" height="106" border="0" alt="[Blocks]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/blocks.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.accel.com/advice.htm"><img width="87" height="106" border="0" alt="[Blocks]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/blocks.gif" /></a>
 
 </strong></p>
 
@@ -165,7 +165,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.saabusa.com/"><img width="80" height="89" border="0" alt="[Saab]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/saab.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.saabusa.com/"><img width="80" height="89" border="0" alt="[Saab]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/saab.gif" /></a>
 
 </strong></p>
 
@@ -231,7 +231,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.affinicast.com/"><img width="118" height="27" border="0" alt="[Affinicast]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/affinicast.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.affinicast.com/"><img width="118" height="27" border="0" alt="[Affinicast]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/affinicast.gif" /></a>
 
 </strong></p>
 
@@ -269,7 +269,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.freeloader.com/"><img width="59" height="139" border="0" alt="[Freeloader]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/freeicons.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.freeloader.com/"><img width="59" height="139" border="0" alt="[Freeloader]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/freeicons.gif" /></a>
 
 </strong></p>
 
@@ -319,7 +319,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.privnet.com/iff.html"><img width="179" height="61" border="0" alt="[IFF]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/privnet.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.privnet.com/iff.html"><img width="179" height="61" border="0" alt="[IFF]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/privnet.gif" /></a>
 
 </strong></p>
 
@@ -397,7 +397,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.ffly.com/"><img width="131" height="70" border="0" alt="[Firefly]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/ffly.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.ffly.com/"><img width="131" height="70" border="0" alt="[Firefly]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/ffly.gif" /></a>
 
 </strong></p>
 
@@ -459,7 +459,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.qualcomm.com/ProdTech/quest/products.html"><img width="57" height="70" border="0" alt="[Eudora]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/eudora.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.qualcomm.com/ProdTech/quest/products.html"><img width="57" height="70" border="0" alt="[Eudora]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/eudora.gif" /></a>
 
 </strong></p>
 
@@ -509,7 +509,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.pbvoicemail.com/HomePage.html"><img width="139" height="92" border="0" alt="[The Message Center]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/lips.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.pbvoicemail.com/HomePage.html"><img width="139" height="92" border="0" alt="[The Message Center]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/lips.gif" /></a>
 
 </strong></p>
 
@@ -581,7 +581,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.levi.com/hanger/us/501/prewashed"><img width="33" height="73" border="0" alt="[Levis]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/levis.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.levi.com/hanger/us/501/prewashed"><img width="33" height="73" border="0" alt="[Levis]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/levis.gif" /></a>
 
 </strong></p>
 
@@ -628,7 +628,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.h-plus-a.com/DMS/Grads/Cyopick/alamode3/jesus.htm"><img width="82" height="123" border="0" alt="[A La Mode]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/depeche.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.h-plus-a.com/DMS/Grads/Cyopick/alamode3/jesus.htm"><img width="82" height="123" border="0" alt="[A La Mode]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/depeche.gif" /></a>
 
 </strong></p>
 
@@ -688,7 +688,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.cnn.com/US/9605/31/freemen.fbi/index.html"><img width="126" height="100" border="0" alt="[Armored]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/armored.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.cnn.com/US/9605/31/freemen.fbi/index.html"><img width="126" height="100" border="0" alt="[Armored]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/armored.gif" /></a>
 
 </strong></p>
 
@@ -726,7 +726,7 @@ permalink: /2007/06/find-your-own-road.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.genmagic.com/Telescript/awt/"><img width="101" height="87" border="0" alt="[Clcok]" src="http://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/clock.gif" /></a>
+<p><strong><a href="http://web.archive.org/web/20010509184335/http://www.genmagic.com/Telescript/awt/"><img width="101" height="87" border="0" alt="[Clcok]" src="https://web.archive.org/web/20010509184335/http://www.suck.com/daily/96/06/04/clock.gif" /></a>
 
 </strong></p>
 

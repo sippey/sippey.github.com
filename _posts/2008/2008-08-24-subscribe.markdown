@@ -6,19 +6,19 @@ permalink: /2008/08/subscribe.html
 
 <p>You can subscribe to sippey.com in your feed reader of choice.</p>
 
-<p><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" valign="middle" hspace="10">&nbsp;<a href="http://feeds.feedburner.com/sippey">Subscribe to sippey.com</a></p>
+<p><img src="https://www.feedburner.com/fb/images/pub/feed-icon16x16.png" valign="middle" hspace="10">&nbsp;<a href="http://feeds.feedburner.com/sippey">Subscribe to sippey.com</a></p>
 
 <p><br /></p>
 
 <p>Or add it to the dashboard of your favorite personalized home page service / super fantastic news aggregator.</p>
 
-<p><a href="http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/sippey" title="sippey.com"><img  src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" alt="" style="border:0"></a></p>
+<p><a href="http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/sippey" title="sippey.com"><img  src="https://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" alt="" style="border:0"></a></p>
 
-<p><a href="http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/sippey"><img  src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" style="border:0" alt="Add to Google Reader or Homepage"></a></p>
+<p><a href="http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/sippey"><img  src="https://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" style="border:0" alt="Add to Google Reader or Homepage"></a></p>
 
-<p><a href="http://www.netvibes.com/subscribe.php?url=http://feeds.feedburner.com/sippey"><img  src="http://www.netvibes.com/img/add2netvibes.gif" width="91" height="17" alt="Add to netvibes" style="border:0"></a></p>
+<p><a href="http://www.netvibes.com/subscribe.php?url=http://feeds.feedburner.com/sippey"><img  src="https://www.netvibes.com/img/add2netvibes.gif" width="91" height="17" alt="Add to netvibes" style="border:0"></a></p>
 
-<p><a href="http://feeds.my.aol.com/add.jsp?url=http://feeds.feedburner.com/sippey"><img  src="http://favorites.my.aol.com/ffclient/webroot/0.2.1/locale/en_US/aol/images/myAOLButtonSmall.gif" alt="Add to My AOL" style="border:0"></a></p>
+<p><a href="http://feeds.my.aol.com/add.jsp?url=http://feeds.feedburner.com/sippey"><img  src="https://favorites.my.aol.com/ffclient/webroot/0.2.1/locale/en_US/aol/images/myAOLButtonSmall.gif" alt="Add to My AOL" style="border:0"></a></p>
 
 <p><br /></p>
 

@@ -8,9 +8,6 @@ permalink: /2005/12/simple_task_ent.html
 
 <p>Then this is for you.&nbsp; I hereby present the most streamlined task entry form ever.&nbsp; Now with tags!</p>
 
-<p><img width="400" height="148" border="0" src="http://sippey.typepad.com/filtered/images/outlooktaskform.png" title="Outlooktaskform" alt="Outlooktaskform" />
-</p>
-
 <p>Through the magic of Outlook and customizable forms, I've hacked Outlook's default task entry form down to the bare essentials:&nbsp; the task, tags on the task, and its priority.&nbsp; I've saved this as my default form for the &quot;Tasks&quot; folder in Outlook, muscle-memorized CTRL+SHIFT-K, and voila: super fast and easy task entry.</p>
 
 <p>One of the most underappreciated aspects of Outlook is its &quot;Categories&quot; feature, which has both an overdesigned popup with embedded checkboxes, and a free form text entry field.&nbsp; The free form one takes comma delimited words and turns them into individual categories.&nbsp; For my implementation I pumped up the font sizes, and sexed up the word &quot;Categories&quot; by renaming it &quot;Tags&quot; to give my Outlook install just a bit of Web 2.0 cred.&nbsp; (Next up, yellow fade!)</p>

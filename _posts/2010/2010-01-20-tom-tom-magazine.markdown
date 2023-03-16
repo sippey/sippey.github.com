@@ -14,7 +14,7 @@ permalink: /2010/01/tom-tom-magazine.html
 
 <p>I grew up playing the drums, and now with two girls I want nothing more than for them to have kits to bang on. (Now, to find the space and the sound insulation...) There was nothing better over the holidays than watching the five year old pound away to Beatles Rock Band, keeping the beat and doing her best to keep up with the track. </p>
 
-<p><a href="http://tomtommag.com/"><img src="http://stuff.sippey.com/snaps/2009/01/Tom_Tom_Magazine_-_A_Magazine_About_Female_Drummers-20100120-140304.jpg" width="560" height="98" alt="Tom Tom Magazine" /></a></p>
+<p><a href="http://tomtommag.com/"><img src="https://stuff.sippey.com/snaps/2009/01/Tom_Tom_Magazine_-_A_Magazine_About_Female_Drummers-20100120-140304.jpg" width="560" height="98" alt="Tom Tom Magazine" /></a></p>
 
 <p>The magazine looks fantastic; I'm especially fond of the <a href="http://tomtommag.com/blog/?cat=286">one question, one drummer</a> feature, which includes this bit from Sleater-Kinney drummer Janet Weiss:</p>
 

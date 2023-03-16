@@ -4,7 +4,7 @@ title: "peter arnell's remarks on the launch of tropicana packaging"
 permalink: /2009/02/peter-arnell-on-tropicana.html
 ---
 
-<p><a style="float: right;" href="http://adage.com/brightcove/lineup.php?lineup=1266084202"><img class="at-xid-6a00d8341c4f5f53ef0111689a472c970c" style="width: 250px; margin: 5px;" alt="Peter-arnell" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0111689a472c970c-250wi" /></a>
+<p><a style="float: right;" href="http://adage.com/brightcove/lineup.php?lineup=1266084202"><img class="at-xid-6a00d8341c4f5f53ef0111689a472c970c" style="width: 250px; margin: 5px;" alt="Peter-arnell" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0111689a472c970c-250wi" /></a>
 Offered without additional comment is a transcript of the <a href="http://adage.com/brightcove/lineup.php?lineup=1266084202">Ad Age video</a> of Peter Arnell from Omnicom's Arnell Group introducing the (<a href="http://www.nytimes.com/2009/02/23/business/media/23adcol.html">now pulled</a>) Tropicana packaging <a href="http://www.nytimes.com/2009/01/08/business/media/08adco.html">back in January</a>.</p>
 
 <blockquote>

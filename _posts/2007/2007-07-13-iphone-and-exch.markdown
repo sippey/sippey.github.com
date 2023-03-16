@@ -68,5 +68,5 @@ google_color_url = "999999";
 google_ui_features = "rc:6";
 //-->
 </script>
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">&nbsp;</script></p>
+<script src="https://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript">&nbsp;</script></p>
 

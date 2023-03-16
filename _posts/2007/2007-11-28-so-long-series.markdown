@@ -4,7 +4,7 @@ title: "so long, series 1"
 permalink: /2007/11/so-long-series.html
 ---
 
-<div style="float: right; margin-left: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mathowie/5436634/" title="photo sharing"><img src="http://farm1.static.flickr.com/3/5436634_4c21a7e83d_m.jpg" style="border: 2px solid rgb(0, 0, 0);" /></a> <br /> <span style="font-size: 0.9em; margin-top: 0px;">&nbsp; <a href="http://www.flickr.com/photos/mathowie/5436634/">Purple tivo</a>&nbsp; <br />&nbsp; Originally uploaded by <a href="http://www.flickr.com/people/mathowie/">mathowie</a> </span></div>
+<div style="float: right; margin-left: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mathowie/5436634/" title="photo sharing"><img src="https://farm1.static.flickr.com/3/5436634_4c21a7e83d_m.jpg" style="border: 2px solid rgb(0, 0, 0);" /></a> <br /> <span style="font-size: 0.9em; margin-top: 0px;">&nbsp; <a href="http://www.flickr.com/photos/mathowie/5436634/">Purple tivo</a>&nbsp; <br />&nbsp; Originally uploaded by <a href="http://www.flickr.com/people/mathowie/">mathowie</a> </span></div>
 
 <p>Our beloved Tivo Series 1 kicked the bucket this week, dying a wheezing, whining, hard-drive clicking death after more than seven years of reliable service.*</p>
 

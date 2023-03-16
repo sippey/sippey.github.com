@@ -6,7 +6,7 @@ permalink: /2010/04/popular-science.html
 
 <p>Really looking forward to <a href="http://www.popsci.com/announcements/article/2010-04/new-digital-version-popular-science-ipad">Popular Science+</a> on the iPad, which is based on the Mag+ concept that <a href="http://www.bonnier.com/betalab">Bonnier</a> developed in concert with <a href="http://berglondon.com">BERG</a>.</p>
 
-<p><object width="500" height="281"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=10630568&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=10630568&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed></object></p>
+<p><object width="500" height="281"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=10630568&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="https://vimeo.com/moogaloop.swf?clip_id=10630568&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="500" height="281"></embed></object></p>
 
 <p>The <a href="http://berglondon.com/blog/2010/04/02/popularscienceplus/">blog post on BERG</a> provides some interesting details...</p>
 

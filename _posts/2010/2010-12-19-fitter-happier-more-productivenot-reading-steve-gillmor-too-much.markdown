@@ -8,7 +8,7 @@ permalink: /2010/12/fitter-happier-more-productivenot-reading-steve-gillmor-too-
 <p>
 <object height="81" width="100%">
 <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F8235866" />
-<param name="allowscriptaccess" value="always" /> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F8235866" type="application/x-shockwave-flash" width="100%" />
+<param name="allowscriptaccess" value="always" /> <embed allowscriptaccess="always" height="81" src="https://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F8235866" type="application/x-shockwave-flash" width="100%" />
 </object>
 </p>
 <p>BTW, didn&#39;t work for me.</p>

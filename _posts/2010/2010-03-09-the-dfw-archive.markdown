@@ -8,7 +8,7 @@ permalink: /2010/03/the-dfw-archive.html
 
 <p>UT's <a href="http://www.hrc.utexas.edu/press/releases/2010/dfw/">press release about the acquisition</a> is essentially a microsite of material from the collection, including scanned images from the inside of some of the books Wallace owned.  Here's the one for DeLillo's Ratner's Star:</p>
 
-<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a91acd94970b-pi"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0120a91acd94970b" alt="Www.hrc.utexas" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a91acd94970b-500wi"  /></a></p>
+<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a91acd94970b-pi"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0120a91acd94970b" alt="Www.hrc.utexas" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a91acd94970b-500wi"  /></a></p>
 
 <p>That image makes my heart beat faster.  Here's an excerpt of a <a href="http://www.utexas.edu/opa/blogs/culturalcompass/2010/03/08/the-archives-are-a-window-into-his-mind/">blog post from Bonnie Nadell</a>, Wallace's literary agent, about the collection...</p>
 

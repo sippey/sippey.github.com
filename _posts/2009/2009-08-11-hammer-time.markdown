@@ -10,7 +10,7 @@ permalink: /2009/08/hammer-time.html
     <param name="wmode" value="transparent" />
     <param name="allowscriptaccess" value="never" />
     <param name="allowFullScreen" value="true" />
-    <embed allowfullscreen="true" allowscriptaccess="never" height="385" quality="high" src="http://www.youtube.com/v/_qWhYlhfWCI" type="application/x-shockwave-flash" width="480" wmode="transparent" />
+    <embed allowfullscreen="true" allowscriptaccess="never" height="385" quality="high" src="https://www.youtube.com/v/_qWhYlhfWCI" type="application/x-shockwave-flash" width="480" wmode="transparent" />
 </object>
 
 

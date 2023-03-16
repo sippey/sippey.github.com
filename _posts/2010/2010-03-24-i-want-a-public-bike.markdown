@@ -6,7 +6,7 @@ permalink: /2010/03/i-want-a-public-bike.html
 
 <p><a href="http://publicbikes.com/">PUBLIC Bikes</a> is <a href="http://www.ted.com/speakers/rob_forbes.html">Rob Forbes'</a> new company -- he previously founded Design Within Reach -- and next month they're bringing out a line of simple, upright, unisex bikes with a modern look.  They're great looking bikes, perfectly designed for that stylish handlebar basket you've always wanted.</p>
 
-<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01310fd7b1f8970c-pi"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef01310fd7b1f8970c" alt="Diamond-fence" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01310fd7b1f8970c-500wi"  /></a> <br /></p>
+<p><a style="display: inline;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef01310fd7b1f8970c-pi"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef01310fd7b1f8970c" alt="Diamond-fence" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef01310fd7b1f8970c-500wi"  /></a> <br /></p>
 
 <p>But what makes PUBLIC interesting isn't necessarily their bikes -- it's their distribution model. The choice of options for their bikes is simple -- you'll pick from two frame styles, four colors and three gear configurations (1, 3 and 8-speed) -- <strong>and you'll make those choices online</strong>.  It's a bit different from how you probably bought your last bike; instead of selling through bike shops, PUBLIC is going direct to consumer.  Mostly.</p>
 

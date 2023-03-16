@@ -6,7 +6,7 @@ permalink: /2009/04/getting-hatted-by-project-upstream.html
 
 <p>This may be old news to all of you, but it was new news to me.  While enjoying my morning coffee, up popped this instant message.</p>
 
-<p><img class="at-xid-6a00d8341c4f5f53ef011570363949970b" alt="Expedited-coho-2" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef011570363949970b-500wi" border="0" /></p>
+<p><img class="at-xid-6a00d8341c4f5f53ef011570363949970b" alt="Expedited-coho-2" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef011570363949970b-500wi" border="0" /></p>
 
 <p>Hmm, I'd never heard of this person "ExpeditedCoho."  And the message didn't seem like your normal AIM bot, looking to start a chat about hot things.  A little Googling turned up that this was the work of <a href="http://project-upstream.awardspace.com/">Project Upstream</a>.</p>
 

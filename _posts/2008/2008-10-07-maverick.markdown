@@ -6,7 +6,7 @@ permalink: /2008/10/maverick.html
 
 <p>Via <a href="http://workbench.cadenhead.org/news/3431/campaign-ad-maverick-maverick-maverick">Rogers Cadenhead</a> comes <a href="http://www.stunninglybad.com/">StunninglyBad.com</a> and this mock campaign ad from Goodby, Silverstein and Partners:</p>
 
-<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/iwNvSW1Ge4M&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/iwNvSW1Ge4M&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></p>
+<p><object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/iwNvSW1Ge4M&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="https://www.youtube.com/v/iwNvSW1Ge4M&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object></p>
 
 <p>In his post, Rogers rightly wonders why the national treasure of sarcastic voiceover actors is only put to use only once every four years...</p>
 

@@ -11,7 +11,7 @@ permalink: /2010/12/oooooh-we-used-to-wait.html
 <p>And, you know, there was no way to sort of, like, poke someone on the Facebook or send them a text message. Or she&#39;s, like, you know, I&#39;m supposed to see my best friend Jane this afternoon. So I guess I&#39;ll swing by where she works and see if she&#39;s on this afternoon. That kind of real engagement with other people, it was so kind of crazy for me to realize how much of my life is sort of mediated by these technologies that weren&#39;t even a twinkle in her eye.</p>
 </blockquote>
 <p>Relatedly, this photo caught my eye from <a href="http://www.boston.com/bigpicture/2010/12/pearl_harbor_69_years_ago_toda.html" target="_self">today&#39;s Big Picture</a>...</p>
-<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c67ddd6e970c-pi" style="display: inline;"><img alt="P22_10707016" class="asset  asset-image at-xid-6a00d8341c4f5f53ef0148c67ddd6e970c" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c67ddd6e970c-500wi" title="P22_10707016" /></a></p>
+<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c67ddd6e970c-pi" style="display: inline;"><img alt="P22_10707016" class="asset  asset-image at-xid-6a00d8341c4f5f53ef0148c67ddd6e970c" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c67ddd6e970c-500wi" title="P22_10707016" /></a></p>
 <blockquote>
 <p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0148c67ddd6e970c-pi" style="display: inline;"></a>White House reporters dash for the telephones on December 7th, 1941, after they had been told by presidential press secretary Stephen T. Early that Japanese submarines and planes had just bombed the U.S. Pacific fleet at Pearl Harbor, Hawaii.</p>
 </blockquote>

@@ -9,7 +9,7 @@ permalink: /2011/01/intels-short-doc-on-scott-schuman.html
 <object height="340" width="560">
 <param name="movie" value="http://www.youtube.com/v/e5NgG5koPZU?fs=1&amp;hl=en_US" />
 <param name="allowFullScreen" value="true" />
-<param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="340" src="http://www.youtube.com/v/e5NgG5koPZU?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="560" />
+<param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" allowscriptaccess="always" height="340" src="https://www.youtube.com/v/e5NgG5koPZU?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" width="560" />
 </object>
 &#0160;</p>
 <p>This is good. Not only is this a major brand&#39;s documentary <em>about a blogger</em>,&#0160;he&#39;s also ruggedly handsome, New York looks great, there&#39;s a cool &quot;projected images from a moving vehicle&quot; thing, and there&#39;s a great moment where two women he&#39;s photographing on the street don&#39;t recognize him...until one of them does.&#0160;</p>

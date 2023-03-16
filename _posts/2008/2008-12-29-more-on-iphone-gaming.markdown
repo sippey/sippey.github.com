@@ -17,7 +17,7 @@ permalink: /2008/12/more-on-iphone-gaming.html
 
 <p><strong>Update:</strong>  Randy rightly points out in this little act of sharing...</p>
 
-<p><img src="http://sippey.typepad.com/photos/pics/shaderlab-coughs.jpg" width="538" height="38" border="1" /></p>
+<p><img src="https://sippey.typepad.com/photos/pics/shaderlab-coughs.jpg" width="538" height="38" border="1" /></p>
 
 <p>...that I completely neglected to credit his tweet as the source of news re. Passage and Crayon Physics. I'd tip my hat, but I'd likely blind him with my skull and he'd crash his fixie into the nearest Blue Bottle.</p>
 

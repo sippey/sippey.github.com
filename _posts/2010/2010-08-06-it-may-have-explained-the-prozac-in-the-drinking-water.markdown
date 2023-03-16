@@ -14,7 +14,7 @@ permalink: /2010/08/it-may-have-explained-the-prozac-in-the-drinking-water.html
 </blockquote>
 <p>...which would have reported that well-adjusted kids are less likely to pirate content from their malcontent &quot;friends&quot; or steal intellectual property from those shady online networks. (Ah, the difference a colon makes.) The story had this pic right under the lede:</p>
 <blockquote></blockquote>
-<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f2e44190970b-pi" style="display: inline;"><img alt="147267-kid_computer_2_341" class="asset  asset-image at-xid-6a00d8341c4f5f53ef0133f2e44190970b" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f2e44190970b-500wi" /></a></p>
+<p><a href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f2e44190970b-pi" style="display: inline;"><img alt="147267-kid_computer_2_341" class="asset  asset-image at-xid-6a00d8341c4f5f53ef0133f2e44190970b" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f2e44190970b-500wi" /></a></p>
 <blockquote></blockquote>
 <p>That kid on the right - doesn&#39;t he look happy and willing to pay? Maybe <em>too</em> happy?</p>
 

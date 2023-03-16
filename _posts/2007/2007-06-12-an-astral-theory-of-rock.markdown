@@ -14,7 +14,7 @@ permalink: /2007/06/an-astral-theory-of-rock.html
 
 </tr>
 
-<tr><td rowspan="23"><img width="101" height="453" src="http://www.suck.com/zerobaud/96/08/01/d.gif" /></td>
+<tr><td rowspan="23"><img width="101" height="453" src="https://www.suck.com/zerobaud/96/08/01/d.gif" /></td>
 
 </tr>
 
@@ -184,7 +184,7 @@ permalink: /2007/06/an-astral-theory-of-rock.html
 
 <tr><td></td>
 
-<td width="185"><img width="185" height="132" src="http://www.suck.com/zerobaud/96/08/01/a.gif" /></td>
+<td width="185"><img width="185" height="132" src="https://www.suck.com/zerobaud/96/08/01/a.gif" /></td>
 
 <td></td>
 
@@ -422,7 +422,7 @@ permalink: /2007/06/an-astral-theory-of-rock.html
 
 <tr><td></td>
 
-<td width="158"><img width="158" height="170" src="http://www.suck.com/zerobaud/96/08/01/b.gif" /></td>
+<td width="158"><img width="158" height="170" src="https://www.suck.com/zerobaud/96/08/01/b.gif" /></td>
 
 <td></td>
 
@@ -677,7 +677,7 @@ permalink: /2007/06/an-astral-theory-of-rock.html
 
 <tr><td></td>
 
-<td width="141"><img width="141" height="145" src="http://www.suck.com/zerobaud/96/08/01/c.gif" /></td>
+<td width="141"><img width="141" height="145" src="https://www.suck.com/zerobaud/96/08/01/c.gif" /></td>
 
 <td></td>
 

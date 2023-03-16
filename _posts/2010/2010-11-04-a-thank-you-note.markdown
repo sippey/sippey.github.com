@@ -4,7 +4,7 @@ title: "a thank you note"
 permalink: /2010/11/a-thank-you-note.html
 ---
 
-<p><img class="asset asset-image at-xid-6a00d8341c4f5f53ef0133f596523b970b  " height="302" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f596523b970b-pi" width="430" /></p>
+<p><img class="asset asset-image at-xid-6a00d8341c4f5f53ef0133f596523b970b  " height="302" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0133f596523b970b-pi" width="430" /></p>
 
 <p>Dear Leah,</p>
 

@@ -6,7 +6,7 @@ permalink: /2008/05/rauschenberg-on-erased-de-kooning-drawing.html
 
 <p>I went looking for a bit of Rauschenberg on YouTube this morning, and came across this quick <a href="http://www.youtube.com/watch?v=tpCWh3IFtDQ">four and a half minute piece</a> on one of my favorites of his, the <a href="http://www.tate.org.uk/tateetc/issue8/erasuregenteel.htm">Erased de Kooning Drawing</a>, from 1953.</p>
 
-<p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/tpCWh3IFtDQ&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/tpCWh3IFtDQ&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
+<p><object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/tpCWh3IFtDQ&amp;hl=en"></param><param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/tpCWh3IFtDQ&amp;hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object></p>
 
 <p>I love this bit, about a minute and a half in...</p>
 

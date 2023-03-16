@@ -8,7 +8,7 @@ permalink: /2010/01/i-wrote-this-blog-post-in-one-take.html
 
 <p>The one on that list that slays me every time I see it is <a href="http://www.youtube.com/watch?v=en16i8BY4hI">from <em>Children of Men</em></a>. (Le has it at #4 on his list.) Don't watch if you ever plan on seeing the film; it's spoilerful, and the experience of seeing it in the middle of the movie is mind-blowing.)</p>
 
-<p><a href="http://www.youtube.com/watch?v=en16i8BY4hI"><img src="http://stuff.sippey.com/snaps/2009/01/children-of-men-20100125-224050.jpg" width="560" height="306"alt="children-of-men" /></a></p>
+<p><a href="http://www.youtube.com/watch?v=en16i8BY4hI"><img src="https://stuff.sippey.com/snaps/2009/01/children-of-men-20100125-224050.jpg" width="560" height="306"alt="children-of-men" /></a></p>
 
 <p>Alfonso Cuarón reportedly used digital effects to stitch that scene together. Via Wikipedia comes <a href="http://www.awn.com/articles/production/ichildren-meni-invisible-vfx-future-decay/page/3%2C1">this piece on the film at Animation World Network</a>.  I'll quote at length, just to turn this into a continuous shot blog post:</p>
 

@@ -16,7 +16,7 @@ permalink: /2007/06/genius-envy.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.broadartfdn.org/c12.Koons.html"><img width="95" height="185" border="0" src="http://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/koons.gif" alt="[Koons]" /></a>
+<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.broadartfdn.org/c12.Koons.html"><img width="95" height="185" border="0" src="https://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/koons.gif" alt="[Koons]" /></a>
 
 </strong></p>
 
@@ -79,7 +79,7 @@ permalink: /2007/06/genius-envy.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.artn.nwu.edu/Early/plate.html"><img width="242" height="90" border="0" src="http://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/marcel.gif" alt="[Duchamp]" /></a>
+<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.artn.nwu.edu/Early/plate.html"><img width="242" height="90" border="0" src="https://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/marcel.gif" alt="[Duchamp]" /></a>
 
 </strong></p>
 
@@ -135,7 +135,7 @@ permalink: /2007/06/genius-envy.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.genart.org/curator/html/Reynos06_02.html"><img width="151" height="186" border="0" src="http://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/breastplate.GIF" alt="[Breastplate]" /></a>
+<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.genart.org/curator/html/Reynos06_02.html"><img width="151" height="186" border="0" src="https://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/breastplate.GIF" alt="[Breastplate]" /></a>
 
 </strong></p>
 
@@ -270,7 +270,7 @@ permalink: /2007/06/genius-envy.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.links.net/webpub/"><img width="203" height="75" border="0" src="http://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/yerad.gif" alt="[Your Ad]" /></a>
+<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.links.net/webpub/"><img width="203" height="75" border="0" src="https://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/yerad.gif" alt="[Your Ad]" /></a>
 
 </strong></p>
 
@@ -320,7 +320,7 @@ permalink: /2007/06/genius-envy.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.stale.com/"><img width="176" height="154" border="0" src="http://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/stale.gif" alt="[Stale]" /></a>
+<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.stale.com/"><img width="176" height="154" border="0" src="https://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/stale.gif" alt="[Stale]" /></a>
 
 </strong></p>
 
@@ -434,7 +434,7 @@ permalink: /2007/06/genius-envy.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.thesquat.com/welcome.html"><img width="222" height="162" border="0" src="http://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/squat.gif" alt="[Squat]" /></a>
+<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.thesquat.com/welcome.html"><img width="222" height="162" border="0" src="https://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/squat.gif" alt="[Squat]" /></a>
 
 </strong></p>
 
@@ -517,7 +517,7 @@ permalink: /2007/06/genius-envy.html
 
 </strong></p>
 
-<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.displacing.com/"><img width="165" height="165" border="0" src="http://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/homerun.gif" alt="[Home Run]" /></a>
+<p><strong><a href="http://web.archive.org/web/20010712085218/http://www.displacing.com/"><img width="165" height="165" border="0" src="https://web.archive.org/web/20010712085218/http://www.suck.com/daily/96/09/24/homerun.gif" alt="[Home Run]" /></a>
 
 </strong></p>
 

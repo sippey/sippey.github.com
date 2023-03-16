@@ -4,7 +4,7 @@ title: "voip will drive laptop innovation"
 permalink: /2005/08/voip_will_drive.html
 ---
 
-<p><img width="200" height="127" border="0" alt="Store_internetchat2" title="Store_internetchat2" src="http://sippey.typepad.com/filtered/images/store_internetchat2.png" style="margin: 0px 0px 5px 5px; float: right;" />I've been using Skype fairly regularly for the past few months, and now also Talk (dot google dot com).&nbsp; But one of the more annoying things about VoIP apps like these isn't the software user experience -- they've got the basics (discovery, call initiation, volume control, etc.) nailed.&nbsp; What's frustrating is the hardware.&nbsp; Who actually enjoys using one of the typical stereo headsets with boom mics, massively-long cords and <em>two</em> plugs?&nbsp; </p>
+<p>I've been using Skype fairly regularly for the past few months, and now also Talk (dot google dot com).&nbsp; But one of the more annoying things about VoIP apps like these isn't the software user experience -- they've got the basics (discovery, call initiation, volume control, etc.) nailed.&nbsp; What's frustrating is the hardware.&nbsp; Who actually enjoys using one of the typical stereo headsets with boom mics, massively-long cords and <em>two</em> plugs?&nbsp; </p>
 
 <p>I know I can't be the first to predict this, of course, but as these apps become more and more widely used, I think we'll see some interesting innovations in hardware design, especially in laptops...</p>
 

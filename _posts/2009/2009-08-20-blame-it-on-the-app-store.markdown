@@ -16,7 +16,7 @@ permalink: /2009/08/blame-it-on-the-app-store.html
 
 <p>Anyway.  What was the question?  What's preventing me from accomplishing my fitness goals?  Clearly it's the App Store.</p>
 
-<p><small><i>Presented by <a href="http://ad.doubleclick.net/clk;216634277;37392899;b" target="_blank">Intel, Sponsors of Tomorrow</a>.<img src="http://ad.doubleclick.net/ad/N5364.federatedmedia.com/B3659174.55;sz=1x1;ord=?" /></i></small></p>
+<p><small><i>Presented by <a href="http://ad.doubleclick.net/clk;216634277;37392899;b" target="_blank">Intel, Sponsors of Tomorrow</a>.<img src="https://ad.doubleclick.net/ad/N5364.federatedmedia.com/B3659174.55;sz=1x1;ord=?" /></i></small></p>
 
 
 

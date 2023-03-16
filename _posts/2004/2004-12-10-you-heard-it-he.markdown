@@ -4,7 +4,7 @@ title: "closer"
 permalink: /2004/12/you_heard_it_he.html
 ---
 
-<p><img title="Closer" height="150" alt="Closer" src="http://sippey.typepad.com/filtered/images/closer.jpg" width="200" border="0" style="FLOAT: right; MARGIN: 0px 0px 5px 5px" />You heard it hear first:&nbsp; Natalie Portman is the next Hugh Grant.</p>
+<p>You heard it hear first:&nbsp; Natalie Portman is the next Hugh Grant.</p>
 
 <p>When you hear &quot;Hugh Grant movie&quot; you think romantic comedy, starring a charming and slightly disheveled bloke who will stumble all over himself before finally landing the girl and apologizing for not recognizing how much of an ass he's been the entire film.&nbsp; Audiences smile, chuckle, marvel at the black taxicabs of London, and want to reach up on to the silver screen to muss up his hair.&nbsp; And then maybe strangle him for that whole Elizabeth Hurley / Hollywood hooker thing.</p>
 

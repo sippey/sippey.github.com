@@ -17,17 +17,17 @@ then to get along with each other as Google surges forward.</p></blockquote><p>S
 
 
 <p>
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav1.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav2.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav3.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav4.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav5.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav6.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav7.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav8.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav9.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav10.png" /><br />
-<img width="400" height="20" border="0" src="http://sippey.typepad.com/filtered/images/google-nav/googlenav11.png" /></p>
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav1.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav2.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav3.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav4.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav5.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav6.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav7.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav8.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav9.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav10.png" /><br />
+<img width="400" height="20" border="0" src="https://sippey.typepad.com/filtered/images/google-nav/googlenav11.png" /></p>
 
 <p>Of note:</p>
 

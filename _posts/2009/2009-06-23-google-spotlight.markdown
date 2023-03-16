@@ -4,7 +4,7 @@ title: "a little google in my spotlight?"
 permalink: /2009/06/google-spotlight.html
 ---
 
-<p><a rel="lightbox" style="float: right;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0115714c76d0970b-pi"><img class="at-xid-6a00d8341c4f5f53ef0115714c76d0970b" style="width: 200px; margin: 10px;" alt="Iphone-search" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0115714c76d0970b-200wi" /></a> I'm very much enjoying iPhone 3.0 and my new 3GS.  The new hardware is a great upgrade (faster, smoother, more directionally correct), and there are small details in the new software that are useful and delightful (like locations in the missed call screen).</p>
+<p><a rel="lightbox" style="float: right;" href="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0115714c76d0970b-pi"><img class="at-xid-6a00d8341c4f5f53ef0115714c76d0970b" style="width: 200px; margin: 10px;" alt="Iphone-search" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0115714c76d0970b-200wi" /></a> I'm very much enjoying iPhone 3.0 and my new 3GS.  The new hardware is a great upgrade (faster, smoother, more directionally correct), and there are small details in the new software that are useful and delightful (like locations in the missed call screen).</p>
 
 <p>I haven't built a habit of searching on the phone, though, despite the very clever swipe-to-go-left UI placement of Spotlight.  I don't have enough content on the phone to make search worthwhile, and the "normal" mode of navigation through each of the individual apps (Contacts, Mail, iPod, etc.) works well enough (for me).  <strong>I think I'd be swiping left a lot more if they included a little Google in my Spotlight.</strong>  </p>
 

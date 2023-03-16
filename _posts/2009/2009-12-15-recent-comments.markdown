@@ -4,8 +4,8 @@ title: "recent comments on sippey.com"
 permalink: /2009/12/recent-comments.html
 ---
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.sippey.com/images/jquery.timeago.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.sippey.com/images/jquery.timeago.js"></script>
 <script type="text/javascript">
     function sippey(obj){ 
         var x;
@@ -34,8 +34,8 @@ padding-top : 0px;
 
 <p>&nbsp;</p>
 
-<div id="loading"><img src="http://www.sippey.com/images/ajax-loader.gif" /></div>
+<div id="loading"><img src="https://www.sippey.com/images/ajax-loader.gif" /></div>
 
-<script type="text/javascript" src="http://pipes.yahoo.com/pipes/pipe.run?_id=972d2a574fd4420cb53655b5b980af6f&_render=json&_callback=sippey"></script>
+<script type="text/javascript" src="https://pipes.yahoo.com/pipes/pipe.run?_id=972d2a574fd4420cb53655b5b980af6f&_render=json&_callback=sippey"></script>
 
 

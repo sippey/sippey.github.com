@@ -12,7 +12,7 @@ permalink: /2008/01/the-mystery-box.html
 
 <p>I'm <a href="http://twitter.com/sippey/statuses/573195882">queuing</a> that one up for the weekend.</p>
 
-<p><img alt="Carnwathb" title="Carnwathb" src="http://sippey.typepad.com/photos/uncategorized/2008/01/11/carnwathb.jpg" border="0"  /></p>
+<p><img alt="Carnwathb" title="Carnwathb" src="https://sippey.typepad.com/photos/uncategorized/2008/01/11/carnwathb.jpg" border="0"  /></p>
 
 <p>Relatedly:  Over the past several years, Bay Area painter <a href="http://www.squeakcarnwath.com/">Squeak Carnwath</a> has routinely contributed Grab Bag Mystery Boxes to fund-raising art auctions. Here's the description <a href="http://www.click-media.net/dirosa/auction/carnwath.html">of one</a> from a 2002 di Rosa Preserve auction:</p>
 

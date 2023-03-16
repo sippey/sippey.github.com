@@ -14,7 +14,7 @@ permalink: /2010/07/just-like-the-snowglobe.html
 
 <p>While it lasts, Here's a YouTube clip of the ending. </p>
 
-<p><object width="560" height="445"><param name="movie" value="http://www.youtube.com/v/BXJdYi6-f_M&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/BXJdYi6-f_M&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="445"></embed></object></p>
+<p><object width="560" height="445"><param name="movie" value="http://www.youtube.com/v/BXJdYi6-f_M&amp;hl=en_US&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="https://www.youtube.com/v/BXJdYi6-f_M&amp;hl=en_US&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="445"></embed></object></p>
 
 <p>PS:  Styleite argues that MTV did this same thing seven years ago with <a href="http://www.styleite.com/media/the-hills-ending-the-osbornes/">the finale of season two of The Osbournes</a>.</p>
 

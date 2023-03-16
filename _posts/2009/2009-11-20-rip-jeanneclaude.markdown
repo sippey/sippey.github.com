@@ -6,7 +6,7 @@ permalink: /2009/11/rip-jeanneclaude.html
 
 <p>Back in the fall of 1991 Trina and I took a long day trip from San Francisco down to the Grapevine to see <a href="http://www.christojeanneclaude.net/um.shtml">Christo's umbrellas</a>.  </p>
 
-<p><a style="display: inline;" href="http://www.christojeanneclaude.net/um.shtml"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef012875be116c970c" alt="Christo-Umbrellas_US" src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef012875be116c970c-500wi"  /></a></p>
+<p><a style="display: inline;" href="http://www.christojeanneclaude.net/um.shtml"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef012875be116c970c" alt="Christo-Umbrellas_US" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef012875be116c970c-500wi"  /></a></p>
 
 <p>They were incredible to see in person, especially knowing a little bit about what went into the production of the piece.  A finished Christo piece is like the tip of an iceberg -- you see this beautiful little bit above the water, while the terrifying process of financing, planning and constructing the work lives under the surface and gives the work its mass.</p>
 

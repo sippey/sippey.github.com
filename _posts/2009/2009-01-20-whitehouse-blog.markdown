@@ -6,7 +6,7 @@ permalink: /2009/01/whitehouse-blog.html
 
 <p>I like this nav, for obvious reasons.</p>
 
-<p><img alt="Whitehouse-blog" border="0" class="at-xid-6a00d8341c4f5f53ef010536dea351970b " src="http://sippey.typepad.com/.a/6a00d8341c4f5f53ef010536dea351970b-800wi" title="Whitehouse-blog" /></p>
+<p><img alt="Whitehouse-blog" border="0" class="at-xid-6a00d8341c4f5f53ef010536dea351970b " src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef010536dea351970b-800wi" title="Whitehouse-blog" /></p>
 
 <p>And of course now there&#39;s a canonical example of how best to integrate your blog into your website: put it on the <em>front page</em>. It&#39;s what the Commander in Chief does.</p>
 

@@ -10,7 +10,7 @@ permalink: /2009/08/fallows-on-the-brain.html
 
 <p>What threw me for a loop, though, was that a screenshot in the piece of <a href="http://www.davidco.com/">David Allen</a>'s brain includes a reference to a former colleague of mine, <a href="http://twitter.com/jjg72">Jack Griffin</a>, who's living in Switzerland.</p>
 
-<blockquote><img  src="http://jamesfallows.theatlantic.com/assets_c/2009/08/DavidAllenBrain-thumb-550x428-13168.jpg" width="500" /></blockquote>
+<blockquote><img  src="https://jamesfallows.theatlantic.com/assets_c/2009/08/DavidAllenBrain-thumb-550x428-13168.jpg" width="500" /></blockquote>
 
 <p>Small world.</p>
 
