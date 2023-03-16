@@ -7,3 +7,6 @@ paginate : 20
 paginate_path: "page/:num"
 plugins: [jekyll-paginate]
 timezone: America/Los_Angeles
+algolia:
+  application_id: ALIH66MWZH
+  index_name: sippeydotcom
