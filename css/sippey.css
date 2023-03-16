@@ -164,6 +164,13 @@ blockquote {
 	margin-bottom: 3em;
 }
 
+.search-post {
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-bottom: 1em;
+}
+
+
 .links,
 .index-links {
 	margin-bottom : 5em;

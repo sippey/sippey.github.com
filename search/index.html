@@ -51,9 +51,9 @@ const hitTemplate = function(hit) {
   const content = hit._highlightResult.html.value;
 
   return `
-    <div class="index-post">
-        <div class="meta">${date}</span>
-        <h2><a class="post-link" href="${url}">${title}</a></h2>
+    <div class="search-post">
+        <div class="meta">${date}</div>
+        <h2><a href="${url}">${title}</a></h2>
         <div class="post">${content}</div>
     </div>
   `;
