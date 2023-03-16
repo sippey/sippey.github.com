@@ -1,4 +1,5 @@
 User-agent: *
 Disallow: /page/
+Disallow: /search/
 
 Sitemap: https://sippey.com/sitemap.xml
