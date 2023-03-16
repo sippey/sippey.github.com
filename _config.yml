@@ -10,3 +10,4 @@ timezone: America/Los_Angeles
 algolia:
   application_id: ALIH66MWZH
   index_name: sippeydotcom
+  search_only_api_key: c2853a177366a5d9612dbd0445d9e79b
