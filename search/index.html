@@ -11,23 +11,7 @@ title: Search
 
         <div id="search-searchbar"></div>
 
-        <div class="post-list" id="search-hits">
-          {% for post in site.posts %}
-            <div class="post-item">
-              {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-              <span class="post-meta">{{ post.date | date: date_format }}</span>
-        
-              <h2>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                  {{ post.title | escape }}
-                </a>
-              </h2>
-        
-              <div class="post-snippet">{{ post.excerpt }}</div>
-            </div>
-          {% endfor %}
-        </div>
-        
+        <div id="search-hits"></div>
 
     </div>
     
@@ -67,11 +51,10 @@ const hitTemplate = function(hit) {
   const content = hit._highlightResult.html.value;
 
   return `
-    <div class="post-item">
-      <span class="post-meta">${date}</span>
-      <h2><a class="post-link" href="${url}">${title}</a></h2>
-      {{#breadcrumbs}}<a href="${url}" class="post-breadcrumbs">${breadcrumbs}</a>{{/breadcrumbs}}
-      <div class="post-snippet">${content}</div>
+    <div class="index-post">
+        <div class="meta">${date}</span>
+        <h2><a class="post-link" href="${url}">${title}</a></h2>
+        <div class="post">${content}</div>
     </div>
   `;
 }
@@ -80,7 +63,7 @@ const hitTemplate = function(hit) {
 search.addWidget(
   instantsearch.widgets.searchBox({
     container: '#search-searchbar',
-    placeholder: 'Search into posts...',
+    placeholder: 'Search...',
     poweredBy: true // This is required if you're on the free Community plan
   })
 );
