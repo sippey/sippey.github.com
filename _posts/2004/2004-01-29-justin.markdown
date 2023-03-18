@@ -1,15 +1,14 @@
 ---
+date: 2004-01-29
 layout: post
-title: "justin"
+title: justin
 permalink: /2004/01/justin.html
 ---
 
-<p><a href="http://www.links.net/">Justin Hall</a> just won't stop.  And for that I'm thankful.</p>
+[Justin Hall](http://www.links.net/) just won't stop. And for that I'm thankful.
 
-<p>He just hit his ten year anniversary of publishing content on links.net, and if you've been online that long, taking a tour through his <a href="http://www.links.net/daze/02/06/listing.html">June 2002 subdirectory listing</a> will likely set off little memory bombs every step of the way.  "Oh, yeah the summer roadtrip in 1996...I remember that.  My God, look at his hair!"</p>
+He just hit his ten year anniversary of publishing content on links.net, and if you've been online that long, taking a tour through his [June 2002 subdirectory listing](http://www.links.net/daze/02/06/listing.html) will likely set off little memory bombs every step of the way. "Oh, yeah the summer roadtrip in 1996...I remember that. My God, look at his hair!"
 
-<p>Two things about Justin's publishing that continues to amaze.  First, obviously, the sheer <i>volume</i>.  He simultaneously has no filter and is able to filter down his days into something readable, entertaining and bigger picture.  Second, even though he's now using a publishing tool, there are all those <i>pages</i> out there.  All today's template driven publishing looks boring and corporate and easily digestible next to the personality-rich (and chaos-laden) individual pages that have popped up on links since 1994.  Colors!  Inline pictures!  Wacky table layouts!  Today, we type into textareas, publish with a pushbutton, and imagine that our validating content is contributing to some sort of semantic web.  We've given up the personality of the individual page for the syndicated reach of RSS.</p>
+Two things about Justin's publishing that continues to amaze. First, obviously, the sheer _volume_. He simultaneously has no filter and is able to filter down his days into something readable, entertaining and bigger picture. Second, even though he's now using a publishing tool, there are all those _pages_ out there. All today's template driven publishing looks boring and corporate and easily digestible next to the personality-rich (and chaos-laden) individual pages that have popped up on links since 1994. Colors! Inline pictures! Wacky table layouts! Today, we type into textareas, publish with a pushbutton, and imagine that our validating content is contributing to some sort of semantic web. We've given up the personality of the individual page for the syndicated reach of RSS.
 
-<p>One more thing.  Compare and contrast:  Justin's decade of personal publishing at links.net with the average individual profile on Orkut or Friendster or Tribe.  Sure, those systems are built to be the personal home pages of people who don't publish.  And I know I'm romanticizing.  But where along the road did personal publishing shift from freewheeling page posting to form-centric data collection?</p>
-
-
+One more thing. Compare and contrast: Justin's decade of personal publishing at links.net with the average individual profile on Orkut or Friendster or Tribe. Sure, those systems are built to be the personal home pages of people who don't publish. And I know I'm romanticizing. But where along the road did personal publishing shift from freewheeling page posting to form-centric data collection?

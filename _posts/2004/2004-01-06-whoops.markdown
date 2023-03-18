@@ -1,11 +1,10 @@
 ---
+date: 2004-01-06
 layout: post
-title: "whoops"
+title: whoops
 permalink: /2004/01/whoops.html
 ---
 
-<p>Wow, I guess that whole mini-iPod thing must be a hit -- after all, who wouldn't want to spend just $50 less than a white iPod in order to get a 40% of the storage capacity and <em>colors</em>.  And I guess the XServe must be the thing for my server farm.  After all, that G5 is part of the third-fastest supercomputer in the world!</p>
+Wow, I guess that whole mini-iPod thing must be a hit -- after all, who wouldn't want to spend just $50 less than a white iPod in order to get a 40% of the storage capacity and _colors_. And I guess the XServe must be the thing for my server farm. After all, that G5 is part of the third-fastest supercomputer in the world!
 
-<p>(I know, pointless bashing.  A few reloads later and the site appeared.  But, um, oops.)</p>
-
-
+(I know, pointless bashing. A few reloads later and the site appeared. But, um, oops.)
