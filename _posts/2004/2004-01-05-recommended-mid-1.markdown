@@ -1,7 +1,7 @@
 ---
 date: 2004-01-05
 layout: post
-title: recommended:  middlesex
+title: "recommended: middlesex"
 permalink: /2004/01/recommended_mid_1.html
 ---
 
