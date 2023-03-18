@@ -1,6 +1,6 @@
 ---
-date: 2023-03-17
-title: shit gets fun
+date: 2023-03-17 23:59
+title: shit gets weird
 layout: links
 ---
 
