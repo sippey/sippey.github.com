@@ -1,9 +1,11 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.6'
+gem 'jekyll'
+# gem 'jekyll', '~> 3.6'
 gem 'jekyll-paginate'
 
-gem "webrick", "~> 1.7"
+gem "webrick"
+# gem "webrick", "~> 1.7"
 gem "kramdown-parser-gfm"
 
 group :jekyll_plugins do
