@@ -1,4 +1,5 @@
 ---
+date: 1995-08-01
 title: Apple's Salvation
 layout: post
 ---
