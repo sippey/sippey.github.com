@@ -1,9 +1,9 @@
 ---
 layout: post
+date: 2004-06-06
 title: "bizwerk"
 permalink: /2004/06/bizwerk.html
 ---
 
-<p>Subscribed:  <a href="http://bizwerk.blogspot.com/">Bizwerk</a>, the new biz blog from <a href="http://www.caterina.net/">Caterina Fake</a>.  Best line so far:  "Business books are as trendy as hairstyles and skirt lengths."</p>
-
+Subscribed: [Bizwerk](http://bizwerk.blogspot.com/), the new biz blog from [Caterina Fake](http://www.caterina.net/). Best line so far: "Business books are as trendy as hairstyles and skirt lengths."
 

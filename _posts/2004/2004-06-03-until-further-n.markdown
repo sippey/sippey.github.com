@@ -1,11 +1,11 @@
 ---
 layout: post
+date: 2004-06-03
 title: "until further notice"
 permalink: /2004/06/until_further_n.html
 ---
 
-<p>I'm posting back over <b><a href="http://www.sippey.com/">here</a>.</b>  Why?  Because I have the attention span of a moth.</p>
+I'm posting back over **[here](http://www.sippey.com/).** Why? Because I have the attention span of a moth.
 
-<p>If you're reading this in an aggregator, and want to stay with me, point your client to <a href="http://feeds.feedburner.com/sippey">http://feeds.feedburner.com/sippey</a>.</p>
-
+If you're reading this in an aggregator, and want to stay with me, point your client to [http://feeds.feedburner.com/sippey](http://feeds.feedburner.com/sippey).
 

@@ -1,21 +1,19 @@
 ---
 layout: post
+date: 2004-04-12
 title: "from page 23"
 permalink: /2004/04/from_page_23.html
 ---
 
-<p>Caterina <a href="http://www.caterina.net/archive/000521.html">advises</a> the following:</p>
+Caterina [advises](http://www.caterina.net/archive/000521.html) the following:
 
-<blockquote><ol><li>Grab the nearest book.</li>
-<li>Open the book to page 23.</li>
-<li>Find the fifth sentence.</li>
-<li>Post the text of the sentence in your journal along with these instructions.</li></ol>
-</blockquote>
+> 1.  Grab the nearest book.
+> 2.  Open the book to page 23.
+> 3.  Find the fifth sentence.
+> 4.  Post the text of the sentence in your journal along with these instructions.
 
-<p>OK.  Nearest book is <a href="http://www.amazon.com/exec/obidos/tg/detail/-/9056623494/statingtheobvioua/"><i>What is OMA:  Considering Rem Koolhaas and the Office for Metropolitan Architecture</i></a>.  No, really.  I'm fascinated by the way he can go on Charlie Rose and talk for a full hour and only mention the particulars of a building (like it's use or structure or design) <i>once</i>.  The thing is, page 23 is an image.  So I skipped ahead to 25, and I had to count the chapter title as a sentence in order to have a fifth sentence on the page.  And it damn near encapsulates the whole book...</p>
+OK. Nearest book is [_What is OMA: Considering Rem Koolhaas and the Office for Metropolitan Architecture_](http://www.amazon.com/exec/obidos/tg/detail/-/9056623494/statingtheobvioua/). No, really. I'm fascinated by the way he can go on Charlie Rose and talk for a full hour and only mention the particulars of a building (like it's use or structure or design) _once_. The thing is, page 23 is an image. So I skipped ahead to 25, and I had to count the chapter title as a sentence in order to have a fifth sentence on the page. And it damn near encapsulates the whole book...
 
-<blockquote>That is not because it is difficult to build or because architecture has failed to escape from the clutches of the fashion cycle, but because the accomplishment of any task in our society, whether it is writing a piece of criticism or selling a product or organising a large corporate entity, is dependent not so much on production as it is on the mixture of branding, signature, sound-bite and image that creates the memorable moments of comprehension in an increasingly abstract economic and social system.</blockquote>
+> That is not because it is difficult to build or because architecture has failed to escape from the clutches of the fashion cycle, but because the accomplishment of any task in our society, whether it is writing a piece of criticism or selling a product or organising a large corporate entity, is dependent not so much on production as it is on the mixture of branding, signature, sound-bite and image that creates the memorable moments of comprehension in an increasingly abstract economic and social system.
 
-<p>In other words, sizzle sells the steak.</p>
-
-
+In other words, sizzle sells the steak.
