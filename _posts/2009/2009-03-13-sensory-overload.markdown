@@ -16,7 +16,5 @@ permalink: /2009/03/sensory-overload.html
 
 <p>...and this one from I don't remember who because all I could think was "This must be how we get back to the island..."</p>
 
-<p><object type="application/x-shockwave-flash" width="400" height="300" data="http://www.flickr.com/apps/video/stewart.swf?v=68975" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&amp;photo_secret=6f49ca0fe7&amp;photo_id=3350335499"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=68975"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="https://www.flickr.com/apps/video/stewart.swf?v=68975" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&amp;photo_secret=6f49ca0fe7&amp;photo_id=3350335499" height="300" width="400"></embed></object></p>
-
 
 
