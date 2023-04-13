@@ -6,7 +6,7 @@ body {
 	line-height: 150%;
 	color : #333;
 	font-weight : 400;
-	font-family: Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+	font-family: system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -58,14 +58,15 @@ a:hover {
 }
   
 .page-header h1 {
-	font-weight : normal;
-	font-style: italic;
-	font-size : 1.5em;
+	font-weight : bold;
+	font-size : 1.4em;
 }
 
 .page-header h1 a {
 	text-decoration: none;
 	background-color: yellow;
+	padding-left: 2px;
+	padding-right: 2px;
 }
 
 @media (prefers-color-scheme: dark) {
