@@ -126,6 +126,7 @@ blockquote {
 	margin-left : 10px;
 	padding-left : 10px;
 	border-left : 1px solid silver;
+	font-size: 0.9rem;
 }
 
 @media (prefers-color-scheme: dark) {
