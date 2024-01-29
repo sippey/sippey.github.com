@@ -1,20 +1,18 @@
 ---
 layout: post
+date: 2005-03-08
 title: "zopa"
 permalink: /2005/03/zopa.html
 ---
 
-<p>File under Now <em>That's</em> a Market:&nbsp; <a href="http://www.zopa.com/">Zopa</a>.</p><blockquote><p>Zopa is a place where creditworthy people who want to borrow money can get together with people who are happy to lend it to them. And because there's no middleman - the borrower just pays a 1% exchange fee to Zopa up front - both get a great deal.</p>
+File under Now _That's_ a Market:  [Zopa](http://www.zopa.com/).
 
-<p>&lt;snip /&gt;</p>
+> Zopa is a place where creditworthy people who want to borrow money can get together with people who are happy to lend it to them. And because there's no middleman - the borrower just pays a 1% exchange fee to Zopa up front - both get a great deal.
+> 
+> When you join Zopa, we'll tell you what your Equifax credit rating  is. If you want to be a borrower, we'll then use it to rate the likelihood of you being a good one. If you look like you'll be a low risk borrower, we'll let you borrow from a low risk market. If your credit rating is only quite good, we'll let you borrow from a medium risk one, and so on.
+> 
+> Lenders pick a market to offer their money in depending on the level of risk they are happy to take. They choose the length of time they want to lend their money for and set the interest rate they are happy to accept.
+> 
+> Here’s the really clever bit. An individual lender doesn't lend to an individual borrower because that’s too risky. Instead a lender lends their money across at least fifty Zopa borrowers, and similarly a borrower borrows from a group of Zopa lenders. So the risk is well and truly spread.
 
-<p> When you join Zopa, we'll tell you what your Equifax credit rating&nbsp; is. If you want to be a borrower, we'll then use it to rate the likelihood of you being a good one. If you look like you'll be a low risk borrower, we'll let you borrow from a low risk market. If your credit rating is only quite good, we'll let you borrow from a medium risk one, and so on.</p>
-
-<p>Lenders pick a market to offer their money in depending on the level of risk they are happy to take. They choose the length of time they want to lend their money for and set the interest rate they are happy to accept.</p>
-
-<p>&lt;snip /&gt;</p>
-
-<p>
-Here’s the really clever bit. An individual lender doesn't lend to an individual borrower because that’s too risky. Instead a lender lends their money across at least fifty Zopa borrowers, and similarly a borrower borrows from a group of Zopa lenders. So the risk is well and truly spread.</p></blockquote><p>Started by folks from Egg; available to UK residents only.&nbsp; It has an outstanding loan limit of&nbsp; £25,000, which, if I'm understanding this correctly, pits them against unsecured debt tools like credit cards for the borrower, and CDs for the lender.&nbsp; Question: would this even be <em>legal</em> in the US?</p><blockquote>&nbsp;</blockquote>
-
-
+Started by folks from Egg; available to UK residents only.  It has an outstanding loan limit of  £25,000, which, if I'm understanding this correctly, pits them against unsecured debt tools like credit cards for the borrower, and CDs for the lender.  Question: would this even be _legal_ in the US?

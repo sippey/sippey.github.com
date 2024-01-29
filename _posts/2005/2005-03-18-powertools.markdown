@@ -1,11 +1,10 @@
 ---
 layout: post
+date: 2005-03-18
 title: "powertools"
 permalink: /2005/03/powertools.html
 ---
 
-<p>Powertools.&nbsp; Get your <a href="http://www.sixapart.com/pronet/docs/powertools">Powertools</a> here.&nbsp; We've got Powertools.</p>
+Powertools.  Get your [Powertools](http://www.sixapart.com/pronet/docs/powertools) here.  We've got Powertools.
 
-<p>(I'm obviously <em>very</em> ready for opening day.)</p>
-
-
+(I'm obviously _very_ ready for opening day.)
