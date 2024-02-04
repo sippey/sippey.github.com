@@ -52,7 +52,7 @@ a:hover {
 /* header */
 
 .page-header {
-	margin-top: 40px;
+	margin-top: 60px;
 	margin-bottom : 40px;
 	border-bottom: none;
 	text-align: center;
@@ -65,9 +65,16 @@ a:hover {
 
 .page-header .userpic img {
 	border-radius: 50%;
-	width: 60px;
-	height: 60px;
-	margin-bottom: 10px;
+	width: 80px;
+	height: 80px;
+	margin-bottom: 0px;
+	border: 1px solid #cce6ff;
+	padding: 3px;
+}
+
+.page-header .userpic a:hover {
+	text-decoration: none;
+	background-color: inherit;
 }
 
 .page-header h1 a {
