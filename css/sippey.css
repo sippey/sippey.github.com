@@ -96,7 +96,11 @@ a:hover {
 
 .page-header .main-nav {
 	font-size: 0.9em;
-	font-style: italic;
+	text-transform: lowercase;
+}
+
+.page-header .main-nav a {
+	text-decoration: none;
 }
 
 
