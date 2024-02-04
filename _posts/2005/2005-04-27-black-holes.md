@@ -1,0 +1,17 @@
+---
+layout: post
+title: "black holes"
+permalink: /2005/04/black_holes.html
+---
+
+Speaking of [black holes](http://www.kottke.org/05/04/a-whole-new-internet), I'm coming up on ten years of [Stating the Obvious](http://theobvious.com/archive/) (dead, dying, nearly buried -- don't even bother clicking, there's nothing there to see; instead, do me a favor and just imagine Jeremy Piven (yes, that's his name) in _[Grosse Pointe Blank](http://www.amazon.com/exec/obidos/tg/detail/-/1558908382/statingtheobviouA/)_ yelling "Ten years!  Ten years, man!").  No need to celebrate; the thing should have been buried back in about 1999, after I gave up the thrice-weekly schedule for the thrice-quarterly schedule, which slipped into the thrice-yearly schedule.
+
+Anyway, where was I.  Black holes.  Right.  Well, since it's been ten years for theobvious, that means it was about nine years ago that I wrote a few pieces for the oft-missed [Suck](http://www.suck.com/), under the editorial guidance of [former](http://www.freedonia.com/~carl/) and [current](http://www.wonkette.com/) microstars.  And believe it or not, one of those pieces, _[An Astral Theory of Rock](http://www.suck.com/zerobaud/96/08/01/content.html)_, actually had something to do with black holes!  And rock stars.  And rock stars that turned into black holes.  Here's a brief excerpt:
+
+> If the \[rock\] star is sufficiently massive, it will collapse into a Black Hole.  The rocket scientists among us will  immediately recognize the KISS revival tour as the largest black hole the industry has ever seen. In the center of the black hole lies the singularity (Gene Simmons's  tongue), where matter is crushed to infinite density, and the curvature of spacetime is extreme. Which explains why millions of people keep  expecting to hear "Beth" on the  radio, and to be reunited with their  7th-grade car pools.
+
+There's more after that...and plenty before it as well.  (Remember, it was the mid-nineties, back when writing on the web actually meant stringing _multiple paragraphs_ together -- good times.)  But hey, if the analogy fits, right?  And since my fine friend Jason seems to think that [some of us](http://www.sixapart.com/) have disappeared into a "blackhole for creative people," that must mean it's time to dust off the old standards, get the [band](http://www.0sil8.com/) [back](http://www.eod.com/) [together](http://so.anyway.org/), and kick off our Internet [revival tour](http://theobvious.com/wired/) with [a rousing](http://www.bianca.com/) [rendition](http://www.regarding.com/ "we did podcasting before there were pods.  or casting.  discuss.") of "Those Were the Days."
+
+And hey!  We don't need the big concert promoters -- we'll raise tour bus funds with [Dropcash](http://www.dropcash.com/), plan the logistics with [Basecamp](http://www.basecamphq.com/), list the dates on [Upcoming](http://www.upcoming.org/), distribute nightly direct-from-the-board ogg's as cc-licensed [torrents](http://www.bittorrent.com/), blog about it on [TypePad](http://www.typepad.com/), and afterwards sell the commemorative photo album through [Lulu](http://www.lulu.com/).  It'll be great!
+
+Just after I figure out this whole [quantum tunneling](http://en.wikipedia.org/wiki/Black_hole) thing.

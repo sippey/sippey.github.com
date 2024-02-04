@@ -1,9 +1,0 @@
----
-layout: post
-title: "geek talk"
-permalink: /2005/08/geek_talk.html
----
-
-<p>Not that we need even more proof that <a href="http://talk.google.com/">Talk</a> (dot google dot com) is <a href="http://www.google.com/talk/developer.html">built by geeks</a> (in a <em>good</em> way, dammit), I came across this little feature.&nbsp; Type something like this...</p><blockquote><p>hello, that's a *very* big world you have there.</p></blockquote><p>...and it's rendered like this...</p><blockquote><p>hello, that's a <strong>very</strong> big world you have there.</p></blockquote><p>Yep -- that's limited wiki markup, in your chat client!&nbsp; It would be great if that feature were implemented like text filtering plugins are in MT; you could build custom markup for chat sessions to enable&nbsp; formatting, keyword shortcuts, URL builders, etc.&nbsp; Or, of course, a filter that automatically translates everything into <a href="http://www.google.com/intl/xx-piglatin/">pig latin</a> for conducting not-terribly-secure conversations.</p>
-
-
