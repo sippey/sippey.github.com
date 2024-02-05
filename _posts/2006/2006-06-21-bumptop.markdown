@@ -4,6 +4,4 @@ title: "bumptop"
 permalink: /2006/06/bumptop.html
 ---
 
-<p>I'm not sure if I'd actually want to use something like this, but the <a title="honeybrown.ca" href="http://honeybrown.ca/Pubs/BumpTop.html">BumpTop</a> &quot;expressive 3D desktop&quot; makes for a good YouTube video.&nbsp; I'm sure somone wants to manipulate and throw around piles of documents on their virtual desktop, but not me.&nbsp; But hey -- in the meantime the physics of the demo look nice and the rendering's sure pretty...</p>
-
-
+I'm not sure if I'd actually want to use something like this, but the [BumpTop](http://honeybrown.ca/Pubs/BumpTop.html "honeybrown.ca") "expressive 3D desktop" makes for a good YouTube video.  I'm sure somone wants to manipulate and throw around piles of documents on their virtual desktop, but not me.  But hey -- in the meantime the physics of the demo look nice and the rendering's sure pretty...

@@ -4,78 +4,55 @@ title: "twenty eight things"
 permalink: /2006/02/twenty_eight_th.html
 ---
 
-<p>Finally, something other than Google in fifty years, or <a href="http://store.muledesign.com/shirts/omg.php">swearing</a> in IM.</p>
+Finally, something other than Google in fifty years, or [swearing](http://store.muledesign.com/shirts/omg.php) in IM.
 
-<p>Four jobs I've had:</p>
+Four jobs I've had:
 
-<ol><li>Truck mechanic's assistant.&nbsp; Worked on 18-wheelers.&nbsp; Changed tires, changed oil, pulled out clutches.</li>
+1.  Truck mechanic's assistant.  Worked on 18-wheelers.  Changed tires, changed oil, pulled out clutches.
+2.  Production assistant for a TV studio.  Ran tapes, fetched food, learned just how malleable television is.
+3.  Newspaper distributor.  Fancy word for delivery boy, but I owned distribution of the NYTimes in Hamilton, NY during college.
+4.  Professional blog person.
 
-<li>Production assistant for a TV studio.&nbsp; Ran tapes, fetched food, learned just how malleable television is.</li>
+Four movies I could watch over and over:
 
-<li>Newspaper distributor.&nbsp; Fancy word for delivery boy, but I owned distribution of the NYTimes in Hamilton, NY during college.</li>
+1.  Godfather 1
+2.  Godfather 2
+3.  Annie Hall
+4.  Grosse Pointe Blank
 
-<li>Professional blog person.</li></ol>
+Four places I've lived:
 
-<p>Four movies I could watch over and over:</p>
+1.  Clayton, MO
+2.  Wallingford, PA
+3.  Hamilton, NY
+4.  San Francisco Bay Area
 
-<ol><li>Godfather 1</li>
+Four TV shows I love:
 
-<li>Godfather 2</li>
+1.  Lost
+2.  The Office
+3.  The Sopranos
+4.  24
 
-<li>Annie Hall</li>
+Four places I've vacationed:
 
-<li>Grosse Pointe Blank</li></ol>
+1.  Paris (honeymoon)
+2.  Hawaii (before the first kid)
+3.  A weekend in Sonoma County (between the first and second kids)
+4.  Disneyland (after the second kid...see a trend?)
 
-<p>Four places I've lived:</p>
+Four of my favorite dishes:
 
-<ol><li>Clayton, MO</li>
+1.  Kow Soi yellow curry with chicken from the Thai place down the street.
+2.  Anything from Sea Salt in Berkeley
+3.  Fried green beans from Bizou Coco 500
+4.  Honey nut Cheerios
 
-<li>Wallingford, PA</li>
+Four places I would rather be right now
 
-<li>Hamilton, NY</li>
+1.  Home with the girls
+2.  New York
+3.  Kauai
+4.  On the Dipsea trail, but only if it were sunny out.
 
-<li>San Francisco Bay Area</li></ol>
-
-<p>Four TV shows I love:</p>
-
-<ol><li>Lost</li>
-
-<li>The Office</li>
-
-<li>The Sopranos</li>
-
-<li>24</li></ol>
-
-<p>Four places I've vacationed:</p>
-
-<ol><li>Paris (honeymoon)</li>
-
-<li>Hawaii (before the first kid)</li>
-
-<li>A weekend in Sonoma County (between the first and second kids)</li>
-
-<li>Disneyland (after the second kid...see a trend?)</li></ol>
-
-<p>Four of my favorite dishes:</p>
-
-<ol><li>Kow Soi yellow curry with chicken from the Thai place down the street.</li>
-
-<li>Anything from Sea Salt in Berkeley</li>
-
-<li>Fried green beans from <del>Bizou</del> Coco 500</li>
-
-<li>Honey nut Cheerios</li></ol>
-
-<p>Four places I would rather be right now</p>
-
-<ol><li>Home with the girls</li>
-
-<li>New York</li>
-
-<li>Kauai</li>
-
-<li>On the Dipsea trail, but only if it were sunny out.</li></ol>
-
-<p>Who's up next?&nbsp; <a href="http://aa.typepad.com/">Andrew</a>, <a href="http://winniewong.typepad.com">Shelby</a> and <a href="http://frank.livejournal.com/">Frank</a>.&nbsp; (Is it fair to tag animals?)</p>
-
-
+Who's up next?  [Andrew](http://aa.typepad.com/), [Shelby](http://winniewong.typepad.com) and [Frank](http://frank.livejournal.com/).  (Is it fair to tag animals?)
