@@ -4,11 +4,6 @@ title: "seidman!"
 permalink: /2007/07/seidman.html
 ---
 
-<p>Robert Seidman, who in Web 0.9 published the must read newsletter The Online Insider (and with whom I had the pleasure of working while he was at Schwab and I was at Quris) is back (sure, he never really went anywhere, but it's great to see him writing online again), with an insighful <a href="http://voices.allthingsd.com/20070712/robert-seidman/">piece at allthingsd.com</a> on the Nielsen/Net Ratings shift to include &quot;time spent&quot; in its ranking of top web properties.
+Robert Seidman, who in Web 0.9 published the must read newsletter The Online Insider (and with whom I had the pleasure of working while he was at Schwab and I was at Quris) is back (sure, he never really went anywhere, but it's great to see him writing online again), with an insighful [piece at allthingsd.com](http://voices.allthingsd.com/20070712/robert-seidman/) on the Nielsen/Net Ratings shift to include "time spent" in its ranking of top web properties.
 
-</p>
-
-<blockquote cite="http://voices.allthingsd.com/20070712/robert-seidman/"><p>Over time, these new measurements will help us better figure out how to value Web properties, but there are many things to beware of when it comes to “top 10” lists. Minutes aren’t the actual measure of value unless you can make money with those minutes, and even within this, one must be careful.</p></blockquote>
-
-
-
+> Over time, these new measurements will help us better figure out how to value Web properties, but there are many things to beware of when it comes to “top 10” lists. Minutes aren’t the actual measure of value unless you can make money with those minutes, and even within this, one must be careful.

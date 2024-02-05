@@ -4,9 +4,4 @@ title: "on crack?"
 permalink: /2007/07/on-crack.html
 ---
 
-<p>I'm loving Cringely lately.&nbsp; From <a href="http://www.pbs.org/cringely/pulpit/2007/pulpit_20070727_002573.html">his latest</a>, about the 700mhz spectrum auctions:&nbsp; &quot;There is, however, an alternative motivation here beyond simple
-megalomania and corporate self-delusion: Google may actually be playing
-a game of poker.&quot;</p>
-
-
-
+I'm loving Cringely lately.  From [his latest](http://www.pbs.org/cringely/pulpit/2007/pulpit_20070727_002573.html), about the 700mhz spectrum auctions:  "There is, however, an alternative motivation here beyond simple megalomania and corporate self-delusion: Google may actually be playing a game of poker."

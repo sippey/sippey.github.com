@@ -4,7 +4,4 @@ title: "a primer"
 permalink: /2007/07/a-primer.html
 ---
 
-<p>In case you were wondering just how much Jennifer Love Hewitt has contributed to the Internet, <a title="A Cold Inclusive Primer « The Cold Inclusive" href="http://inclusive.wordpress.com/2007/07/12/a-cold-inclusive-primer/">A Cold Inclusive Primer</a> is what you need.</p>
-
-
-
+In case you were wondering just how much Jennifer Love Hewitt has contributed to the Internet, [A Cold Inclusive Primer](http://inclusive.wordpress.com/2007/07/12/a-cold-inclusive-primer/ "A Cold Inclusive Primer « The Cold Inclusive") is what you need.

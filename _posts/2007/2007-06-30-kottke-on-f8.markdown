@@ -4,8 +4,6 @@ title: "kottke on f8"
 permalink: /2007/06/kottke-on-f8.html
 ---
 
-<p><a title="kottke.org :: home of fine hypertext products" href="http://www.kottke.org/07/06/facebook-is-the-new-aol">Jason Kottke</a> on <a href="http://www.facebook.com/">Facebook</a>.</p>
+[Jason Kottke](http://www.kottke.org/07/06/facebook-is-the-new-aol "kottke.org :: home of fine hypertext products") on [Facebook](http://www.facebook.com/).
 
-<blockquote cite="http://www.kottke.org/"><p>Eventually, someone will come along and turn Facebook inside-out, so that instead of custom applications running on a platform in a walled garden, applications run on the internet, out in the open, and people can tie their social network into it if they want, with privacy controls, access levels, and alter-egos galore.</p></blockquote>
-
-
+> Eventually, someone will come along and turn Facebook inside-out, so that instead of custom applications running on a platform in a walled garden, applications run on the internet, out in the open, and people can tie their social network into it if they want, with privacy controls, access levels, and alter-egos galore.

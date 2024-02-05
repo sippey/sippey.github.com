@@ -4,11 +4,6 @@ title: "no limit"
 permalink: /2007/07/no-limit.html
 ---
 
-<p>Bill Gates <a href="http://www.news.harvard.edu/gazette/2007/06.14/99-gates.html">at Harvard</a> (via Anil):
+Bill Gates [at Harvard](http://www.news.harvard.edu/gazette/2007/06.14/99-gates.html) (via Anil):
 
-</p>
-
-<blockquote cite="http://www.news.harvard.edu/gazette/2007/06.14/99-gates.html"><p>When you consider what those of us here in this Yard have been given – in talent, privilege, and opportunity – there is almost no limit to what the world has a right to expect from us.</p></blockquote>
-
-
-
+> When you consider what those of us here in this Yard have been given – in talent, privilege, and opportunity – there is almost no limit to what the world has a right to expect from us.
