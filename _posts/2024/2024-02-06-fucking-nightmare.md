@@ -1,6 +1,6 @@
 ---
 date: 2024-02-06
-title: fucking-nightmare
+title: "it's a fucking nightmare"
 layout: links
 ---
 
