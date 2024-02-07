@@ -2,8 +2,8 @@
 layout: post
 title: mid-august miscellany
 date: 1995-08-15 07:00:00 +0000
-
 ---
+
 The day that [Netscape](http://www.netscape.com/) goes public, Jerry Garcia dies of a heart attack. Coincidence? I think not. Jerry must have had a buy order in at 71, and watched it plummet to 52.
 
 I read Dave Winer's [DaveNet](http://www.hotwired.com/userland/) pieces regularly, but have never responded. Until yesterday. Email makes everything seem so personal. I'm not a letter to the editor type... But Dave's inbox rules probably filtered out my missive. Depressing.
