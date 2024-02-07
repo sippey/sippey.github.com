@@ -1,0 +1,19 @@
+   S                   VP                  ADVP
+  / \                 /   \                 /  \
+Some  hoped          that  Ms. Swift's next era  would increase interest  in American poetry
+                                              /                         \
+                                           ADJP                           NP
+                                         /   \                         / \
+                                       precarious   market             for academics
+                                                   /                     \
+                                                  NP                      PP
+                                                / \                     / \
+                                              in real-life poetry departments   across the country
+                                                                         /   \
+                                                                       ADVP  NP
+                                                                     /       \
+                                                                   usually  subsumed by English departments
+                                                                                 /     \
+                                                                                NP       SBAR
+                                                                             /         \
+                                                                           English departments  which themselves face existential threats
