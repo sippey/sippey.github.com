@@ -1,5 +1,5 @@
 ---
-date: 2024-02-06 17:00
+date: 2024-02-06 16:50
 title: radical statement
 layout: links
 ---
