@@ -4,7 +4,7 @@ title: torturing poets
 layout: post
 ---
 
-Of *course* The New York Times [sought out actual poets](https://www.nytimes.com/2024/02/06/style/taylor-swift-tortured-poets-department-album.html) who would comment on the title of the upcoming Taylor Swift album, "The Tortured Poets Department." Some loved it! Some were worried about the tortured typecasting! And one even likened Taylor to Wordsworth! 
+Of *course* The New York Times [sought out actual poets](https://www.nytimes.com/2024/02/06/style/taylor-swift-tortured-poets-department-album.html) who would comment on the title of the upcoming Taylor Swift album, "The Tortured Poets Department." Some loved it! Some were worried about the whole "tortured" typecasting thing! And one even likened Taylor to Wordsworth! 
 
 But this 35 word sentence towards the end of the piece floored me.
 
