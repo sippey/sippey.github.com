@@ -4,7 +4,7 @@ title: a pandemic of selfies
 layout: links
 ---
 
-![dall-e goes to the museum](/assets/2024/selfie-pandemic.webp)
+![dall-e goes to the museum](/assets/2024/selfie-pandemic.jpg)
 
 [Artnet](https://news.artnet.com/art-world/selfies-danger-to-museums-hiscox-2434090):
 
