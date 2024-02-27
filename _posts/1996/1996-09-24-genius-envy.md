@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Genius Envy
-date: 1991-09-24 12:00
+date: 1996-09-24 12:00
 ---
-
 
 In the go-go days of the '80s art market, it seemed as if any old stockbroker with a creative streak and a penchant for self-promotion could have been crowned "King Midas of SoHo." In fact, one of them was. Back in, say, 1983, when Saturday afternoon gallery strollers encountered a ready-made, plexiglass-encased vacuum cleaner courtesy of Jeff Koons, they usually had the same, amazed, open-mouthed reaction: "I could have done that."
 
