@@ -3,8 +3,7 @@ layout: post
 title: "i wish i had seen this match"
 permalink: /2009/01/i-wish-i-had-seen-this-match.html
 ---
-
-[![Nadal.600.11](https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0105370452d0970c-500wi)](http://sippey.typepad.com/.a/6a00d8341c4f5f53ef0105370452d0970c-pi)
+[![Nadal.600.11](/assets/2009/nadal.jpg)]
 
 From [the Times](http://www.nytimes.com/2009/01/31/sports/tennis/31tennis.html):
 
