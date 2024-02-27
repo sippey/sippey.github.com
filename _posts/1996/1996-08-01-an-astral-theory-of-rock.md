@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Astral Theory of Rocks
+title: An Astral Theory of Rock
 date: 1996-08-01 12:00
 ---
 
