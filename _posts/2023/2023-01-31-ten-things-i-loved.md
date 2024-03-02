@@ -2,6 +2,7 @@
 title: Ten things I loved in January
 layout: post
 date: 2023-01-31 21:07
+tags: links books movies
 ---
 
 1. [Aftersun](https://en.wikipedia.org/wiki/Aftersun), directed by Charlotte Wells. If Paul Mescal doesn't win best actor, I'm going to lose my fucking mind. The whole thing felt fresh, delicate, and joyful...despite being devastatingly sad. I have theories about the ending; hit me up on email if you've seen the movie and want to discuss.

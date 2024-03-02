@@ -2,6 +2,7 @@
 date: 2023-03-17 23:59
 title: shit gets weird
 layout: links
+tags: john-gruber jason-kottke gpt blogging 
 ---
 
 Inspired by the conversation between [Gruber and Kottke on The Talk Show](https://daringfireball.net/thetalkshow/2023/03/11/ep-370), I kicked off a weekend project: a simple script that would cycle through my blog archives, extract every URL I've ever linked to, and then load them to see if those pages are still up. My hypothesis: more than 50% of the URLs linked to more than 10 years ago are gone, thanks to the second law of thermodynamics.
