@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 
 gem 'jekyll'
 # gem 'jekyll', '~> 3.6'
-gem 'jekyll-paginate'
+gem 'jekyll-archives'
+gem 'jekyll-paginate-v2'
 
 gem "webrick"
 # gem "webrick", "~> 1.7"

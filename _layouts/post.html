@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="meta">{{ page.date | date: '%b %d, %Y' }}</div>
+<div class="meta"><a href="{{ page.date | date: '/%Y/%m/'}}">{{ page.date | date: '%B' }}</a> {{ page.date | date: '%d, %Y' }}</div>
+
 <h2>{{ page.title }}</a></h2>
 
 <div class="post">
