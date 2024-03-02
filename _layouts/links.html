@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="meta meta-links">{{ page.date | date: '%b %d, %Y' }}</div>
+<div class="meta meta-links"><a href="{{ page.date | date: '/%Y/%m/'}}">{{ page.date | date: '%B' }}</a> {{ page.date | date: '%d, %Y' }}</div>
+
 
 <div class="post links">
 	{{ content }}

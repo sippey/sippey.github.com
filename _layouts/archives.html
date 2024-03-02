@@ -1,0 +1,69 @@
+---
+layout: default
+pagination:
+    enabled: true
+---
+
+<div id="home">
+    
+    <h2 class="date-header">
+        {% assign month_count = page.posts | size %}
+        {% if month_count == 1 %}
+        there is {{ page.posts | size }} post from {{ page.date | date: "%B %Y" }}
+        {% else %}
+        there are {{ page.posts | size }} posts from {{ page.date | date: "%B %Y" }}
+        {% endif %}
+    </h2>
+
+    {% for post in page.posts %}
+    
+    {% if post.layout == "links" %}
+    
+    <div class="index-links">
+        
+        <div class="meta"><a href="{{ post.url }}">{{ post.date | date: '%B %d, %Y' }}</a></a></div>
+        
+        <div class="post">
+            {{ post.content }}
+        </div>
+        
+    </div>
+    
+    {% else %}
+    
+    <div class="index-post">
+        
+        <div class="meta">{{ post.date | date: '%B %d, %Y' }}</div>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        
+        <div class="post">
+            {{ post.content }}
+        </div>
+        
+    </div>
+    
+    {% endif %}
+    
+    {% endfor %}
+    
+    
+    <div class="nav">
+        
+        {% if paginator.previous_page %} 
+        <div class="pull-left">
+            <a class="previous" href="/page/{{ paginator.previous_page }}">&laquo; newer posts</a> 
+        </div>
+        {% endif %} 
+        
+        {% if paginator.next_page %} 
+        <div class="pull-right">
+            <a class="next" href="/page/{{ paginator.next_page }}">older posts &raquo;</a> 
+        </div>
+        {% endif %} 
+        
+        
+    </div>
+    
+    
+    
+</div>

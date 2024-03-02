@@ -1,11 +1,28 @@
 name: Michael Sippey
-description: this is @sippey's blog
+description: this is Michael Sippey's blog
 url: https://sippey.com
 markdown: kramdown
 highlighter: rouge
-paginate : 20
-paginate_path: "page/:num"
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-archives
+  - jekyll-paginate-v2
+pagination: 
+  enabled: true
+  per_page: 20
+  permalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: 'true'
+autopages:
+  enabled: false
+jekyll-archives:
+  enabled: 
+    - month
+  permalinks: 
+    month: '/:year/:month/'
+  layout: archives
+
 timezone: America/Los_Angeles
 algolia:
   application_id: ALIH66MWZH

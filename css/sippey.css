@@ -110,6 +110,12 @@ a:hover {
 	}
 }
 
+h2.date-header {
+	text-align: center;
+	margin-bottom: 1em;
+	padding-bottom: 1em;
+}
+
 
 
 /* body and posts */
@@ -194,6 +200,10 @@ blockquote {
 	line-height: 100%;
 }
 
+.page-content a {
+	text-decoration: none;
+}
+
 .page-content .meta-links {
 	margin-bottom: 1em;
 	font-size: 0.8em;
@@ -213,6 +223,10 @@ blockquote {
 	margin-bottom: 1em;
 }
 
+
+.ais-search-box input {
+	font-size: 16px !important;
+}
 
 .links,
 .index-links {
@@ -234,4 +248,16 @@ blockquote {
 	margin-top : 80px;
 	font-size : 14px;
 	text-transform: lowercase;
+}
+
+.archive-months {
+	margin-bottom: 2em;
+}
+
+.divider {
+	color: gray;
+}
+
+.divider-index-0 {
+	display: none;
 }
