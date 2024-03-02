@@ -2,8 +2,9 @@
 layout: post
 title: "shocking."
 permalink: /2010/01/shocking.html
+tags: 
+- Twitter
 ---
 
-<p>NEWSFLASH:  <a href="http://www.pcworld.com/article/186577/">People unhappy with new smartphone</a>, especially re. performance of cellular data network, turn to online forums and Twitter to complain.</p>
-
+NEWSFLASH: [People unhappy with new smartphone](http://www.pcworld.com/article/186577/), especially re. performance of cellular data network, turn to online forums and Twitter to complain.
 

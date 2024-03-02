@@ -2,7 +2,8 @@
 date: 2024-02-29 12:24
 title: eight thousand books
 layout: links
-tags: books
+tags: 
+- Books
 ---
 
 [Colin Ainsworth, in the Paris Review](https://www.theparisreview.org/blog/2024/02/29/fixer-upper-larry-mcmurtrys-library/), visits Chip and Joanna Gaines' new hotel in Waco, which has been outfitted with the thousands and thousands of books they bought from Larry McMurtry.

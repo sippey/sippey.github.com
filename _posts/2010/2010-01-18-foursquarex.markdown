@@ -2,13 +2,13 @@
 layout: post
 title: "foursquarex"
 permalink: /2010/01/foursquarex.html
+tags: 
+- Foursquare
+- Web 2.0
 ---
 
-<p>If you're playing Foursquare, check out <a href="http://codebutler.github.com/foursquarex/">FoursquareX</a> for your Mac (requires Snow Leopard).</p>
+If you're playing Foursquare, check out [FoursquareX](http://codebutler.github.com/foursquarex/) for your Mac (requires Snow Leopard).
 
-<p><a href="http://codebutler.github.com/foursquarex/"><img class="asset  asset-image at-xid-6a00d8341c4f5f53ef0120a7e83746970b" alt="Foursquarex-screenshot" src="https://sippey.typepad.com/.a/6a00d8341c4f5f53ef0120a7e83746970b-500wi"  /></a> </p>
+![Foursquare X](/assets/2010/foursquare-x.png)
 
-<p>The map view of all your friends will make you feel like <a href="http://24.wikia.com/wiki/Quote:Chloe_O'Brian">Chloe</a>.</p>
-
-
-
+The map view of all your friends will make you feel like [Chloe](http://24.wikia.com/wiki/Quote:Chloe_O'Brian).
