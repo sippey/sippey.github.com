@@ -2,6 +2,7 @@
 date: 2024-02-19 15:14 
 title: miscellany
 layout: links
+tags: links virginia-heffernan sari-azout rosencrans-baldwin ted-gioia
 ---
 
 [Sari Azout on Artifact shutting down](https://sublimeinternet.substack.com/p/can-i-ramble-for-a-sec), reacting to the argument that "the market opportunity isn’t big enough to warrant continued investment in this way."

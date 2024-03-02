@@ -14,4 +14,4 @@ Dave Winer, in his latest "DaveNet," likens Apple's opportunity in the Internet 
 
 ---
 
-*Originally published on [Stating the Obvious].*
+*Originally published on Stating the Obvious.*

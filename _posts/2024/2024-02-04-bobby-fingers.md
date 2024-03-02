@@ -2,6 +2,7 @@
 title: bobby koons
 date: 2024-02-04 22:52
 layout: post
+tags: video art
 ---
 
 Somehow I missed Andy Baio's post from May of last year, [The Unhinged Miniature World of Bobby Fingers](https://waxy.org/2023/05/the-unhinged-miniature-world-of-bobby-fingers/). As usual I'm late to this party.

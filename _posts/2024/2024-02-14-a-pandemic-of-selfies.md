@@ -2,6 +2,7 @@
 date: 2024-02-14 14:25
 title: a pandemic of selfies
 layout: links
+tags: art
 ---
 
 ![dall-e goes to the museum](/assets/2024/selfie-pandemic.jpg)

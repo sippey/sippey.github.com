@@ -2,6 +2,7 @@
 date: 2024-02-06
 title: "it's a fucking nightmare"
 layout: links
+tags: mg-siegler advertising
 ---
 
 [M.G. Siegler, Unchoking the Web](https://spyglass.org/unchoking-the-web/):

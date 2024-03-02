@@ -2,6 +2,7 @@
 date: 2024-02-06 16:50
 title: radical statement
 layout: links
+tags: anil-dash podcasts standards
 ---
 
 [Anil Dash](https://www.anildash.com/2024/02/06/wherever-you-get-podcasts/):

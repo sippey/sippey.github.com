@@ -2,6 +2,7 @@
 date: 2024-02-27 09:34
 title: brian morrissey on bill ackman and incentives
 layout: links
+tags: politics media bill-ackman brian-morrissey
 ---
 
 Brian Morrissey [on Bill Ackman](https://www.therebooting.com/bill-ackman-bias/), Ackman's three hour [conversation](https://www.youtube.com/watch?v=PgGKhsWhUu8) with Lex Fridman, and incentives in journalism and the media business:

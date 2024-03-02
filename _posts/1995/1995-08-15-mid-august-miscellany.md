@@ -11,3 +11,7 @@ I read Dave Winer's [DaveNet](http://www.hotwired.com/userland/) pieces regularl
 I bought something over the [Internet Shopping Network](http://www.internet.net/) a couple of days ago. Then I hear this morning that Netscape's SSL encryption was broken by a couple of guys in France using some Cray supercomputers. Great.
 
 August 24th is almost upon us. Word from [Microsoft](http://www.microsoft.com/) is that they're planning a half-hour prime time infomercial to push Windows 95, with [er](http://www.nbc.com/) star Anthony Edwards hosting. The Revenge of the Nerds is complete.
+
+---
+
+*Originally published on Stating the Obvious.*

@@ -2,6 +2,7 @@
 date: 2024-02-06 23:34
 title: torturing poets
 layout: post
+tags: taylor-swift gpt
 ---
 
 Of *course* The New York Times [sought out actual poets](https://www.nytimes.com/2024/02/06/style/taylor-swift-tortured-poets-department-album.html) who would comment on the title of the upcoming Taylor Swift album, "The Tortured Poets Department." Some loved it! Some were worried about the whole "tortured" typecasting thing! And one even likened Taylor to Wordsworth! 
