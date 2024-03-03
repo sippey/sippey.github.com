@@ -2,8 +2,9 @@
 layout: post
 title: "consuming its own waste for substance"
 permalink: /2010/03/consuming-its-own-waste-for-substance.html
+tags:
+- Rex Sorgatz
 ---
 
-<p>Rex is up to something with all this <a href="http://www.fimoculous.com/">Fimoculous</a> activity. Whatever it is, I like it.</p>
-
+Rex is up to something with all this [Fimoculous](http://www.fimoculous.com/) activity. Whatever it is, I like it.
 

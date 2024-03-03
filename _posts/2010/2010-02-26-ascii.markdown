@@ -2,10 +2,11 @@
 layout: post
 title: "ascii++"
 permalink: /2010/02/ascii.html
+tags:
+- Books
+- Kindle
 ---
 
-<blockquote><p>&quot;What&#39;s new this year is that ebooks have arrived — now we get to figure out what we can do with them.&quot;</p></blockquote>
+> "What's new this year is that ebooks have arrived — now we get to figure out what we can do with them."
 
-<p><small>via <a href="http://blogs.hbr.org/hbr/hbreditors/2010/02/ebooks_getting_beyond_disruption.html">blogs.hbr.org</a></small></p>
-
-
+via [blogs.hbr.org](http://blogs.hbr.org/hbr/hbreditors/2010/02/ebooks_getting_beyond_disruption.html)

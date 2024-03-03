@@ -2,9 +2,11 @@
 layout: post
 title: "feature?"
 permalink: /2010/02/feature.html
+tags:
+- Google
+- Google Buzz
 ---
 
-<p>Just realized that I avoided Gmail all day because I was worried about getting sucked into reading Buzz.</p>
-
+Just realized that I avoided Gmail all day because I was worried about getting sucked into reading Buzz.
 
 

@@ -2,10 +2,11 @@
 layout: post
 title: "curling explained"
 permalink: /2010/02/curling-explained.html
+tags:
+- Sports
+- Curling
 ---
 
-<p>As I discovered this weekend, Curling is a fantastic sport to watch while operating at less than full capacity.  And now, there&#39;s a <a href="http://www.fastcompany.com/1557945/infographic-of-the-day-curling-explained">fantastic infographic</a> that explains the sport to newbies. I really could have used this on Sunday morning.</p>
+As I discovered this weekend, Curling is a fantastic sport to watch while operating at less than full capacity. And now, there's a [fantastic infographic](http://www.fastcompany.com/1557945/infographic-of-the-day-curling-explained) that explains the sport to newbies. I really could have used this on Sunday morning.
 
-<p><small>(Via <a href="http://www.good.is/post/how-curling-works">Good</a>, who describes Curling as &quot;shuffleboard with real-time friction management.&quot;)</small></p>
-
-
+(Via [Good](http://www.good.is/post/how-curling-works), who describes Curling as "shuffleboard with real-time friction management.")
