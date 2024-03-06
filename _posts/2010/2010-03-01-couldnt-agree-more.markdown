@@ -2,12 +2,17 @@
 layout: post
 title: "couldn't agree more"
 permalink: /2010/03/couldnt-agree-more.html
+tags:
+- Social media
+- Friendster
+- Twitter
+- Facebook
+- Dennis Crowley
+- David Jacobs
 ---
 
-<blockquote><p>With the explosion of blogs, facebook fan pages and Twitter accounts, Friendster&#39;s war against the &quot;fakesters&quot; (I was friends with the iPod and the F Train) seems like a turning point in the history of social networks.</p></blockquote>
+> With the explosion of blogs, facebook fan pages and Twitter accounts, Friendster's war against the "fakesters" (I was friends with the iPod and the F Train) seems like a turning point in the history of social networks.
 
-<p><small>via <a href="http://hello.typepad.com/hello/2010/03/dennis-crowley-on-foursquare.html">hello.typepad.com</a></small></p>
+via [hello.typepad.com](http://hello.typepad.com/hello/2010/03/dennis-crowley-on-foursquare.html)
 
-<p>David points out something interesting in pointing to the (smart!) O&#39;Reilly interview with foursquare&#39;s Dennis Crowley.</p>
-
-
+David points out something interesting in pointing to the (smart!) O'Reilly interview with foursquare's Dennis Crowley.

@@ -2,11 +2,11 @@
 layout: post
 title: "irony"
 permalink: /2010/03/irony.html
+tags:
+- Instapaper
+- Reading
 ---
 
-<p>Instapaper 2.2 on the iPhone is <a href="http://ben.stupidfool.org/typepad/2010/02/pagination-in-instapaper.html">really good</a>.  So much so that I'm now Instapapering things that I know I should read eventually, but that in browser cry out for "tl,dr[1]" snark. Like, say, Gruber's <a href="http://daringfireball.net/2010/03/this_apple_htc_patent_thing">opus on the Apple patent cluster</a>.</p>
+Instapaper 2.2 on the iPhone is [really good](http://ben.stupidfool.org/typepad/2010/02/pagination-in-instapaper.html). So much so that I'm now Instapapering things that I know I should read eventually, but that in browser cry out for "tl,dr\[1\]" snark. Like, say, Gruber's [opus on the Apple patent cluster](http://daringfireball.net/2010/03/this_apple_htc_patent_thing).
 
-<p><small>[1] Too long, didn't read.</small></p>
-
-
-
+\[1\] Too long, didn't read.

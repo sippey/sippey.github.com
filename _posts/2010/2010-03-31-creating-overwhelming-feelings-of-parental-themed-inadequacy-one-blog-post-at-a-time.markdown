@@ -2,12 +2,12 @@
 layout: post
 title: "creating overwhelming feelings of parental-themed inadequacy, one blog post at a time"
 permalink: /2010/03/creating-overwhelming-feelings-of-parental-themed-inadequacy-one-blog-post-at-a-time.html
+tags:
+- Parenting
 ---
 
-<blockquote><p>I was hoping to try to make my own version of the <a href="http://www.marthastewart.com/article/chocolate-egg-how-to">chocolate filled real eggshells</a> that Martha Stewart created a few years back, but I wanted mine to be more like a <a href="http://en.wikipedia.org/wiki/Kinder_Surprise">Kinder Surprise egg</a> with a toy or small item inside.</p></blockquote>
+> I was hoping to try to make my own version of the [chocolate filled real eggshells](http://www.marthastewart.com/article/chocolate-egg-how-to) that Martha Stewart created a few years back, but I wanted mine to be more like a [Kinder Surprise egg](http://en.wikipedia.org/wiki/Kinder_Surprise) with a toy or small item inside.
 
-<p><small>via <a href="http://www.notmartha.org/archives/2010/03/30/chocolate-easter-surprise-eggs/">www.notmartha.org</a></small></p>
+via [www.notmartha.org](http://www.notmartha.org/archives/2010/03/30/chocolate-easter-surprise-eggs/)
 
-<p>Your most / least favorite (pick one) &quot;How To&quot; post on the Internet for the next 10 minutes.  Because that&#39;s how long it will take you to <i>skim</i> it.</p>
-
-
+Your most / least favorite (pick one) "How To" post on the Internet for the next 10 minutes. Because that's how long it will take you to _skim_ it.

@@ -2,12 +2,12 @@
 layout: post
 title: "the canon blaster"
 permalink: /2010/03/the-canon-blaster.html
+tags:
+- David Jacobs
 ---
 
-<blockquote><p>I&#39;d like a Chrome extension that redirects every article similar to the above to Armond White&#39;s <a href="http://www.nypress.com/article-19048-transcendent-thrill-drive.html">Transporter 3</a>, which is the last word on the topic as far as I am concerned.</p></blockquote>
+> I'd like a Chrome extension that redirects every article similar to the above to Armond White's [Transporter 3](http://www.nypress.com/article-19048-transcendent-thrill-drive.html), which is the last word on the topic as far as I am concerned.
 
-<p><small>via <a href="http://hello.typepad.com/hello/2010/03/we-know-that-the-story-is-a-construct-meant-to-elicit-a-response-and-then-become-a-cathartic-release-when-the-good-guys-win.html">hello.typepad.com</a></small></p>
+via [hello.typepad.com](http://hello.typepad.com/hello/2010/03/we-know-that-the-story-is-a-construct-meant-to-elicit-a-response-and-then-become-a-cathartic-release-when-the-good-guys-win.html)
 
-<p>David is on to something with this idea for a browser extension.  &quot;Oh!  You think <i>that</i> article is interesting?  Well you should check out the one that <i>really</i> matters.  You&#39;ll thank us later.&quot;  Or instead of a browser extension imagine a campus-wide proxy server that detects and automatically redirects based on student browsing activity. (Included free with your tuition!) We&#39;ll call that act of redirecting GETTING BLASTED BY THE CANON.</p>
-
-
+David is on to something with this idea for a browser extension. "Oh! You think _that_ article is interesting? Well you should check out the one that _really_ matters. You'll thank us later." Or instead of a browser extension imagine a campus-wide proxy server that detects and automatically redirects based on student browsing activity. (Included free with your tuition!) We'll call that act of redirecting GETTING BLASTED BY THE CANON.

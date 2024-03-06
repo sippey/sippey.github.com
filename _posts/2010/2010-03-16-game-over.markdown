@@ -2,8 +2,8 @@
 layout: post
 title: "game over"
 permalink: /2010/03/game-over.html
+tags:
+- Tiff Chow
 ---
 
-<p>Tiff Chow <a href="http://make-a-face.org/photo/6a00e54f7ac65c88330120a94463b0970b">officially won make-a-face.org</a> this afternoon. <span class="tag"><a  href="http://www.sippey.com/.services/blog/6a00d8341c4f5f53ef00e5501b0f888834/search?pager.sort=created_on&filter.q=%23gaga">#gaga</a></span></p>
-
-
+Tiff Chow [officially won make-a-face.org](http://make-a-face.org/photo/6a00e54f7ac65c88330120a94463b0970b) this afternoon.
