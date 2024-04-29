@@ -4,7 +4,7 @@ title: robin sloan on training ai
 layout: links
 ---
 
-Robin Sloan, in his [latest newsletter](https://www.robinsloan.com/lab/at-home-in-high-dimensional-space/), on the "phase change" of AI training
+Robin Sloan, in his [latest newsletter](https://www.robinsloan.com/lab/at-home-in-high-dimensional-space/), on the "phase change" of AI training.
 
 > When capability increases so substantially, the activity under discussion is not “the same thing, only faster”. It is a different activity altogether. Phase change.
 > 
