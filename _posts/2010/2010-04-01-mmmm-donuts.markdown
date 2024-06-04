@@ -2,8 +2,9 @@
 layout: post
 title: "mmmm, donuts"
 permalink: /2010/04/mmmm-donuts.html
+tags:
+- Food
+- Donuts
 ---
 
-<p>Brand New&#39;s <a href="http://www.underconsideration.com/brandnew/archives/dunkie_drinks_dunkins_coffee.php">remake of the Dunkin&#39; Donuts brand</a> is great.  What would have been better is if Dunkin&#39; Donuts had announced that they were expanding aggressively into California.  <i>That</i> would have been a cruel April Fool&#39;s joke.</p>
-
-
+Brand New's [remake of the Dunkin' Donuts brand](http://www.underconsideration.com/brandnew/archives/dunkie_drinks_dunkins_coffee.php) is great. What would have been better is if Dunkin' Donuts had announced that they were expanding aggressively into California. _That_ would have been a cruel April Fool's joke.
