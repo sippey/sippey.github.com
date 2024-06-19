@@ -8,7 +8,7 @@ Steven Johnson on the [capabilities of NotebookLM](https://adjacentpossible.subs
 
 > The core skills are not just about straight prompt engineering; they're not just about figuring out the most efficient wording to get the model to do what you want. They also draw on deeper, more nuanced questions. What is the most responsible behavior to cultivate in the model, and how do we best deploy this technology in the real world to maximize its positive impact? What new forms of intelligence or creativity can we detect in these strange entities? How do we endow them with a moral compass, or steer them away from bias and inaccurate stereotypes? Can language alone generate a robust theory of how the world works, or do you need more explicit rules or additional sensory information?
 
-Related, Maggie Appleton's (gorgeous) presentation at Local-first Conference in Berlin, [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software):
+Related, Maggie Appleton's (gorgeous) presentation at the Local-first Conference in Berlin, [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software):
 
 > We first need language model agents that are designed to act as central orchestrators for home-cooked software projects. These agents can guide barefoot developers through the process of writing technical specifications and help them work out what kinds of tools they might need for a piece of software.
 
