@@ -2,6 +2,7 @@
 date: 2024-04-22 19:56 
 title: ten recent good things
 layout: post
+description: "Deb Chachra’s book on infrastructure, Olga Tokarczuk’s novel Flights, Shōgun Episode 9, Jaqueline Novak’s Netflix special, Ted Gioia on the MacGuffin, Robin Rendle on onboarding, Heather Cox Richardson on the Civil War, Amanda Petrusich on Maggie Rogers, Rosencrans Baldwin on stillness, and Brooks Reitz on versatile tonnato sauce."
 ---
 
 Deb Chachra's book, [How Infrastructure Works](https://www.penguinrandomhouse.com/books/612711/how-infrastructure-works-by-deb-chachra/).

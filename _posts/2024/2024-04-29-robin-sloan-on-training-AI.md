@@ -2,6 +2,10 @@
 date: 2024-04-29 11:56 
 title: robin sloan on training ai
 layout: links
+tags:
+- Robin Sloan
+- LLMs
+description: "Robin Sloan on the phase change of AI training."
 ---
 
 Robin Sloan, in his [latest newsletter](https://www.robinsloan.com/lab/at-home-in-high-dimensional-space/), on the "phase change" of AI training.

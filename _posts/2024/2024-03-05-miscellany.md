@@ -7,6 +7,7 @@ tags:
 - Travis Kelce
 - Hermès
 - Art
+description: "Taylor Swift’s beau Travis Kelce finances Basquiat doc. Hermès saddle stitch represents true luxury. The Browser revisits Pilot Precise V5 pen. Greg.org on Richard Prince’s Milton Berle joke cabinet photos."
 ---
 
 Didn't have this on my 2024 bingo card: [Taylor Swift Beau Travis Kelce Will Help Finance a Basquiat Documentary](https://news.artnet.com/art-world/taylor-swift-travis-kelce-basquiat-documentary-2446914).

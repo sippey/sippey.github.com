@@ -1,11 +1,12 @@
 name: Michael Sippey
-description: this is Michael Sippey's blog
+description: Michael Sippey's blog, published semi-regularly since 1995.
 url: https://sippey.com
 markdown: kramdown
 highlighter: rouge
 plugins: 
   - jekyll-archives
   - jekyll-paginate-v2
+  - jekyll-feed
 pagination: 
   enabled: true
   per_page: 20
@@ -28,3 +29,6 @@ algolia:
   application_id: ALIH66MWZH
   index_name: sippeydotcom
   search_only_api_key: c2853a177366a5d9612dbd0445d9e79b
+
+feed:
+  path: rss.xml

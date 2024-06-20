@@ -2,6 +2,10 @@
 date: 2024-06-19 09:40 
 title: protect the network
 layout: links
+tags:
+- Noah Kalina
+- photography
+description: "Noah Kalina's 'Protect the Network' explores tree pruning around power lines through photography and utility correspondence, now available as a limited edition zine."
 ---
 
 Noah Kalina's series of photographs [Protect the Network](https://noahkalina.substack.com/p/newsletter-143-protect-the-network).

@@ -4,6 +4,7 @@ gem 'jekyll'
 # gem 'jekyll', '~> 3.6'
 gem 'jekyll-archives'
 gem 'jekyll-paginate-v2'
+gem 'jekyll-feed'
 
 gem "webrick"
 # gem "webrick", "~> 1.7"

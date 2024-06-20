@@ -2,6 +2,14 @@
 date: 2024-06-19 12:04 
 title: filtered for words
 layout: links
+tags:
+- Steven Johnson
+- Maggie Appleton
+- LLMs
+- Sam Kahn
+- Craig Mod
+- Greg Allen
+description: "Steven Johnson on maximizing LLMs' potential, Maggie Appleton's vision for DIY software, Sam Kahn's critique of storytelling, Craig Mod's reflective Bali walk, and Greg Allen's Moby Dick obsession."
 ---
 
 Steven Johnson on the [capabilities of NotebookLM](https://adjacentpossible.substack.com/p/revenge-of-the-humanities), and some of the interesting skills requried to get the most out of LLMs:

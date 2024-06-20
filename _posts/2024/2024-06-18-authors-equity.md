@@ -8,6 +8,7 @@ tags:
 - James Clear
 - Seth Godin
 - Joseph Nguyen
+description: "Rebind combines Project Gutenberg, Chat GPT, and Masterclass to enhance learning with LLMs. Authors Equity offers profit-sharing for authors, attracting names like Seth Godin and Joseph Nguyen."
 ---
 
 [Rebind](https://rebind.ai/) recipe: combine one part Project Gutenberg, one part Chat GPT, two parts Masterclass, add a healthy dash of pretense, mix well. I don't buy the "director's commentary" metaphor (the Rebind experts, like John Banville, aren't the "directors" in this movie), but I am really into using LLMs to help people dig deeper into difficult material. 

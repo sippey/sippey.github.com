@@ -6,6 +6,7 @@ tags:
 - Sports
 - Formula 1
 - Books
+description: "Iditarod musher kills moose to protect dogs. Unpublished F1 article reveals sport’s magical engineering. Tournament of Books play-in match mocks aesthetic judgment."
 ---
 
 Three things of sporting note: death, machinery, words.

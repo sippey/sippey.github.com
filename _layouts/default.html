@@ -10,6 +10,7 @@
   <meta name="theme-color" content="#222222" media="(prefers-color-scheme: dark)">
   <link rel="alternate" type="application/rss+xml" title="this is sippey.com (rss)" href="/rss.xml" />
   <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }} {% else %}{{ site.description }}{% endif %}">
   <link href="/css/bootstrap.min.css" rel="stylesheet">
   <link href="/css/sippey.css?20240227" rel="stylesheet">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
