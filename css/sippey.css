@@ -261,3 +261,12 @@ blockquote {
 .divider-index-0 {
 	display: none;
 }
+
+#bd-email {
+	width: 400px;
+	padding: 5px;
+}
+
+#bd-button {
+	padding: 5px;
+}
