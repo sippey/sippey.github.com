@@ -12,7 +12,7 @@ description: "Robin Sloan's Moonbound, Maylis de Kerangal's Eastbound, Jonathan 
 
 It's officially hot book summer; here are three things I've read recently and absolutely loved, because it turns out that every book is a beach book.
 
-[*Moonbound*, by Robin Sloan](https://www.amazon.com/Moonbound-Novel-Robin-Sloan/dp/0374610606). Robin was kind enough to gift me an advance reader copy of his new novel, so I finished it a bit ahead of some friends of mine (#humblebrag). Set 10,000 years in the future, after the decline of human civilization ("the Anth"), it's a delightfully weird take on the Arthurian legend, a hero's journey through a strangely evolved planet that features talking beavers, multi-dimensional math, a battle with AI "dragons" and a *very* unlikely narrator. 
+[*Moonbound*, by Robin Sloan](https://www.amazon.com/Moonbound-Novel-Robin-Sloan/dp/0374610606). Robin was kind enough to gift me an advance reader copy of his new novel, so I finished it a bit ahead of some friends of mine (#humblebrag). Set 10,000 years in the future, after the decline of human civilization ("the Anth"), it's a delightfully weird take on the Arthurian legend, a hero's journey through a strangely evolved planet that features talking beavers, multi-dimensional math, and a battle with AI "dragons" with a *very* unlikely narrator. 
 
 > X and Y and Z, along with time, are sufficient for billiard balls and booster rockets-simple things. But real life, the complexity of it, demands more. This was our discovery: the world, like a sponge, will soak up as many dimensions as you provide.
 
