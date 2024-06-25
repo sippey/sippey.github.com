@@ -262,11 +262,41 @@ blockquote {
 	display: none;
 }
 
+.form-container {
+	display: flex;
+	align-items: center;
+	width: 90%;
+}
+
 #bd-email {
-	width: 400px;
 	padding: 5px;
+	border: 1px solid #ccc;
+	margin-right: 10px;
+	flex-grow: 1;
+	box-sizing: border-box;
+	
 }
 
 #bd-button {
 	padding: 5px;
+	color : inherit;
+	background-color: #efefef;
+	border: 1px solid #ccc;
+	flex-shrink: 0;
+
+}
+
+
+@media (prefers-color-scheme: dark) {
+	#bd-email {
+		background-color: inherit;
+		color: inherit;
+		border-color: #333;
+	}
+	
+	#bd-button {
+		background-color: #333;
+		border: 1px solid #444;
+	}
+
 }
