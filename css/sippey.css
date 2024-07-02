@@ -265,7 +265,6 @@ blockquote {
 .form-container {
 	display: flex;
 	align-items: center;
-	width: 90%;
 }
 
 #bd-email {
@@ -299,4 +298,15 @@ blockquote {
 		border: 1px solid #444;
 	}
 
+}
+
+
+.subscribe-box {
+	margin-top: 5em;
+	font-size: 0.8em;
+}
+
+.subscribe-promo {
+	margin-bottom: 0.5em;
+	color: gray;
 }
