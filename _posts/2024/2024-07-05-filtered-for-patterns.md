@@ -1,5 +1,5 @@
 ---
-date: 2024-07-03 08:37 
+date: 2024-07-05 11:29
 title: filtered for pattern recognition
 layout: links
 tags: 
