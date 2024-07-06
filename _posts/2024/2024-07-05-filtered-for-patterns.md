@@ -12,12 +12,13 @@ tags:
 description: "Patterns in Rorsachs, tiling and fireworks"
 ---
 
+[![Rorschach](/assets/2024/rorschach.jpg)](https://www.theparisreview.org/blog/2024/07/03/rorschach/)
+
 Poet Diana Garza Islas, in the Paris Review, [Rorschach](https://www.theparisreview.org/blog/2024/07/03/rorschach/):
 
-> [![Rorschach](/assets/2024/rorschach.jpg)](https://www.theparisreview.org/blog/2024/07/03/rorschach/)
-> 
 > Two monkeys with wings defecate suspending a ballerina whose skull is split. Her tutu reveals thighs from the fifties, toned. Their hands are on her poor wounded head; she has no feet. One of the monkeys, the one on the left, has a badly defined jawline. The woman has a perforated abdomen.
 
+---
 
 Janna Levin talking with Natalie Priebe Frank in Quanta, [What Can Tiling Patterns Teach Us?](https://www.quantamagazine.org/what-can-tiling-patterns-teach-us-20240703/):
 
@@ -35,10 +36,11 @@ Janna Levin talking with Natalie Priebe Frank in Quanta, [What Can Tiling Patter
 
 {% include youtube.html id="iNaEP2dfeVo" %}
 
+---
+
+[![Fireworks](/assets/2024/kalina-fireworks.jpg)](https://noahkalina.substack.com/p/newsletter-154-quiet-please)
 
 Finally, Noah Kalina [on fireworks](https://noahkalina.substack.com/p/newsletter-154-quiet-please): 
 
 > I used to be obsessed with fireworks. Fountains specifically. You know, the kind that only go about ten feet high. Was it because I was born on the fourth of July? Probably not. I liked fireworks for the same reason most people like them. I enjoyed fireworks for their hypnotic visual displays and their captivating booms and crackles. They have an undeniably mesmerizing effect. Also, fireworks are often associated with celebrations and communal gatherings, evoking feelings of nostalgia, joy, and togetherness. I think those are the normal and healthy reasons to like fireworks.
-> 
-> [![Fireworks](/assets/2024/kalina-fireworks.jpg)](https://noahkalina.substack.com/p/newsletter-154-quiet-please)
 
