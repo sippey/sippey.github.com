@@ -168,6 +168,20 @@ blockquote {
 	}
 }
 
+.post blockquote strong {
+	font-weight: normal;
+	background-color: #cce6ff;
+	color: #333;
+}
+
+@media (prefers-color-scheme: dark) {
+	.post blockquote strong {
+		background-color: darkslateblue;
+		color: lightgray;
+	}
+}
+
+
 
 #footer {
 	margin-top : 100px;
