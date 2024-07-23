@@ -20,5 +20,3 @@ M.G. Siegler at Spyglass (my favorite tech blog right now, bar none), [writing a
 Emphasis mine. The talk itself is absolutely worth watching, and it's wild trying to imagine a time when most of the audience present didn't yet own personal computer, Apple or otherwise. I love this bit (especially because I'm currently reading the early chapters of Chris Miller's _[Chip War](https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002)_):
 
 > Third thing about computers: they're really dumb. They're exceptionally simple. But they're _really fast_.
-
-(publish this 7/23/2024)
