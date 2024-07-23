@@ -17,7 +17,7 @@ M.G. Siegler at Spyglass (my favorite tech blog right now, bar none), [writing a
 >
 > Too many of our current crop of entrepreneurs and CEOs just cannot do this for whatever reason. So many over the years have tried to emulated such abilities for obvious reasons, but **they may mimic the look and feel of such a talk, but can't copy the underlying empathy that seems to exist within Jobs in these settings**. You can say it's an act, but it works. Over every talk. Over years and years. Time and time again. It's both a command of what he's talking about and an ability to convey true belief in what he's talking about. Mixed with a way to make it all relatable to seemingly every person in the room.
 
-Emphasis mine. The talk itself is absolutely worth watching, and it's hard trying to imagine a time when most of the audience present didn't yet own personal computer, Apple or otherwise. I love this bit (especially because I'm currently reading the early chapters of Chris Miller's _[Chip War](https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002)_):
+Emphasis mine. The talk itself is absolutely worth watching, and it's wild trying to imagine a time when most of the audience present didn't yet own personal computer, Apple or otherwise. I love this bit (especially because I'm currently reading the early chapters of Chris Miller's _[Chip War](https://www.amazon.com/Chip-War-Worlds-Critical-Technology/dp/1982172002)_):
 
 > Third thing about computers: they're really dumb. They're exceptionally simple. But they're _really fast_.
 
