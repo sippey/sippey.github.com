@@ -22,22 +22,22 @@ Ten links, no context.
 
 Hey ChatGPT, write a sonnet based on these:
 
-> In lands where dragons soar and legends rise,
-> A governor instructs in driving’s art.
-> Phyllis, a specter, dons a bold disguise,
+> In lands where dragons soar and legends rise,<br />
+> A governor instructs in driving’s art.<br />
+> Phyllis, a specter, dons a bold disguise,<br />
 > Her laughter echoes, playing every part.
 > 
-> Medieval beats from times long past now play,
-> A symphony of dreams both strange and bright.
-> Forgotten realms in twilight’s soft decay,
+> Medieval beats from times long past now play,<br />
+> A symphony of dreams both strange and bright.<br />
+> Forgotten realms in twilight’s soft decay,<br />
 > Give way to tales that shimmer in the night.
 > 
-> Through apps that mimic friends, we find our way,
-> In digital embraces, cold and new.
-> Yet pink armadillos in the clay,
+> Through apps that mimic friends, we find our way,<br />
+> In digital embraces, cold and new.<br />
+> Yet pink armadillos in the clay,<br />
 > Remind us of the wonder that is true.
 > 
-> With letters penned and bicycles restored,
+> With letters penned and bicycles restored,<br />
 > We craft our lives in worlds both real and scored.
 
 OK, computer.
