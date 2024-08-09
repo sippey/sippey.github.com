@@ -5,7 +5,7 @@
     <title>Electoral College Pong Wars</title>
     <meta
       name="description"
-      content="The eternal battle between Biden and Trump. Written in JavaScript with some HTML & CSS in one index.html. Feel free to reuse the code and create your own version."
+      content="The eternal battle between Harris and Trump. Written in JavaScript with some HTML & CSS in one index.html. Feel free to reuse the code and create your own version."
     />
     <link rel="canonical" href="https://pong-wars.koenvangilst.nl/" />
     <link rel="author" href="https://koenvangilst.nl" />
@@ -92,7 +92,7 @@
     const colorPalette = {
       DemocraticBlue: "#0729f9",
       RepublicanRed: "#fe0101",
-      DemocraticBall: "#ffffff",
+      DemocraticBall: "#8ACE00",
       RepublicanBall: "#ffffff",
     };
 
@@ -116,7 +116,7 @@
     let dayScore = 0;
     let nightScore = 0;
     let totalScore = 0;
-    let bidenScore = 0.0;
+    let harrisScore = 0.0;
     let trumpScore = 0.0;
 
     const squares = [];
@@ -177,8 +177,8 @@
           if (squares[i][j] === DAY_COLOR) dayScore++;
           if (squares[i][j] === NIGHT_COLOR) nightScore++;
           totalScore = dayScore + nightScore;
-          bidenScore = Math.floor((dayScore / (dayScore + nightScore)) * electoralCollege);
-          trumpScore = electoralCollege - bidenScore; 
+          harrisScore = Math.floor((dayScore / (dayScore + nightScore)) * electoralCollege);
+          trumpScore = electoralCollege - harrisScore; 
 
 
         }
@@ -244,7 +244,7 @@
       ctx.clearRect(0, 0, canvas.width, canvas.height);
       drawSquares();
 
-      scoreElement.textContent = `biden ${bidenScore} | trump ${trumpScore}`;
+      scoreElement.textContent = `harris ${harrisScore} | trump ${trumpScore}`;
 
       balls.forEach((ball) => {
         drawBall(ball);
